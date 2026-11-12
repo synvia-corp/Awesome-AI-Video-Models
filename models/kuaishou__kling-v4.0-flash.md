@@ -6,8 +6,8 @@ Prices are USD **per second** of generated video, provider list price before the
 
 | Provider | 720p |
 |---|---:|
-| Atlas Cloud | **$0.0857** |
 | Fal | $0.094 |
+| Atlas Cloud | **$0.0857** |
 | Runware | $0.094 |
 | WaveSpeedAI | $0.094 |
 

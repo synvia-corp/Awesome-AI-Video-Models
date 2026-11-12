@@ -6,12 +6,13 @@ Prices are USD **per second** of generated video, provider list price before the
 
 | Provider | 480p | 540p | 768p | 1080p | 1080p-esr | 1440p | 1440p-esr | 2k | 2160p | 4k-esr |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| Fal | $0.05 | – | $0.06 | – | – | – | – | $0.13 | $0.16 | – |
+| Higgsfield † | – | – | – | – | – | $0.13 | – | – | – | – |
 | Atlas Cloud | **$0.038** | – | $0.08 | **$0.08** | $0.105 | **$0.08** | $0.115 | $0.13 | **$0.08** | $0.195 |
 | kie.ai | – | – | **$0.04** | – | – | – | – | **$0.065** | – | – |
 | WaveSpeedAI | $0.04 | $0.06 | $0.08 | $0.16 | – | – | – | – | – | – |
 | MachGen | $0.044 | – | $0.05 | – | – | $0.125 | – | – | – | – |
 | SandBase | – | – | $0.048 | – | – | – | – | $0.104 | – | – |
-| Fal | $0.05 | – | $0.06 | – | – | – | – | $0.13 | $0.16 | – |
 | OpenSand | – | – | $0.053 | – | – | – | – | $0.0862 | – | – |
 | Novita | – | – | $0.069 | – | – | – | – | $0.1104 | – | – |
 | MiniMax | – | – | $0.08 | – | – | – | – | $0.13 | – | – |
@@ -19,7 +20,6 @@ Prices are USD **per second** of generated video, provider list price before the
 | Replicate | – | – | $0.08 | – | – | – | – | $0.13 | – | – |
 | TOAPIS | – | – | $0.08 | – | – | – | – | $0.13 | – | – |
 | WaveSpeedAI-resell | – | – | $0.1 | – | – | – | – | $0.14 | – | – |
-| Higgsfield † | – | – | – | – | – | $0.13 | – | – | – | – |
 
 † Higgsfield is not available through VideoRouter — reference list price only, never counted as the cheapest host.
 

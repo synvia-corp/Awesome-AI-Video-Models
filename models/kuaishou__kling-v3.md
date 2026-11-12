@@ -6,12 +6,12 @@ Prices are USD **per second** of generated video, provider list price before the
 
 | Provider | 720p | 1080p | 2160p | any |
 |---|---:|---:|---:|---:|
+| Higgsfield † | $0.0714 | $0.0962 | – | – |
 | SandBase | **$0.0588** | **$0.0784** | **$0.294** | – |
 | TOAPIS | $0.06 | $0.08 | – | – |
 | MachGen | $0.068 | $0.0901 | $0.3366 | – |
 | Pika | $0.068 | $0.09 | – | – |
 | kie.ai | $0.07 | $0.09 | $0.335 | – |
-| Higgsfield † | $0.0714 | $0.0962 | – | – |
 | Novita | $0.084 | $0.112 | $0.42 | – |
 | WaveSpeedAI | $0.084 | $0.112 | $0.42 | $0.084 |
 | OpenRouter | $0.14 | – | – | – |

@@ -6,9 +6,9 @@ Prices are USD **per second** of generated video, provider list price before the
 
 | Provider | any |
 |---|---:|
+| Fal | $0.13 |
 | Google | **$0.1** |
 | Atlas Cloud | $0.125 |
-| Fal | $0.13 |
 | WaveSpeedAI | $0.13 |
 
 **[Call gemini-omni-flash through one API →](https://videorouter.sh/video/google/gemini-omni-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-video-models&utm_content=model-page)** · [Live price index](https://videorouter.sh/pricing-index?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-video-models&utm_content=model-page) · [← All models](../README.md)

@@ -6,9 +6,9 @@ Prices are USD **per second** of generated video, provider list price before the
 
 | Provider | 1080p | any | pro | std |
 |---|---:|---:|---:|---:|
+| Higgsfield † | $0.0666 | – | – | – |
 | WaveSpeedAI | – | $0.042 | $0.14 | **$0.042** |
 | Kling | – | – | – | $0.062 |
-| Higgsfield † | $0.0666 | – | – | – |
 
 † Higgsfield is not available through VideoRouter — reference list price only, never counted as the cheapest host.
 
