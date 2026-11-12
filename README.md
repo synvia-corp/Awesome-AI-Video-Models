@@ -10,25 +10,25 @@ The same video model is often sold by many API providers at very different price
 
 ## Biggest price gaps right now
 
-Cheapest provider vs. the Fal list price for the same model and resolution (when Fal doesn't list that tier, vs. the priciest provider). *Via VideoRouter* includes the 2.5% platform fee, so the saving is net.
+Cheapest provider vs. the Fal list price for the same model and resolution (when Fal doesn't list that tier, vs. the priciest provider). *Via VideoRouter* includes the 2.5% platform fee, so the saving is net. † Higgsfield's own list price for the same model and resolution, shown for reference (not available through VideoRouter, never counted as the cheapest host).
 
-| Model | Tier | Cheapest provider | List $/s | Via VideoRouter $/s | Baseline $/s | Saving |
-|---|---|---|---:|---:|---:|---:|
-| [seedance-2.5](models/bytedance__seedance-2.5.md) | 720p | SoCheap-Overseas | $0.137 | $0.1404 | $0.473 (Fal) | **70.3%** |
-| [seedance-2.0](models/bytedance__seedance-2.0.md) | 720p | SoCheap-Overseas | $0.0896 | $0.0918 | $0.3034 (Fal) | **69.7%** |
-| [wan-3.0](models/alibaba__wan-3.0.md) | 480p | Replicate | $0.025 | $0.0256 | $0.05 (Fal) | **48.8%** |
-| [gemini-omni-flash](models/google__gemini-omni-flash.md) | any | Google | $0.1 | $0.1025 | $0.13 (Fal) | **21.2%** |
-| [minimax/h3](models/minimax__h3.md) | 1080p | Atlas Cloud | $0.08 | $0.082 | $0.16 (WaveSpeedAI) | **48.8%** |
-| [happyhorse-1.1](models/alibaba__happyhorse-1.1.md) | 1080p | Pika | $0.126 | $0.1291 | $0.213 (OpenRouter) | **39.4%** |
-| [grok-imagine-video](models/xai__grok-imagine-video.md) | 720p | WaveSpeedAI | $0.05 | $0.0512 | $0.7 (xAI) | **92.7%** |
-| [grok-imagine-video-1.5](models/xai__grok-imagine-video-1.5.md) | 480p | OpenRouter | $0.08 | $0.082 | $0.8 (xAI) | **89.8%** |
-| [seedance-2.0-mini](models/bytedance__seedance-2.0-mini.md) | 480p | Atlas Cloud | $0.0112 | $0.0115 | $0.0721 (Fal) | **84%** |
-| [seedance-2.0-fast](models/bytedance__seedance-2.0-fast.md) | 1080p | Atlas Cloud | $0.1306 | $0.1339 | $0.5 (WaveSpeedAI) | **73.2%** |
-| [luma-ray-3.2](models/luma__luma-ray-3.2.md) | 540p | Luma | $0.03 | $0.0307 | $0.1 (SandBase) | **69.2%** |
-| [ltx-2.3-pro](models/lightricks__ltx-2.3-pro.md) | 2160p | MachGen | $0.1 | $0.1025 | $0.32 (SandBase) | **68%** |
-| [pixverse-v6-max](models/pixverse__pixverse-v6-max.md) | 360p | Atlas Cloud | $0.024 | $0.0246 | $0.06 (Replicate) | **59%** |
-| [vidu-q3](models/shengshu__vidu-q3.md) | 540p | Runware | $0.0293 | $0.03 | $0.07 (SandBase) | **57.2%** |
-| [kling-v3](models/kuaishou__kling-v3.md) | 720p | SandBase | $0.0588 | $0.0603 | $0.14 (OpenRouter) | **57%** |
+| Model | Tier | Cheapest provider | List $/s | Via VideoRouter $/s | Baseline $/s | Higgsfield $/s † | Saving |
+|---|---|---|---:|---:|---:|---:|---:|
+| [seedance-2.5](models/bytedance__seedance-2.5.md) | 720p | SoCheap-Overseas | $0.137 | $0.1404 | $0.473 (Fal) | $0.2647 | **70.3%** |
+| [seedance-2.0](models/bytedance__seedance-2.0.md) | 720p | SoCheap-Overseas | $0.0896 | $0.0918 | $0.3034 (Fal) | $0.1735 | **69.7%** |
+| [wan-3.0](models/alibaba__wan-3.0.md) | 480p | Replicate | $0.025 | $0.0256 | $0.05 (Fal) | $0.0375 | **48.8%** |
+| [gemini-omni-flash](models/google__gemini-omni-flash.md) | any | Google | $0.1 | $0.1025 | $0.13 (Fal) | – | **21.2%** |
+| [minimax/h3](models/minimax__h3.md) | 1080p | Atlas Cloud | $0.08 | $0.082 | $0.16 (WaveSpeedAI) | – | **48.8%** |
+| [happyhorse-1.1](models/alibaba__happyhorse-1.1.md) | 1080p | Pika | $0.126 | $0.1291 | $0.213 (OpenRouter) | – | **39.4%** |
+| [grok-imagine-video](models/xai__grok-imagine-video.md) | 720p | WaveSpeedAI | $0.05 | $0.0512 | $0.7 (xAI) | – | **92.7%** |
+| [grok-imagine-video-1.5](models/xai__grok-imagine-video-1.5.md) | 480p | OpenRouter | $0.08 | $0.082 | $0.8 (xAI) | – | **89.8%** |
+| [seedance-2.0-mini](models/bytedance__seedance-2.0-mini.md) | 480p | Atlas Cloud | $0.0112 | $0.0115 | $0.0721 (Fal) | – | **84%** |
+| [seedance-2.0-fast](models/bytedance__seedance-2.0-fast.md) | 1080p | Atlas Cloud | $0.1306 | $0.1339 | $0.5 (WaveSpeedAI) | – | **73.2%** |
+| [luma-ray-3.2](models/luma__luma-ray-3.2.md) | 540p | Luma | $0.03 | $0.0307 | $0.1 (SandBase) | – | **69.2%** |
+| [ltx-2.3-pro](models/lightricks__ltx-2.3-pro.md) | 2160p | MachGen | $0.1 | $0.1025 | $0.32 (SandBase) | – | **68%** |
+| [pixverse-v6-max](models/pixverse__pixverse-v6-max.md) | 360p | Atlas Cloud | $0.024 | $0.0246 | $0.06 (Replicate) | – | **59%** |
+| [vidu-q3](models/shengshu__vidu-q3.md) | 540p | Runware | $0.0293 | $0.03 | $0.07 (SandBase) | – | **57.2%** |
+| [kling-v3](models/kuaishou__kling-v3.md) | 720p | SandBase | $0.0588 | $0.0603 | $0.14 (OpenRouter) | $0.0714 | **57%** |
 
 > **Prices change every week.** This repo is a snapshot — the always-current, sortable version is the [VideoRouter Price Index](https://videorouter.sh/pricing-index?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-video-models&utm_content=gaps) ([JSON](https://videorouter.sh/pricing-index.json?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-video-models&utm_content=gaps) · [CSV](https://videorouter.sh/pricing-index.csv?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-video-models&utm_content=gaps)). ⭐ **Star this repo** to follow updates.
 
@@ -99,7 +99,7 @@ Cheapest provider vs. the Fal list price for the same model and resolution (when
 | [kling-ai-avatar-v2-standard](models/kuaishou__kling-ai-avatar-v2-standard.md) | Kuaishou | 2 | any | $0.056/s |
 | [kling-motion-control](models/kuaishou__kling-motion-control.md) | Kuaishou | 2 | pro, std | $0.1071/s |
 | [kling-o3](models/kuaishou__kling-o3.md) | Kuaishou | 3 | 720p, 1080p, 2160p, any | $0.0588/s |
-| [kling-v2.6](models/kuaishou__kling-v2.6.md) | Kuaishou | 2 | any, pro, std | $0.042/s |
+| [kling-v2.6](models/kuaishou__kling-v2.6.md) | Kuaishou | 2 | 1080p, any, pro, std | $0.042/s |
 | [kling-v2.6-motion-control](models/kuaishou__kling-v2.6-motion-control.md) | Kuaishou | 1 | pro, std | $0.0595/s |
 | [kling-v3](models/kuaishou__kling-v3.md) | Kuaishou | 8 | 720p, 1080p, 2160p, any | $0.0588/s |
 | [kling-v3-omni-video](models/kuaishou__kling-v3-omni-video.md) | Kuaishou | 1 | 2160p, pro, standard | $0.168/s |
@@ -386,6 +386,7 @@ Expand a model to see **every** provider's price for **every** resolution (USD p
 | SandBase | $0.03 | $0.06 | – | $0.12 | – | – | – | – | – |
 | TOAPIS | $0.03 | $0.06 | – | $0.12 | – | – | – | – | – |
 | Pika | $0.0325 | $0.065 | – | $0.13 | – | – | – | – | – |
+| Higgsfield † | $0.0375 | $0.075 | – | $0.15 | – | – | – | – | – |
 | Atlas Cloud | $0.04 | $0.08 | $0.064 | $0.16 | $0.128 | $0.16 | $0.2752 | $0.16 | $0.5917 |
 | MuleRouter | $0.04 | $0.08 | – | $0.16 | – | – | – | – | – |
 | MachGen | $0.0416 | $0.0816 | – | $0.1623 | – | – | – | – | – |
@@ -394,6 +395,8 @@ Expand a model to see **every** provider's price for **every** resolution (USD p
 | WaveSpeedAI | $0.05 | $0.1 | – | $0.2 | – | – | – | – | – |
 | OpenRouter | $0.1062 | $0.2125 | – | $0.425 | – | – | – | – | – |
 | DeepInfra | – | – | – | $0.2 | – | – | – | – | – |
+
+† Higgsfield is not available through VideoRouter — reference list price only, never counted as the cheapest host.
 
 [Details](models/alibaba__wan-3.0.md) · [**Call wan-3.0 via VideoRouter →**](https://videorouter.sh/video/alibaba/wan-3.0?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-video-models&utm_content=compare)
 
@@ -404,6 +407,7 @@ Expand a model to see **every** provider's price for **every** resolution (USD p
 | Provider | 480p | 720p | 720p-esr | 1080p | 1080p-esr | 1440p | 1440p-esr | 2160p | 4k-esr |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
 | SandBase | **$0.0408** | **$0.084** | – | **$0.168** | – | – | – | – | – |
+| Higgsfield † | $0.051 | $0.105 | – | $0.21 | – | – | – | – | – |
 | Pika | $0.051 | $0.105 | – | $0.21 | – | – | – | – | – |
 | MuleRouter | $0.0578 | $0.119 | – | $0.238 | – | – | – | – | – |
 | Atlas Cloud | $0.0612 | $0.126 | $0.1008 | $0.252 | $0.2016 | $0.252 | $0.4334 | $0.252 | $0.9319 |
@@ -411,6 +415,8 @@ Expand a model to see **every** provider's price for **every** resolution (USD p
 | Fal | $0.068 | $0.14 | – | $0.28 | – | – | – | – | – |
 | WaveSpeedAI | $0.075 | $0.15 | – | $0.3 | – | – | – | – | – |
 | OpenRouter | $0.17 | $0.35 | – | $0.7 | – | – | – | – | – |
+
+† Higgsfield is not available through VideoRouter — reference list price only, never counted as the cheapest host.
 
 [Details](models/alibaba__wan-3.0-prime.md) · [**Call wan-3.0-prime via VideoRouter →**](https://videorouter.sh/video/alibaba/wan-3.0-prime?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-video-models&utm_content=compare)
 
@@ -529,11 +535,14 @@ Expand a model to see **every** provider's price for **every** resolution (USD p
 | TOAPIS | $0.066 | $0.1419 | – | $0.3543 | – | – | $0.7684 |
 | OpenRouter | $0.0673 | $0.1512 | – | $0.3742 | – | – | $0.7776 |
 | Replicate | $0.08 | $0.18 | – | $0.45 | – | – | $1 |
+| Higgsfield † | $0.0804 | $0.1735 | – | $0.4293 | – | – | $0.8907 |
 | SoCheap-Overseas | – | **$0.0896** | – | – | – | – | – |
 | Atlas Cloud | $0.09 | $0.1935 | $0.162 | $0.4355 | $0.3484 | $0.6193 | $1.241 |
 | SandBase | $0.096 | $0.192 | – | $0.48 | – | – | $0.96 |
 | WaveSpeedAI | $0.12 | $0.24 | – | $0.6 | – | – | $1.2 |
 | Fal | $0.1345 | $0.3034 | – | $0.682 | – | – | $1.5552 |
+
+† Higgsfield is not available through VideoRouter — reference list price only, never counted as the cheapest host.
 
 [Details](models/bytedance__seedance-2.0.md) · [**Call seedance-2.0 via VideoRouter →**](https://videorouter.sh/video/bytedance/seedance-2.0?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-video-models&utm_content=compare)
 
@@ -584,12 +593,15 @@ Expand a model to see **every** provider's price for **every** resolution (USD p
 | TOAPIS | $0.1004 | $0.2175 | – | – | $0.5391 | – | – | – | – | – | – | – |
 | Replicate | $0.1028 | $0.2312 | – | – | – | – | – | – | – | – | – | – |
 | OpenRouter | $0.1028 | $0.2311 | – | – | $0.52 | – | – | – | – | – | $2.0801 | – |
+| Higgsfield † | $0.1177 | $0.2647 | – | – | $0.6518 | – | – | – | – | – | – | – |
 | SoCheap-Overseas | – | **$0.137** | – | – | – | – | – | – | – | – | – | – |
 | Atlas Cloud | $0.1397 | $0.3005 | $0.2515 | $0.2193 | $0.5914 | $0.4507 | $0.4958 | $0.4056 | $0.7602 | $0.7 | – | $1.7006 |
 | SandBase | $0.144 | $0.288 | – | – | $0.72 | – | – | – | – | – | – | – |
 | WaveSpeedAI | $0.162 | $0.324 | – | – | $0.81 | – | – | – | – | – | **$1.62** | – |
 | Fal | $0.2205 | $0.473 | – | – | $1.164 | – | – | – | – | – | – | – |
 | Fal-US | $0.2205 | $0.473 | – | – | – | – | – | – | – | – | – | – |
+
+† Higgsfield is not available through VideoRouter — reference list price only, never counted as the cheapest host.
 
 [Details](models/bytedance__seedance-2.5.md) · [**Call seedance-2.5 via VideoRouter →**](https://videorouter.sh/video/bytedance/seedance-2.5?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-video-models&utm_content=compare)
 
@@ -858,10 +870,13 @@ Expand a model to see **every** provider's price for **every** resolution (USD p
 
 <details><summary><b>Kuaishou kling-v2.6</b> — 2 hosts, from $0.042/s</summary>
 
-| Provider | any | pro | std |
-|---|---:|---:|---:|
-| WaveSpeedAI | $0.042 | $0.14 | **$0.042** |
-| Kling | – | – | $0.062 |
+| Provider | 1080p | any | pro | std |
+|---|---:|---:|---:|---:|
+| WaveSpeedAI | – | $0.042 | $0.14 | **$0.042** |
+| Kling | – | – | – | $0.062 |
+| Higgsfield † | $0.0666 | – | – | – |
+
+† Higgsfield is not available through VideoRouter — reference list price only, never counted as the cheapest host.
 
 [Details](models/kuaishou__kling-v2.6.md) · [**Call kling-v2.6 via VideoRouter →**](https://videorouter.sh/video/kuaishou/kling-v2.6?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-video-models&utm_content=compare)
 
@@ -886,9 +901,12 @@ Expand a model to see **every** provider's price for **every** resolution (USD p
 | MachGen | $0.068 | $0.0901 | $0.3366 | – |
 | Pika | $0.068 | $0.09 | – | – |
 | kie.ai | $0.07 | $0.09 | $0.335 | – |
+| Higgsfield † | $0.0714 | $0.0962 | – | – |
 | Novita | $0.084 | $0.112 | $0.42 | – |
 | WaveSpeedAI | $0.084 | $0.112 | $0.42 | $0.084 |
 | OpenRouter | $0.14 | – | – | – |
+
+† Higgsfield is not available through VideoRouter — reference list price only, never counted as the cheapest host.
 
 [Details](models/kuaishou__kling-v3.md) · [**Call kling-v3 via VideoRouter →**](https://videorouter.sh/video/kuaishou/kling-v3?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-video-models&utm_content=compare)
 
@@ -930,6 +948,7 @@ Expand a model to see **every** provider's price for **every** resolution (USD p
 
 | Provider | 720p | 1080p | 1080p-esr | 2k | 2160p | 4k-esr |
 |---|---:|---:|---:|---:|---:|---:|
+| Higgsfield † | $0.1257 | $0.1879 | – | – | – | – |
 | MachGen | **$0.1335** | **$0.1998** | – | – | – | – |
 | SandBase | **$0.1335** | **$0.1998** | – | – | – | – |
 | Atlas Cloud | $0.1429 | $0.2139 | $0.182 | $0.2139 | $0.2139 | $0.364 |
@@ -938,6 +957,8 @@ Expand a model to see **every** provider's price for **every** resolution (USD p
 | Runware | $0.157 | $0.235 | – | – | – | – |
 | TOAPIS | $0.157 | $0.235 | – | – | – | – |
 | WaveSpeedAI | $0.157 | $0.235 | – | – | – | – |
+
+† Higgsfield is not available through VideoRouter — reference list price only, never counted as the cheapest host.
 
 [Details](models/kuaishou__kling-v4.0.md) · [**Call kling-v4.0 via VideoRouter →**](https://videorouter.sh/video/kuaishou/kling-v4.0?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-video-models&utm_content=compare)
 
@@ -1216,6 +1237,9 @@ Expand a model to see **every** provider's price for **every** resolution (USD p
 | Replicate | – | – | $0.08 | – | – | – | – | $0.13 | – | – |
 | TOAPIS | – | – | $0.08 | – | – | – | – | $0.13 | – | – |
 | WaveSpeedAI-resell | – | – | $0.1 | – | – | – | – | $0.14 | – | – |
+| Higgsfield † | – | – | – | – | – | $0.13 | – | – | – | – |
+
+† Higgsfield is not available through VideoRouter — reference list price only, never counted as the cheapest host.
 
 [Details](models/minimax__h3.md) · [**Call minimax/h3 via VideoRouter →**](https://videorouter.sh/video/minimax/h3?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-video-models&utm_content=compare)
 
@@ -1700,6 +1724,7 @@ print(sorted((p['prices'].get('720p', 9), p['provider']) for p in m['providers']
 - **Unit:** USD per second of generated video, per resolution tier. A provider that sells one flat rate for all resolutions is filed under its known tier, or `any`.
 - **Price:** the provider's list price — what it charges, before any platform fee. If a provider has several variants of one model (e.g. an image-to-video SKU), the cheapest is shown.
 - **Source:** generated from the live [VideoRouter](https://videorouter.sh/models) catalog, which is checked against each provider's published rates and billed amounts. See [`docs/methodology.md`](docs/methodology.md).
+- **Reference row:** Higgsfield's own list price (marked †) is shown for the models it sells, from its public estimate API. It is not available through VideoRouter and is never counted as the cheapest host.
 - **Scope:** every safe-for-work video model. Adult/NSFW-capable models are not listed. Models whose cost depends on the input clip (video upscalers) are listed with the price shown as *varies by input clip*. Latency, reliability and quality columns are on the roadmap, not in this release.
 
 Found a wrong or stale price, or a missing model/provider? Open an issue or PR — see [CONTRIBUTING.md](CONTRIBUTING.md).

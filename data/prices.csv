@@ -1,778 +1,797 @@
-model,creator,provider,tier,usd_per_second
-Pixverse/Pixverse-6-T2V,PixVerse,DeepInfra,any,0.045
-Wan-AI/Wan2.2-I2V-A14B,Alibaba,SiliconFlow,any,0.057284
-Wan-AI/Wan2.2-T2V-A14B,Alibaba,SiliconFlow,any,0.057284
-alibaba/happy-horse,Alibaba,Fal,720p,0.14
-alibaba/happy-horse,Alibaba,Fal,1080p,0.18
-alibaba/happyhorse-1.0,Alibaba,MachGen,720p,0.1122
-alibaba/happyhorse-1.0,Alibaba,MachGen,1080p,0.2244
-alibaba/happyhorse-1.0,Alibaba,OpenRouter,720p,0.1647
-alibaba/happyhorse-1.0,Alibaba,OpenRouter,1080p,0.2824
-alibaba/happyhorse-1.0,Alibaba,Pika,720p,0.098
-alibaba/happyhorse-1.0,Alibaba,Pika,1080p,0.168
-alibaba/happyhorse-1.0-i2v,Alibaba,Together AI,720p,0.14
-alibaba/happyhorse-1.0-i2v,Alibaba,Together AI,1080p,0.24
-alibaba/happyhorse-1.0-r2v,Alibaba,Together AI,720p,0.14
-alibaba/happyhorse-1.0-r2v,Alibaba,Together AI,1080p,0.24
-alibaba/happyhorse-1.0-t2v,Alibaba,Together AI,720p,0.14
-alibaba/happyhorse-1.0-t2v,Alibaba,Together AI,1080p,0.24
-alibaba/happyhorse-1.1,Alibaba,Alibaba,480p,0.07
-alibaba/happyhorse-1.1,Alibaba,Alibaba,720p,0.14
-alibaba/happyhorse-1.1,Alibaba,Alibaba,1080p,0.18
-alibaba/happyhorse-1.1,Alibaba,MachGen,720p,0.1122
-alibaba/happyhorse-1.1,Alibaba,MachGen,1080p,0.1445
-alibaba/happyhorse-1.1,Alibaba,OpenRouter,720p,0.1647
-alibaba/happyhorse-1.1,Alibaba,OpenRouter,1080p,0.213
-alibaba/happyhorse-1.1,Alibaba,Pika,720p,0.098
-alibaba/happyhorse-1.1,Alibaba,Pika,1080p,0.126
-alibaba/happyhorse-1.1,Alibaba,Replicate,720p,0.14
-alibaba/happyhorse-1.1,Alibaba,Replicate,1080p,0.18
-alibaba/happyhorse-1.1-i2v,Alibaba,Together AI,720p,0.14
-alibaba/happyhorse-1.1-i2v,Alibaba,Together AI,1080p,0.18
-alibaba/happyhorse-1.1-r2v,Alibaba,Together AI,720p,0.14
-alibaba/happyhorse-1.1-r2v,Alibaba,Together AI,1080p,0.18
-alibaba/happyhorse-1.1-t2v,Alibaba,Together AI,720p,0.14
-alibaba/happyhorse-1.1-t2v,Alibaba,Together AI,1080p,0.18
-alibaba/wan-2.2-a14b,Alibaba,MachGen,480p,0.018
-alibaba/wan-2.2-a14b,Alibaba,MachGen,720p,0.036
-alibaba/wan-2.2-animate-mix,Alibaba,Atlas Cloud,pro,0.182
-alibaba/wan-2.2-animate-mix,Alibaba,Atlas Cloud,std,0.126
-alibaba/wan-2.2-animate-move,Alibaba,Atlas Cloud,pro,0.126
-alibaba/wan-2.2-animate-move,Alibaba,Atlas Cloud,std,0.084
-alibaba/wan-2.5-extend,Alibaba,Atlas Cloud,480p,0.0525
-alibaba/wan-2.5-extend,Alibaba,Atlas Cloud,720p,0.105
-alibaba/wan-2.5-extend,Alibaba,Atlas Cloud,1080p,0.1575
-alibaba/wan-2.7-i2v,Alibaba,Together AI,any,0.02
-alibaba/wan-2.7-image,Alibaba,WaveSpeedAI,720p,0.1
-alibaba/wan-2.7-image,Alibaba,WaveSpeedAI,1080p,0.15
-alibaba/wan-2.7-pro,Alibaba,WaveSpeedAI,1080p,0.14
-alibaba/wan-2.7-pro,Alibaba,WaveSpeedAI,2k,0.15
-alibaba/wan-2.7-pro,Alibaba,WaveSpeedAI,2160p,0.17
-alibaba/wan-2.7-r2v,Alibaba,Together AI,any,0.02
-alibaba/wan-2.7-t2v,Alibaba,Together AI,any,0.02
-alibaba/wan-25-preview,Alibaba,Fal,480p,0.05
-alibaba/wan-25-preview,Alibaba,Fal,720p,0.1
-alibaba/wan-25-preview,Alibaba,Fal,1080p,0.15
-alibaba/wan-3.0,Alibaba,Alibaba,480p,0.05
-alibaba/wan-3.0,Alibaba,Alibaba,720p,0.1
-alibaba/wan-3.0,Alibaba,Alibaba,1080p,0.2
-alibaba/wan-3.0,Alibaba,Atlas Cloud,480p,0.04
-alibaba/wan-3.0,Alibaba,Atlas Cloud,720p,0.08
-alibaba/wan-3.0,Alibaba,Atlas Cloud,720p-esr,0.064
-alibaba/wan-3.0,Alibaba,Atlas Cloud,1080p,0.16
-alibaba/wan-3.0,Alibaba,Atlas Cloud,1080p-esr,0.128
-alibaba/wan-3.0,Alibaba,Atlas Cloud,1440p,0.16
-alibaba/wan-3.0,Alibaba,Atlas Cloud,1440p-esr,0.2752
-alibaba/wan-3.0,Alibaba,Atlas Cloud,2160p,0.16
-alibaba/wan-3.0,Alibaba,Atlas Cloud,4k-esr,0.59168
-alibaba/wan-3.0,Alibaba,DeepInfra,1080p,0.2
-alibaba/wan-3.0,Alibaba,Fal,480p,0.05
-alibaba/wan-3.0,Alibaba,Fal,720p,0.1
-alibaba/wan-3.0,Alibaba,Fal,1080p,0.2
-alibaba/wan-3.0,Alibaba,MachGen,480p,0.04165
-alibaba/wan-3.0,Alibaba,MachGen,720p,0.0816
-alibaba/wan-3.0,Alibaba,MachGen,1080p,0.16235
-alibaba/wan-3.0,Alibaba,MuleRouter,480p,0.04
-alibaba/wan-3.0,Alibaba,MuleRouter,720p,0.08
-alibaba/wan-3.0,Alibaba,MuleRouter,1080p,0.16
-alibaba/wan-3.0,Alibaba,OpenRouter,480p,0.10625
-alibaba/wan-3.0,Alibaba,OpenRouter,720p,0.2125
-alibaba/wan-3.0,Alibaba,OpenRouter,1080p,0.425
-alibaba/wan-3.0,Alibaba,Pika,480p,0.0325
-alibaba/wan-3.0,Alibaba,Pika,720p,0.065
-alibaba/wan-3.0,Alibaba,Pika,1080p,0.13
-alibaba/wan-3.0,Alibaba,Replicate,480p,0.025
-alibaba/wan-3.0,Alibaba,Replicate,720p,0.05
-alibaba/wan-3.0,Alibaba,Replicate,1080p,0.1
-alibaba/wan-3.0,Alibaba,SandBase,480p,0.03
-alibaba/wan-3.0,Alibaba,SandBase,720p,0.06
-alibaba/wan-3.0,Alibaba,SandBase,1080p,0.12
-alibaba/wan-3.0,Alibaba,TOAPIS,480p,0.03
-alibaba/wan-3.0,Alibaba,TOAPIS,720p,0.06
-alibaba/wan-3.0,Alibaba,TOAPIS,1080p,0.12
-alibaba/wan-3.0,Alibaba,WaveSpeedAI,480p,0.05
-alibaba/wan-3.0,Alibaba,WaveSpeedAI,720p,0.1
-alibaba/wan-3.0,Alibaba,WaveSpeedAI,1080p,0.2
-alibaba/wan-3.0-prime,Alibaba,Alibaba,480p,0.068
-alibaba/wan-3.0-prime,Alibaba,Alibaba,720p,0.14
-alibaba/wan-3.0-prime,Alibaba,Alibaba,1080p,0.28
-alibaba/wan-3.0-prime,Alibaba,Atlas Cloud,480p,0.0612
-alibaba/wan-3.0-prime,Alibaba,Atlas Cloud,720p,0.126
-alibaba/wan-3.0-prime,Alibaba,Atlas Cloud,720p-esr,0.1008
-alibaba/wan-3.0-prime,Alibaba,Atlas Cloud,1080p,0.252
-alibaba/wan-3.0-prime,Alibaba,Atlas Cloud,1080p-esr,0.2016
-alibaba/wan-3.0-prime,Alibaba,Atlas Cloud,1440p,0.252
-alibaba/wan-3.0-prime,Alibaba,Atlas Cloud,1440p-esr,0.43344
-alibaba/wan-3.0-prime,Alibaba,Atlas Cloud,2160p,0.252
-alibaba/wan-3.0-prime,Alibaba,Atlas Cloud,4k-esr,0.931896
-alibaba/wan-3.0-prime,Alibaba,Fal,480p,0.068
-alibaba/wan-3.0-prime,Alibaba,Fal,720p,0.14
-alibaba/wan-3.0-prime,Alibaba,Fal,1080p,0.28
-alibaba/wan-3.0-prime,Alibaba,MuleRouter,480p,0.0578
-alibaba/wan-3.0-prime,Alibaba,MuleRouter,720p,0.119
-alibaba/wan-3.0-prime,Alibaba,MuleRouter,1080p,0.238
-alibaba/wan-3.0-prime,Alibaba,OpenRouter,480p,0.17
-alibaba/wan-3.0-prime,Alibaba,OpenRouter,720p,0.35
-alibaba/wan-3.0-prime,Alibaba,OpenRouter,1080p,0.7
-alibaba/wan-3.0-prime,Alibaba,Pika,480p,0.051
-alibaba/wan-3.0-prime,Alibaba,Pika,720p,0.105
-alibaba/wan-3.0-prime,Alibaba,Pika,1080p,0.21
-alibaba/wan-3.0-prime,Alibaba,SandBase,480p,0.0408
-alibaba/wan-3.0-prime,Alibaba,SandBase,720p,0.084
-alibaba/wan-3.0-prime,Alibaba,SandBase,1080p,0.168
-alibaba/wan-3.0-prime,Alibaba,WaveSpeedAI,480p,0.075
-alibaba/wan-3.0-prime,Alibaba,WaveSpeedAI,720p,0.15
-alibaba/wan-3.0-prime,Alibaba,WaveSpeedAI,1080p,0.3
-black-forest-labs/flux-3,Black Forest Labs,Atlas Cloud,720p,0.187
-black-forest-labs/flux-3,Black Forest Labs,Atlas Cloud,1080p,0.319
-black-forest-labs/flux-3,Black Forest Labs,Black Forest Labs,720p,0.17
-black-forest-labs/flux-3,Black Forest Labs,Black Forest Labs,1080p,0.29
-black-forest-labs/flux-3,Black Forest Labs,OpenRouter,720p,0.17
-black-forest-labs/flux-3,Black Forest Labs,OpenRouter,1080p,0.29
-black-forest-labs/flux-3,Black Forest Labs,Replicate,720p,0.17
-black-forest-labs/flux-3,Black Forest Labs,Replicate,1080p,0.29
-black-forest-labs/flux-3,Black Forest Labs,Together AI,720p,0.17
-black-forest-labs/flux-3,Black Forest Labs,Together AI,1080p,0.29
-black-forest-labs/flux-3,Black Forest Labs,WaveSpeedAI,720p,0.17
-black-forest-labs/flux-3,Black Forest Labs,WaveSpeedAI,1080p,0.29
-black-forest-labs/flux-3-edit-video,Black Forest Labs,Atlas Cloud,any,0.033
-black-forest-labs/flux-3-edit-video,Black Forest Labs,Black Forest Labs,any,0.03
-black-forest-labs/flux-3-edit-video,Black Forest Labs,Fal,any,0.03
-black-forest-labs/flux-3-edit-video,Black Forest Labs,WaveSpeedAI,any,0.03
-black-forest-labs/flux-3-extend,Black Forest Labs,Atlas Cloud,720p,0.451
-black-forest-labs/flux-3-extend,Black Forest Labs,Atlas Cloud,1080p,0.583
-black-forest-labs/flux-3-extend,Black Forest Labs,Black Forest Labs,720p,0.41
-black-forest-labs/flux-3-extend,Black Forest Labs,Black Forest Labs,1080p,0.53
-black-forest-labs/flux-3-extend,Black Forest Labs,Fal,720p,0.41
-black-forest-labs/flux-3-extend,Black Forest Labs,Fal,1080p,0.53
-black-forest-labs/flux-3-extend,Black Forest Labs,WaveSpeedAI,720p,0.41
-black-forest-labs/flux-3-extend,Black Forest Labs,WaveSpeedAI,1080p,0.53
-boson/higgs-avatar,Boson AI,Boson AI,480x640,0.001167
-boson/higgs-avatar,Boson AI,Boson AI,640x480,0.001167
-boson/higgs-avatar,Boson AI,Boson AI,640x640,0.0015
-bytedance/doubao-seedance-1-0-pro-quality,ByteDance,TOAPIS,480p,0.02262
-bytedance/doubao-seedance-1-0-pro-quality,ByteDance,TOAPIS,720p,0.05237
-bytedance/doubao-seedance-1-0-pro-quality,ByteDance,TOAPIS,1080p,0.11372
-bytedance/omnihuman-v2,ByteDance,Atlas Cloud,any,0.0896
-bytedance/omnihuman-v2,ByteDance,Fal,any,0.105
-bytedance/seedance-1-5-pro,ByteDance,OpenRouter,480p,0.011529
-bytedance/seedance-1-5-pro,ByteDance,OpenRouter,720p,0.02592
-bytedance/seedance-1-5-pro,ByteDance,OpenRouter,1080p,0.05832
-bytedance/seedance-1-5-pro,ByteDance,TOAPIS,480p,0.0124
-bytedance/seedance-1-5-pro,ByteDance,TOAPIS,720p,0.02696
-bytedance/seedance-1-5-pro,ByteDance,TOAPIS,1080p,0.06073
-bytedance/seedance-2.0,ByteDance,Atlas Cloud,480p,0.089994
-bytedance/seedance-2.0,ByteDance,Atlas Cloud,720p,0.193536
-bytedance/seedance-2.0,ByteDance,Atlas Cloud,720p-sr,0.16199
-bytedance/seedance-2.0,ByteDance,Atlas Cloud,1080p,0.435456
-bytedance/seedance-2.0,ByteDance,Atlas Cloud,1080p-sr,0.348365
-bytedance/seedance-2.0,ByteDance,Atlas Cloud,1440p-sr,0.619315
-bytedance/seedance-2.0,ByteDance,Atlas Cloud,2160p,1.24105
-bytedance/seedance-2.0,ByteDance,Fal,480p,0.1345
-bytedance/seedance-2.0,ByteDance,Fal,720p,0.3034
-bytedance/seedance-2.0,ByteDance,Fal,1080p,0.682
-bytedance/seedance-2.0,ByteDance,Fal,2160p,1.5552
-bytedance/seedance-2.0,ByteDance,MachGen,480p,0.05976
-bytedance/seedance-2.0,ByteDance,MachGen,720p,0.12852
-bytedance/seedance-2.0,ByteDance,MachGen,1080p,0.31809
-bytedance/seedance-2.0,ByteDance,MachGen,2160p,0.66096
-bytedance/seedance-2.0,ByteDance,OpenRouter,480p,0.067252
-bytedance/seedance-2.0,ByteDance,OpenRouter,720p,0.151199
-bytedance/seedance-2.0,ByteDance,OpenRouter,1080p,0.37422
-bytedance/seedance-2.0,ByteDance,OpenRouter,2160p,0.7776
-bytedance/seedance-2.0,ByteDance,OpenSand,480p,0.059762
-bytedance/seedance-2.0,ByteDance,OpenSand,720p,0.12852
-bytedance/seedance-2.0,ByteDance,OpenSand,1080p,0.318087
-bytedance/seedance-2.0,ByteDance,OpenSand,2160p,0.60653
-bytedance/seedance-2.0,ByteDance,Replicate,480p,0.08
-bytedance/seedance-2.0,ByteDance,Replicate,720p,0.18
-bytedance/seedance-2.0,ByteDance,Replicate,1080p,0.45
-bytedance/seedance-2.0,ByteDance,Replicate,2160p,1
-bytedance/seedance-2.0,ByteDance,SandBase,480p,0.096
-bytedance/seedance-2.0,ByteDance,SandBase,720p,0.192
-bytedance/seedance-2.0,ByteDance,SandBase,1080p,0.48
-bytedance/seedance-2.0,ByteDance,SandBase,2160p,0.96
-bytedance/seedance-2.0,ByteDance,SoCheap-Official,480p,0.0592
-bytedance/seedance-2.0,ByteDance,SoCheap-Official,720p,0.1274
-bytedance/seedance-2.0,ByteDance,SoCheap-Official,1080p,0.3201
-bytedance/seedance-2.0,ByteDance,SoCheap-Overseas,720p,0.0896
-bytedance/seedance-2.0,ByteDance,TOAPIS,480p,0.066
-bytedance/seedance-2.0,ByteDance,TOAPIS,720p,0.14194
-bytedance/seedance-2.0,ByteDance,TOAPIS,1080p,0.35426
-bytedance/seedance-2.0,ByteDance,TOAPIS,2160p,0.76841
-bytedance/seedance-2.0,ByteDance,WaveSpeedAI,480p,0.12
-bytedance/seedance-2.0,ByteDance,WaveSpeedAI,720p,0.24
-bytedance/seedance-2.0,ByteDance,WaveSpeedAI,1080p,0.6
-bytedance/seedance-2.0,ByteDance,WaveSpeedAI,2160p,1.2
-bytedance/seedance-2.0-fast,ByteDance,Atlas Cloud,480p,0.026998
-bytedance/seedance-2.0-fast,ByteDance,Atlas Cloud,720p,0.058061
-bytedance/seedance-2.0-fast,ByteDance,Atlas Cloud,720p-sr,0.048597
-bytedance/seedance-2.0-fast,ByteDance,Atlas Cloud,1080p,0.130637
-bytedance/seedance-2.0-fast,ByteDance,Atlas Cloud,1080p-sr,0.104509
-bytedance/seedance-2.0-fast,ByteDance,Atlas Cloud,1440p-sr,0.185795
-bytedance/seedance-2.0-fast,ByteDance,Fal,any,0.2419
-bytedance/seedance-2.0-fast,ByteDance,MachGen,480p,0.04781
-bytedance/seedance-2.0-fast,ByteDance,MachGen,720p,0.10282
-bytedance/seedance-2.0-fast,ByteDance,OpenRouter,480p,0.040351
-bytedance/seedance-2.0-fast,ByteDance,OpenRouter,720p,0.09072
-bytedance/seedance-2.0-fast,ByteDance,OpenSand,480p,0.047809
-bytedance/seedance-2.0-fast,ByteDance,OpenSand,720p,0.102816
-bytedance/seedance-2.0-fast,ByteDance,Replicate,480p,0.07
-bytedance/seedance-2.0-fast,ByteDance,Replicate,720p,0.15
-bytedance/seedance-2.0-fast,ByteDance,SandBase,480p,0.085
-bytedance/seedance-2.0-fast,ByteDance,SandBase,720p,0.17
-bytedance/seedance-2.0-fast,ByteDance,TOAPIS,480p,0.0416
-bytedance/seedance-2.0-fast,ByteDance,TOAPIS,720p,0.089463
-bytedance/seedance-2.0-fast,ByteDance,WaveSpeedAI,480p,0.1
-bytedance/seedance-2.0-fast,ByteDance,WaveSpeedAI,720p,0.2
-bytedance/seedance-2.0-fast,ByteDance,WaveSpeedAI,1080p,0.5
-bytedance/seedance-2.0-fast,ByteDance,WaveSpeedAI,2160p,1
-bytedance/seedance-2.0-mini,ByteDance,Atlas Cloud,480p,0.011249
-bytedance/seedance-2.0-mini,ByteDance,Atlas Cloud,720p,0.024192
-bytedance/seedance-2.0-mini,ByteDance,Atlas Cloud,720p-sr,0.020249
-bytedance/seedance-2.0-mini,ByteDance,Atlas Cloud,1080p-sr,0.043546
-bytedance/seedance-2.0-mini,ByteDance,Atlas Cloud,1440p-sr,0.077414
-bytedance/seedance-2.0-mini,ByteDance,Fal,480p,0.0721
-bytedance/seedance-2.0-mini,ByteDance,Fal,720p,0.1547
-bytedance/seedance-2.0-mini,ByteDance,MachGen,480p,0.02988
-bytedance/seedance-2.0-mini,ByteDance,MachGen,720p,0.06426
-bytedance/seedance-2.0-mini,ByteDance,OpenRouter,480p,0.033626
-bytedance/seedance-2.0-mini,ByteDance,OpenRouter,720p,0.075599
-bytedance/seedance-2.0-mini,ByteDance,OpenSand,480p,0.029881
-bytedance/seedance-2.0-mini,ByteDance,OpenSand,720p,0.06426
-bytedance/seedance-2.0-mini,ByteDance,SandBase,480p,0.054
-bytedance/seedance-2.0-mini,ByteDance,SandBase,720p,0.108
-bytedance/seedance-2.0-mini,ByteDance,TOAPIS,480p,0.018964
-bytedance/seedance-2.0-mini,ByteDance,TOAPIS,720p,0.040782
-bytedance/seedance-2.0-mini,ByteDance,WaveSpeedAI,480p,0.06
-bytedance/seedance-2.0-mini,ByteDance,WaveSpeedAI,720p,0.12
-bytedance/seedance-2.0-mini,ByteDance,WaveSpeedAI,1080p,0.3
-bytedance/seedance-2.0-mini,ByteDance,WaveSpeedAI,2160p,0.6
-bytedance/seedance-2.5,ByteDance,Atlas Cloud,480p,0.139712
-bytedance/seedance-2.5,ByteDance,Atlas Cloud,720p,0.300456
-bytedance/seedance-2.5,ByteDance,Atlas Cloud,720p-esr,0.251482
-bytedance/seedance-2.5,ByteDance,Atlas Cloud,720p-sr,0.219348
-bytedance/seedance-2.5,ByteDance,Atlas Cloud,1080p,0.591365
-bytedance/seedance-2.5,ByteDance,Atlas Cloud,1080p-esr,0.450684
-bytedance/seedance-2.5,ByteDance,Atlas Cloud,1080p-esr & 60fps,0.495752
-bytedance/seedance-2.5,ByteDance,Atlas Cloud,1080p-sr,0.405616
-bytedance/seedance-2.5,ByteDance,Atlas Cloud,1440p-esr,0.760154
-bytedance/seedance-2.5,ByteDance,Atlas Cloud,1440p-sr,0.699999
-bytedance/seedance-2.5,ByteDance,Atlas Cloud,4k-esr,1.700581
-bytedance/seedance-2.5,ByteDance,Fal,480p,0.2205
-bytedance/seedance-2.5,ByteDance,Fal,720p,0.473
-bytedance/seedance-2.5,ByteDance,Fal,1080p,1.164
-bytedance/seedance-2.5,ByteDance,Fal-US,480p,0.2205
-bytedance/seedance-2.5,ByteDance,Fal-US,720p,0.473
-bytedance/seedance-2.5,ByteDance,MachGen,480p,0.08738
-bytedance/seedance-2.5,ByteDance,MachGen,720p,0.19645
-bytedance/seedance-2.5,ByteDance,MachGen,1080p,0.48333
-bytedance/seedance-2.5,ByteDance,OpenRouter,480p,0.1028
-bytedance/seedance-2.5,ByteDance,OpenRouter,720p,0.23112
-bytedance/seedance-2.5,ByteDance,OpenRouter,1080p,0.52002
-bytedance/seedance-2.5,ByteDance,OpenRouter,2160p,2.08008
-bytedance/seedance-2.5,ByteDance,OpenSand,480p,0.09135
-bytedance/seedance-2.5,ByteDance,OpenSand,720p,0.196452
-bytedance/seedance-2.5,ByteDance,OpenSand,1080p,0.483327
-bytedance/seedance-2.5,ByteDance,OpenSand,2160p,1.933308
-bytedance/seedance-2.5,ByteDance,Replicate,480p,0.1028
-bytedance/seedance-2.5,ByteDance,Replicate,720p,0.2312
-bytedance/seedance-2.5,ByteDance,SandBase,480p,0.144
-bytedance/seedance-2.5,ByteDance,SandBase,720p,0.288
-bytedance/seedance-2.5,ByteDance,SandBase,1080p,0.72
-bytedance/seedance-2.5,ByteDance,SoCheap-Official,480p,0.0862
-bytedance/seedance-2.5,ByteDance,SoCheap-Official,720p,0.1934
-bytedance/seedance-2.5,ByteDance,SoCheap-Official,1080p,0.4783
-bytedance/seedance-2.5,ByteDance,SoCheap-Overseas,720p,0.137
-bytedance/seedance-2.5,ByteDance,TOAPIS,480p,0.10044
-bytedance/seedance-2.5,ByteDance,TOAPIS,720p,0.2175
-bytedance/seedance-2.5,ByteDance,TOAPIS,1080p,0.5391
-bytedance/seedance-2.5,ByteDance,WaveSpeedAI,480p,0.162
-bytedance/seedance-2.5,ByteDance,WaveSpeedAI,720p,0.324
-bytedance/seedance-2.5,ByteDance,WaveSpeedAI,1080p,0.81
-bytedance/seedance-2.5,ByteDance,WaveSpeedAI,2160p,1.62
-bytedance/seedance-2.5-talking-avatar,ByteDance,WaveSpeedAI,480p,0.22
-bytedance/seedance-2.5-talking-avatar,ByteDance,WaveSpeedAI,720p,0.44
-creatify/boreal,Creatify,Fal,720p,0.01
-creatify/boreal,Creatify,Fal,1080p,0.03
-creatify/boreal,Creatify,Fal,2k,0.12
-fal/flux-3-max,Fal,Fal,720p,0.17
-fal/flux-3-max,Fal,Fal,1080p,0.29
-google/gemini-omni-1.1-flash,Google,Atlas Cloud,720p,0.099
-google/gemini-omni-1.1-flash,Google,Atlas Cloud,1080p,0.144
-google/gemini-omni-1.1-flash,Google,Atlas Cloud,2160p,0.279
-google/gemini-omni-1.1-flash,Google,Google,any,0.1
-google/gemini-omni-1.1-flash,Google,WaveSpeedAI,360p,0.03
-google/gemini-omni-1.1-flash,Google,WaveSpeedAI,720p,0.1
-google/gemini-omni-1.1-flash,Google,WaveSpeedAI,1080p,0.15
-google/gemini-omni-1.1-flash,Google,WaveSpeedAI,2160p,0.3
-google/gemini-omni-1.2-flash,Google,Atlas Cloud,720p,0.059635
-google/gemini-omni-1.2-flash,Google,Atlas Cloud,1080p,0.087437
-google/gemini-omni-1.2-flash,Google,Atlas Cloud,2160p,0.170842
-google/gemini-omni-1.2-flash,Google,Fal,360p,0.0273
-google/gemini-omni-1.2-flash,Google,Fal,720p,0.0819
-google/gemini-omni-1.2-flash,Google,Fal,1080p,0.1229
-google/gemini-omni-1.2-flash,Google,Fal,2160p,0.2457
-google/gemini-omni-1.2-flash,Google,Google,360p,0.023172
-google/gemini-omni-1.2-flash,Google,Google,720p,0.069504
-google/gemini-omni-1.2-flash,Google,Google,1080p,0.104256
-google/gemini-omni-1.2-flash,Google,Google,2160p,0.208512
-google/gemini-omni-1.2-flash,Google,WaveSpeedAI,360p,0.023
-google/gemini-omni-1.2-flash,Google,WaveSpeedAI,720p,0.07
-google/gemini-omni-1.2-flash,Google,WaveSpeedAI,1080p,0.105
-google/gemini-omni-1.2-flash,Google,WaveSpeedAI,2160p,0.21
-google/gemini-omni-flash,Google,Atlas Cloud,any,0.125
-google/gemini-omni-flash,Google,Fal,any,0.13
-google/gemini-omni-flash,Google,Google,any,0.1
-google/gemini-omni-flash,Google,WaveSpeedAI,any,0.13
-google/veo-3,Google,Replicate,any,0.2
-google/veo-3-fast,Google,Replicate,any,0.1
-google/veo-3.1,Google,DeepInfra,any,0.4
-google/veo-3.1,Google,MachGen,720p,0.40035
-google/veo-3.1,Google,MachGen,1080p,0.40035
-google/veo-3.1,Google,MachGen,2160p,0.6001
-google/veo-3.1,Google,OpenRouter,720p,0.2
-google/veo-3.1,Google,OpenRouter,1080p,0.2
-google/veo-3.1,Google,OpenRouter,2160p,0.4
-google/veo-3.1,Google,Pika,any,0.2
-google/veo-3.1,Google,Replicate,any,0.2
-google/veo-3.1,Google,SandBase,720p,0.2
-google/veo-3.1,Google,SandBase,1080p,0.2
-google/veo-3.1,Google,SandBase,2160p,0.4
-google/veo-3.1,Google,WaveSpeedAI,720p,0.4
-google/veo-3.1,Google,WaveSpeedAI,1080p,0.4
-google/veo-3.1,Google,WaveSpeedAI,2160p,0.4
-google/veo-3.1-extend,Google,Fal,720p,0.4
-google/veo-3.1-extend,Google,Fal,1080p,0.4
-google/veo-3.1-fast,Google,DeepInfra,any,0.15
-google/veo-3.1-fast,Google,MachGen,720p,0.1003
-google/veo-3.1-fast,Google,MachGen,1080p,0.1207
-google/veo-3.1-fast,Google,MachGen,2160p,0.30005
-google/veo-3.1-fast,Google,OpenRouter,720p,0.08
-google/veo-3.1-fast,Google,OpenRouter,1080p,0.1
-google/veo-3.1-fast,Google,OpenRouter,2160p,0.25
-google/veo-3.1-fast,Google,Pika,720p,0.08
-google/veo-3.1-fast,Google,Pika,1080p,0.1
-google/veo-3.1-fast,Google,Replicate,any,0.1
-google/veo-3.1-fast,Google,SandBase,720p,0.08
-google/veo-3.1-fast,Google,SandBase,1080p,0.1
-google/veo-3.1-fast,Google,SandBase,2160p,0.25
-google/veo-3.1-fast,Google,WaveSpeedAI,720p,0.15
-google/veo-3.1-fast,Google,WaveSpeedAI,1080p,0.15
-google/veo-3.1-fast,Google,WaveSpeedAI,2160p,0.15
-google/veo-3.1-fast-extend,Google,Fal,720p,0.15
-google/veo-3.1-fast-extend,Google,Fal,1080p,0.15
-google/veo-3.1-lite,Google,OpenRouter,720p,0.03
-google/veo-3.1-lite,Google,OpenRouter,1080p,0.05
-google/veo-3.1-lite,Google,Pika,720p,0.03
-google/veo-3.1-lite,Google,Pika,1080p,0.05
-google/veo-3.1-lite,Google,SandBase,720p,0.03
-google/veo-3.1-lite,Google,SandBase,1080p,0.05
-google/veo-3.1-lite,Google,WaveSpeedAI,720p,0.05
-google/veo-3.1-lite,Google,WaveSpeedAI,1080p,0.08
-heygen/avatar-iv,HeyGen,HeyGen,720p,0.05
-heygen/avatar-iv,HeyGen,HeyGen,1080p,0.05
-heygen/avatar-iv,HeyGen,HeyGen,2160p,0.066667
-heygen/heygen-avatar4-image-to-video,HeyGen,Fal,any,0.1
-heygen/heygen-v3-lipsync-precision,HeyGen,Fal,any,0.1
-heygen/heygen-v3-lipsync-speed,HeyGen,Fal,any,0.05
-heygen/heygen-video-1,HeyGen,Fal,480p,0.02
-heygen/heygen-video-1,HeyGen,Fal,768p,0.02
-heygen/heygen-video-1,HeyGen,Fal,1080p,0.06
-heygen/heygen-video-1,HeyGen,Fal,2k,0.06
-heygen/heygen-video-1,HeyGen,HeyGen,480p,0.02
-heygen/heygen-video-1,HeyGen,HeyGen,768p,0.03
-heygen/heygen-video-1,HeyGen,HeyGen,1080p,0.09
-heygen/heygen-video-1,HeyGen,HeyGen,2k,0.09
-heygen/heygen-video-1,HeyGen,OpenRouter,480p,0.02
-heygen/heygen-video-1,HeyGen,OpenRouter,768p,0.036
-heygen/heygen-video-1,HeyGen,OpenRouter,1080p,0.1
-heygen/heygen-video-1,HeyGen,OpenRouter,2k,0.1
-heygen/heygen-video-1,HeyGen,WaveSpeedAI,480p,0.02
-heygen/heygen-video-1,HeyGen,WaveSpeedAI,768p,0.036
-kuaishou/kling-ai-avatar-v2-pro,Kuaishou,Fal,any,0.115
-kuaishou/kling-ai-avatar-v2-pro,Kuaishou,WaveSpeedAI,any,0.112
-kuaishou/kling-ai-avatar-v2-standard,Kuaishou,Fal,any,0.0562
-kuaishou/kling-ai-avatar-v2-standard,Kuaishou,WaveSpeedAI,any,0.056
-kuaishou/kling-motion-control,Kuaishou,Atlas Cloud,pro,0.1428
-kuaishou/kling-motion-control,Kuaishou,Atlas Cloud,std,0.1071
-kuaishou/kling-motion-control,Kuaishou,Novita,pro,0.21
-kuaishou/kling-motion-control,Kuaishou,Novita,std,0.1575
-kuaishou/kling-o3,Kuaishou,MachGen,720p,0.068
-kuaishou/kling-o3,Kuaishou,MachGen,1080p,0.0901
-kuaishou/kling-o3,Kuaishou,MachGen,2160p,0.3366
-kuaishou/kling-o3,Kuaishou,SandBase,720p,0.0588
-kuaishou/kling-o3,Kuaishou,SandBase,1080p,0.0784
-kuaishou/kling-o3,Kuaishou,SandBase,2160p,0.294
-kuaishou/kling-o3,Kuaishou,WaveSpeedAI,720p,0.084
-kuaishou/kling-o3,Kuaishou,WaveSpeedAI,1080p,0.112
-kuaishou/kling-o3,Kuaishou,WaveSpeedAI,2160p,0.42
-kuaishou/kling-o3,Kuaishou,WaveSpeedAI,any,0.084
-kuaishou/kling-v2.6,Kuaishou,Kling,std,0.062
-kuaishou/kling-v2.6,Kuaishou,WaveSpeedAI,any,0.042
-kuaishou/kling-v2.6,Kuaishou,WaveSpeedAI,pro,0.14
-kuaishou/kling-v2.6,Kuaishou,WaveSpeedAI,std,0.042
-kuaishou/kling-v2.6-motion-control,Kuaishou,Atlas Cloud,pro,0.0952
-kuaishou/kling-v2.6-motion-control,Kuaishou,Atlas Cloud,std,0.0595
-kuaishou/kling-v3,Kuaishou,kie.ai,720p,0.07
-kuaishou/kling-v3,Kuaishou,kie.ai,1080p,0.09
-kuaishou/kling-v3,Kuaishou,kie.ai,2160p,0.335
-kuaishou/kling-v3,Kuaishou,MachGen,720p,0.068
-kuaishou/kling-v3,Kuaishou,MachGen,1080p,0.0901
-kuaishou/kling-v3,Kuaishou,MachGen,2160p,0.3366
-kuaishou/kling-v3,Kuaishou,Novita,720p,0.084
-kuaishou/kling-v3,Kuaishou,Novita,1080p,0.112
-kuaishou/kling-v3,Kuaishou,Novita,2160p,0.42
-kuaishou/kling-v3,Kuaishou,OpenRouter,720p,0.14
-kuaishou/kling-v3,Kuaishou,Pika,720p,0.068
-kuaishou/kling-v3,Kuaishou,Pika,1080p,0.09
-kuaishou/kling-v3,Kuaishou,SandBase,720p,0.0588
-kuaishou/kling-v3,Kuaishou,SandBase,1080p,0.0784
-kuaishou/kling-v3,Kuaishou,SandBase,2160p,0.294
-kuaishou/kling-v3,Kuaishou,TOAPIS,720p,0.06
-kuaishou/kling-v3,Kuaishou,TOAPIS,1080p,0.08
-kuaishou/kling-v3,Kuaishou,WaveSpeedAI,720p,0.084
-kuaishou/kling-v3,Kuaishou,WaveSpeedAI,1080p,0.112
-kuaishou/kling-v3,Kuaishou,WaveSpeedAI,2160p,0.42
-kuaishou/kling-v3,Kuaishou,WaveSpeedAI,any,0.084
-kuaishou/kling-v3-omni-video,Kuaishou,Replicate,2160p,0.42
-kuaishou/kling-v3-omni-video,Kuaishou,Replicate,pro,0.224
-kuaishou/kling-v3-omni-video,Kuaishou,Replicate,standard,0.168
-kuaishou/kling-v3-turbo,Kuaishou,kie.ai,720p,0.09
-kuaishou/kling-v3-turbo,Kuaishou,kie.ai,1080p,0.1125
-kuaishou/kling-v3-turbo,Kuaishou,Pika,720p,0.09
-kuaishou/kling-v3-turbo,Kuaishou,Pika,1080p,0.112
-kuaishou/kling-v3-turbo,Kuaishou,WaveSpeedAI,720p,0.112
-kuaishou/kling-v3-turbo,Kuaishou,WaveSpeedAI,1080p,0.14
-kuaishou/kling-v3-turbo,Kuaishou,WaveSpeedAI,any,0.112
-kuaishou/kling-v3-video,Kuaishou,Replicate,2160p,0.42
-kuaishou/kling-v3-video,Kuaishou,Replicate,pro,0.224
-kuaishou/kling-v3-video,Kuaishou,Replicate,standard,0.168
-kuaishou/kling-v4.0,Kuaishou,Atlas Cloud,720p,0.14287
-kuaishou/kling-v4.0,Kuaishou,Atlas Cloud,1080p,0.21385
-kuaishou/kling-v4.0,Kuaishou,Atlas Cloud,1080p-esr,0.182
-kuaishou/kling-v4.0,Kuaishou,Atlas Cloud,2k,0.21385
-kuaishou/kling-v4.0,Kuaishou,Atlas Cloud,2160p,0.21385
-kuaishou/kling-v4.0,Kuaishou,Atlas Cloud,4k-esr,0.364
-kuaishou/kling-v4.0,Kuaishou,Fal,720p,0.157
-kuaishou/kling-v4.0,Kuaishou,Fal,1080p,0.235
-kuaishou/kling-v4.0,Kuaishou,MachGen,720p,0.13345
-kuaishou/kling-v4.0,Kuaishou,MachGen,1080p,0.19975
-kuaishou/kling-v4.0,Kuaishou,Replicate,720p,0.157
-kuaishou/kling-v4.0,Kuaishou,Replicate,1080p,0.235
-kuaishou/kling-v4.0,Kuaishou,Runware,720p,0.157
-kuaishou/kling-v4.0,Kuaishou,Runware,1080p,0.235
-kuaishou/kling-v4.0,Kuaishou,SandBase,720p,0.13345
-kuaishou/kling-v4.0,Kuaishou,SandBase,1080p,0.19975
-kuaishou/kling-v4.0,Kuaishou,TOAPIS,720p,0.157
-kuaishou/kling-v4.0,Kuaishou,TOAPIS,1080p,0.235
-kuaishou/kling-v4.0,Kuaishou,WaveSpeedAI,720p,0.157
-kuaishou/kling-v4.0,Kuaishou,WaveSpeedAI,1080p,0.235
-kuaishou/kling-v4.0-edit,Kuaishou,Atlas Cloud,720p,0.17108
-kuaishou/kling-v4.0-edit,Kuaishou,Atlas Cloud,1080p,0.25662
-kuaishou/kling-v4.0-edit,Kuaishou,Fal,720p,0.188
-kuaishou/kling-v4.0-edit,Kuaishou,Fal,1080p,0.282
-kuaishou/kling-v4.0-edit,Kuaishou,Runware,720p,0.188
-kuaishou/kling-v4.0-edit,Kuaishou,Runware,1080p,0.282
-kuaishou/kling-v4.0-edit,Kuaishou,SandBase,720p,0.1598
-kuaishou/kling-v4.0-edit,Kuaishou,SandBase,1080p,0.2397
-kuaishou/kling-v4.0-edit,Kuaishou,WaveSpeedAI,720p,0.188
-kuaishou/kling-v4.0-edit,Kuaishou,WaveSpeedAI,1080p,0.282
-kuaishou/kling-v4.0-extend,Kuaishou,WaveSpeedAI,720p,0.157
-kuaishou/kling-v4.0-extend,Kuaishou,WaveSpeedAI,1080p,0.235
-kuaishou/kling-v4.0-flash,Kuaishou,Atlas Cloud,720p,0.085722
-kuaishou/kling-v4.0-flash,Kuaishou,Fal,720p,0.094
-kuaishou/kling-v4.0-flash,Kuaishou,Runware,720p,0.094
-kuaishou/kling-v4.0-flash,Kuaishou,WaveSpeedAI,720p,0.094
-kuaishou/kling-v4.0-flash-edit,Kuaishou,Atlas Cloud,720p,0.114296
-kuaishou/kling-v4.0-flash-edit,Kuaishou,Runware,720p,0.126
-kuaishou/kling-v4.0-flash-edit,Kuaishou,WaveSpeedAI,720p,0.126
-kuaishou/kling-video-o1,Kuaishou,OpenRouter,any,0.112
-lightricks/ltx-2-fast,Lightricks,WaveSpeedAI,any,0.04
-lightricks/ltx-2-pro,Lightricks,WaveSpeedAI,any,0.06
-lightricks/ltx-2.3,Lightricks,WaveSpeedAI,480p,0.02
-lightricks/ltx-2.3,Lightricks,WaveSpeedAI,720p,0.03
-lightricks/ltx-2.3,Lightricks,WaveSpeedAI,1080p,0.04
-lightricks/ltx-2.3-fast,Lightricks,SandBase,1080p,0.06
-lightricks/ltx-2.3-fast,Lightricks,SandBase,1440p,0.12
-lightricks/ltx-2.3-fast,Lightricks,SandBase,2160p,0.24
-lightricks/ltx-2.3-pro,Lightricks,MachGen,1080p,0.03
-lightricks/ltx-2.3-pro,Lightricks,MachGen,1440p,0.06
-lightricks/ltx-2.3-pro,Lightricks,MachGen,2160p,0.1
-lightricks/ltx-2.3-pro,Lightricks,SandBase,1080p,0.08
-lightricks/ltx-2.3-pro,Lightricks,SandBase,1440p,0.16
-lightricks/ltx-2.3-pro,Lightricks,SandBase,2160p,0.32
-lightricks/ltx-2.5,Lightricks,WaveSpeedAI,720p,0.1
-lightricks/ltx-2.5,Lightricks,WaveSpeedAI,1080p,0.14
-lightricks/ltx-2.5,Lightricks,WaveSpeedAI,2k,0.21
-lightricks/ltx-2.5,Lightricks,WaveSpeedAI,2160p,0.33
-lightricks/ltx-2.5-fast,Lightricks,Fal,720p,0.09
-lightricks/ltx-2.5-fast,Lightricks,Fal,1080p,0.13
-lightricks/ltx-2.5-fast,Lightricks,Fal,1440p,0.19
-lightricks/ltx-2.5-fast,Lightricks,Fal,2160p,0.3
-lightricks/ltx-2.5-fast,Lightricks,Lightricks,720p,0.09
-lightricks/ltx-2.5-fast,Lightricks,Lightricks,1080p,0.13
-lightricks/ltx-2.5-fast,Lightricks,Lightricks,1440p,0.19
-lightricks/ltx-2.5-fast,Lightricks,Lightricks,2160p,0.3
-lightricks/ltx-2.5-pro,Lightricks,Fal,720p,0.12
-lightricks/ltx-2.5-pro,Lightricks,Fal,1080p,0.17
-lightricks/ltx-2.5-pro,Lightricks,Lightricks,720p,0.12
-lightricks/ltx-2.5-pro,Lightricks,Lightricks,1080p,0.17
-luma/luma-ray-3.2,Luma,Luma,540p,0.03
-luma/luma-ray-3.2,Luma,Luma,720p,0.06
-luma/luma-ray-3.2,Luma,Luma,1080p,0.24
-luma/luma-ray-3.2,Luma,SandBase,540p,0.1
-luma/luma-ray-3.2,Luma,SandBase,720p,0.2
-luma/luma-ray-3.2,Luma,SandBase,1080p,0.4
-meigen-ai/infinitetalk,MeiGen-AI,Atlas Cloud,480p,0.03
-meigen-ai/infinitetalk,MeiGen-AI,Atlas Cloud,720p,0.06
-meigen-ai/infinitetalk-fast,MeiGen-AI,WaveSpeedAI,any,0.015
-meituan/longcat-avatar-1.5,Meituan,WaveSpeedAI,480p,0.04
-meituan/longcat-avatar-1.5,Meituan,WaveSpeedAI,720p,0.08
-minimax/h3,MiniMax,Atlas Cloud,480p,0.038
-minimax/h3,MiniMax,Atlas Cloud,768p,0.08
-minimax/h3,MiniMax,Atlas Cloud,1080p,0.08
-minimax/h3,MiniMax,Atlas Cloud,1080p-esr,0.105
-minimax/h3,MiniMax,Atlas Cloud,1440p,0.08
-minimax/h3,MiniMax,Atlas Cloud,1440p-esr,0.115
-minimax/h3,MiniMax,Atlas Cloud,2k,0.13
-minimax/h3,MiniMax,Atlas Cloud,2160p,0.08
-minimax/h3,MiniMax,Atlas Cloud,4k-esr,0.195
-minimax/h3,MiniMax,Fal,480p,0.05
-minimax/h3,MiniMax,Fal,768p,0.06
-minimax/h3,MiniMax,Fal,2k,0.13
-minimax/h3,MiniMax,Fal,2160p,0.16
-minimax/h3,MiniMax,kie.ai,768p,0.04
-minimax/h3,MiniMax,kie.ai,2k,0.065
-minimax/h3,MiniMax,MachGen,480p,0.044
-minimax/h3,MiniMax,MachGen,768p,0.05
-minimax/h3,MiniMax,MachGen,1440p,0.125
-minimax/h3,MiniMax,MiniMax,768p,0.08
-minimax/h3,MiniMax,MiniMax,2k,0.13
-minimax/h3,MiniMax,Novita,768p,0.069
-minimax/h3,MiniMax,Novita,2k,0.1104
-minimax/h3,MiniMax,OpenSand,768p,0.05304
-minimax/h3,MiniMax,OpenSand,2k,0.08619
-minimax/h3,MiniMax,Pika,768p,0.08
-minimax/h3,MiniMax,Pika,2k,0.13
-minimax/h3,MiniMax,Replicate,768p,0.08
-minimax/h3,MiniMax,Replicate,2k,0.13
-minimax/h3,MiniMax,SandBase,768p,0.048
-minimax/h3,MiniMax,SandBase,2k,0.104
-minimax/h3,MiniMax,TOAPIS,768p,0.08
-minimax/h3,MiniMax,TOAPIS,2k,0.13
-minimax/h3,MiniMax,WaveSpeedAI,480p,0.04
-minimax/h3,MiniMax,WaveSpeedAI,540p,0.06
-minimax/h3,MiniMax,WaveSpeedAI,768p,0.08
-minimax/h3,MiniMax,WaveSpeedAI,1080p,0.16
-minimax/h3,MiniMax,WaveSpeedAI-resell,768p,0.1
-minimax/h3,MiniMax,WaveSpeedAI-resell,2k,0.14
-minimax/h3-fast,MiniMax,Atlas Cloud,any,0.0437
-minimax/h3-max,MiniMax,Atlas Cloud,480p,0.0475
-minimax/h3-max,MiniMax,Atlas Cloud,768p,0.076
-minimax/h3-max,MiniMax,Atlas Cloud,1440p,0.076
-minimax/h3-max,MiniMax,Atlas Cloud,1440p-sr,0.1425
-minimax/h3-max,MiniMax,Atlas Cloud,2160p,0.076
-minimax/h3-max,MiniMax,Atlas Cloud,4k-sr,0.19475
-minimax/h3-max,MiniMax,Fal,480p,0.05
-minimax/h3-max,MiniMax,Fal,768p,0.08
-minimax/h3-max,MiniMax,SandBase,480p,0.04
-minimax/h3-max,MiniMax,SandBase,768p,0.064
-minimax/h3-max,MiniMax,TOAPIS,480p,0.05
-minimax/h3-max,MiniMax,TOAPIS,768p,0.08
-minimax/h3-max-camera-controls,MiniMax,Fal,480p,0.05
-minimax/h3-max-camera-controls,MiniMax,Fal,768p,0.08
-minimax/h3-max-camera-controls,MiniMax,Fal,1080p,0.16
-minimax/h3-max-lipsync,MiniMax,Fal,480p,0.05
-minimax/h3-max-lipsync,MiniMax,Fal,768p,0.08
-minimax/h3-max-lipsync,MiniMax,Fal,1080p,0.16
-minimax/h3-max-lipsync,MiniMax,Fal,2k,0.32
-minimax/h3-max-turbo,MiniMax,Fal,480p,0.025
-minimax/h3-max-turbo,MiniMax,Fal,768p,0.04
-minimax/h3-max-turbo,MiniMax,Fal,1080p,0.08
-minimax/h3-max-turbo,MiniMax,TOAPIS,480p,0.025
-minimax/h3-max-turbo,MiniMax,TOAPIS,768p,0.04
-minimax/hailuo-2.3,MiniMax,OpenRouter,any,0.0817
-minimax/hailuo-2.3-pro,MiniMax,WaveSpeedAI,any,0.081667
-minimax/hailuo-2.3-standard,MiniMax,WaveSpeedAI,any,0.046667
-minimax/hailuo-3,MiniMax,OpenRouter,any,0.13
-minimax/hailuo-3-max,MiniMax,OpenRouter,480p,0.05
-minimax/hailuo-3-max,MiniMax,OpenRouter,768p,0.08
-minimax/minimax-h3-turbo,MiniMax,MachGen,480p,0.02
-minimax/minimax-h3-turbo,MiniMax,MachGen,768p,0.02
-pika/pika-2.5,Pika,Pika,720p,0.04
-pika/pika-2.5,Pika,Pika,1080p,0.09
-pika/pika-h3-flex,Pika,Pika,480p,0.01
-pika/pika-h3-flex,Pika,Pika,768p,0.02
-pika/pika-h3-flex,Pika,Pika,1080p,0.035
-pika/pika-h3-flex,Pika,Pika,2k,0.04
-pika/pika-h3-flex,Pika,Pika,2160p,0.08
-pika/pikadditions,Pika,Pika,any,0.006
-pixverse/pixverse-c1,PixVerse,MachGen,360p,0.02465
-pixverse/pixverse-c1,PixVerse,MachGen,540p,0.0323
-pixverse/pixverse-c1,PixVerse,MachGen,720p,0.0408
-pixverse/pixverse-c1,PixVerse,MachGen,1080p,0.0765
-pixverse/pixverse-v6,PixVerse,MachGen,360p,0.0204
-pixverse/pixverse-v6,PixVerse,MachGen,540p,0.02805
-pixverse/pixverse-v6,PixVerse,MachGen,720p,0.03655
-pixverse/pixverse-v6,PixVerse,MachGen,1080p,0.07225
-pixverse/pixverse-v6,PixVerse,SandBase,360p,0.025
-pixverse/pixverse-v6,PixVerse,SandBase,540p,0.035
-pixverse/pixverse-v6,PixVerse,SandBase,720p,0.045
-pixverse/pixverse-v6,PixVerse,SandBase,1080p,0.09
-pixverse/pixverse-v6,PixVerse,WaveSpeedAI,360p,0.025
-pixverse/pixverse-v6,PixVerse,WaveSpeedAI,540p,0.035
-pixverse/pixverse-v6,PixVerse,WaveSpeedAI,720p,0.045
-pixverse/pixverse-v6,PixVerse,WaveSpeedAI,1080p,0.09
-pixverse/pixverse-v6-extend,PixVerse,Atlas Cloud,360p,0.025
-pixverse/pixverse-v6-extend,PixVerse,Atlas Cloud,540p,0.035
-pixverse/pixverse-v6-extend,PixVerse,Atlas Cloud,720p,0.045
-pixverse/pixverse-v6-extend,PixVerse,Atlas Cloud,1080p,0.09
-pixverse/pixverse-v6-max,PixVerse,Atlas Cloud,360p,0.024
-pixverse/pixverse-v6-max,PixVerse,Atlas Cloud,540p,0.036
-pixverse/pixverse-v6-max,PixVerse,Atlas Cloud,720p,0.044
-pixverse/pixverse-v6-max,PixVerse,Atlas Cloud,1080p,0.088
-pixverse/pixverse-v6-max,PixVerse,Replicate,360p,0.06
-pixverse/pixverse-v6-max,PixVerse,Replicate,540p,0.09
-pixverse/pixverse-v6-max,PixVerse,Replicate,720p,0.11
-pixverse/pixverse-v6-max,PixVerse,Replicate,1080p,0.22
-pixverse/pixverse-v6-max,PixVerse,WaveSpeedAI,360p,0.027
-pixverse/pixverse-v6-max,PixVerse,WaveSpeedAI,540p,0.04
-pixverse/pixverse-v6-max,PixVerse,WaveSpeedAI,720p,0.049
-pixverse/pixverse-v6-max,PixVerse,WaveSpeedAI,1080p,0.098
-pruna-ai/pruna-p-video-2-pro-avatar,Pruna AI,WaveSpeedAI,480p,0.02
-pruna-ai/pruna-p-video-2-pro-avatar,Pruna AI,WaveSpeedAI,768p,0.04
-prunaai/p-video,PrunaAI,DeepInfra,any,0.02
-prunaai/p-video,PrunaAI,Pruna,720p,0.02
-prunaai/p-video,PrunaAI,Pruna,1080p,0.04
-prunaai/p-video-2,PrunaAI,Pruna,720p,0.025
-prunaai/p-video-2,PrunaAI,Pruna,1080p,0.05
-prunaai/p-video-2-draft,PrunaAI,Pruna,720p,0.015
-prunaai/p-video-2-draft,PrunaAI,Pruna,1080p,0.03
-prunaai/p-video-2-pro,PrunaAI,Pruna,480p,0.02
-prunaai/p-video-2-pro,PrunaAI,Pruna,768p,0.035
-prunaai/p-video-2-pro,PrunaAI,Pruna,1080p,0.055
-prunaai/p-video-2-pro,PrunaAI,Pruna,2k,0.075
-prunaai/p-video-2-pro,PrunaAI,Pruna,2160p,0.115
-prunaai/p-video-2-pro,PrunaAI,Replicate,480p,0.02
-prunaai/p-video-2-pro,PrunaAI,Replicate,768p,0.035
-prunaai/p-video-2-pro,PrunaAI,Replicate,1080p,0.055
-prunaai/p-video-2-pro,PrunaAI,Replicate,2k,0.075
-prunaai/p-video-2-pro,PrunaAI,Replicate,2160p,0.115
-prunaai/p-video-2-pro,PrunaAI,Runware,480p,0.02
-prunaai/p-video-2-pro,PrunaAI,Runware,768p,0.035
-prunaai/p-video-2-pro,PrunaAI,Segmind,480p,0.02
-prunaai/p-video-2-pro,PrunaAI,Segmind,768p,0.035
-prunaai/p-video-2-pro,PrunaAI,WaveSpeedAI,480p,0.02
-prunaai/p-video-2-pro,PrunaAI,WaveSpeedAI,768p,0.035
-prunaai/p-video-2-pro-cost,PrunaAI,Pruna,480p,0.01
-prunaai/p-video-2-pro-cost,PrunaAI,Pruna,768p,0.025
-prunaai/p-video-2-pro-cost,PrunaAI,Pruna,1080p,0.045
-prunaai/p-video-2-pro-cost,PrunaAI,Pruna,2k,0.065
-prunaai/p-video-2-pro-cost,PrunaAI,Pruna,2160p,0.105
-prunaai/p-video-2-pro-cost,PrunaAI,Replicate,480p,0.01
-prunaai/p-video-2-pro-cost,PrunaAI,Replicate,768p,0.025
-prunaai/p-video-2-pro-cost,PrunaAI,Replicate,1080p,0.045
-prunaai/p-video-2-pro-cost,PrunaAI,Replicate,2k,0.065
-prunaai/p-video-2-pro-cost,PrunaAI,Replicate,2160p,0.105
-prunaai/p-video-2-pro-cost,PrunaAI,Runware,480p,0.01
-prunaai/p-video-2-pro-cost,PrunaAI,Runware,768p,0.025
-prunaai/p-video-2-pro-cost,PrunaAI,Segmind,480p,0.01
-prunaai/p-video-2-pro-cost,PrunaAI,Segmind,768p,0.025
-prunaai/p-video-2-pro-cost,PrunaAI,WaveSpeedAI,480p,0.01
-prunaai/p-video-2-pro-cost,PrunaAI,WaveSpeedAI,768p,0.025
-prunaai/p-video-2-pro-quality,PrunaAI,Pruna,480p,0.04
-prunaai/p-video-2-pro-quality,PrunaAI,Pruna,768p,0.075
-prunaai/p-video-2-pro-quality,PrunaAI,Pruna,1080p,0.095
-prunaai/p-video-2-pro-quality,PrunaAI,Pruna,2k,0.115
-prunaai/p-video-2-pro-quality,PrunaAI,Pruna,2160p,0.155
-prunaai/p-video-2-pro-quality,PrunaAI,Replicate,480p,0.04
-prunaai/p-video-2-pro-quality,PrunaAI,Replicate,768p,0.075
-prunaai/p-video-2-pro-quality,PrunaAI,Replicate,1080p,0.095
-prunaai/p-video-2-pro-quality,PrunaAI,Replicate,2k,0.115
-prunaai/p-video-2-pro-quality,PrunaAI,Replicate,2160p,0.155
-prunaai/p-video-2-pro-quality,PrunaAI,Runware,480p,0.04
-prunaai/p-video-2-pro-quality,PrunaAI,Runware,768p,0.075
-prunaai/p-video-2-pro-quality,PrunaAI,Segmind,480p,0.04
-prunaai/p-video-2-pro-quality,PrunaAI,Segmind,768p,0.075
-prunaai/p-video-2-pro-quality,PrunaAI,WaveSpeedAI,480p,0.04
-prunaai/p-video-2-pro-quality,PrunaAI,WaveSpeedAI,768p,0.075
-prunaai/p-video-draft,PrunaAI,Pruna,720p,0.005
-prunaai/p-video-draft,PrunaAI,Pruna,1080p,0.01
-runway/aleph-2,Runway,Runway,any,0.28
-runway/gen-4.5,Runway,OpenRouter,any,0.12
-runway/gen-4.5,Runway,Replicate,any,0.12
-segmind/hyperswap-video-faceswap,FaceFusion Labs,FaceFusion Labs,any,0.00675
-shengshu/vidu-q3,Shengshu,MachGen,540p,0.042
-shengshu/vidu-q3,Shengshu,MachGen,720p,0.071
-shengshu/vidu-q3,Shengshu,MachGen,1080p,0.089
-shengshu/vidu-q3,Shengshu,Runware,360p,0.0325
-shengshu/vidu-q3,Shengshu,Runware,540p,0.02925
-shengshu/vidu-q3,Shengshu,Runware,720p,0.065
-shengshu/vidu-q3,Shengshu,Runware,1080p,0.078
-shengshu/vidu-q3,Shengshu,SandBase,360p,0.07
-shengshu/vidu-q3,Shengshu,SandBase,540p,0.07
-shengshu/vidu-q3,Shengshu,SandBase,720p,0.154
-shengshu/vidu-q3,Shengshu,SandBase,1080p,0.16
-shengshu/vidu-q3-pro,Shengshu,MachGen,540p,0.053
-shengshu/vidu-q3-pro,Shengshu,MachGen,720p,0.118
-shengshu/vidu-q3-pro,Shengshu,MachGen,1080p,0.142
-shengshu/vidu-q3-pro,Shengshu,WaveSpeedAI,540p,0.05
-shengshu/vidu-q3-pro,Shengshu,WaveSpeedAI,720p,0.125
-shengshu/vidu-q3-pro,Shengshu,WaveSpeedAI,1080p,0.15
-shengshu/vidu-q3-pro-fast,Shengshu,MachGen,720p,0.118
-shengshu/vidu-q3-pro-fast,Shengshu,MachGen,1080p,0.148
-shengshu/vidu-q3-turbo,Shengshu,MachGen,540p,0.02
-shengshu/vidu-q3-turbo,Shengshu,MachGen,720p,0.045
-shengshu/vidu-q3-turbo,Shengshu,Runware,360p,0.026
-shengshu/vidu-q3-turbo,Shengshu,Runware,540p,0.02275
-shengshu/vidu-q3-turbo,Shengshu,Runware,720p,0.03575
-shengshu/vidu-q3-turbo,Shengshu,Runware,1080p,0.04225
-shengshu/vidu-q3-turbo,Shengshu,SandBase,360p,0.04
-shengshu/vidu-q3-turbo,Shengshu,SandBase,540p,0.04
-shengshu/vidu-q3-turbo,Shengshu,SandBase,720p,0.077
-shengshu/vidu-q3-turbo,Shengshu,SandBase,1080p,0.08
-skywork-ai/skyreels-v3-talking-avatar,Skywork AI,WaveSpeedAI,480p,0.03
-skywork-ai/skyreels-v3-talking-avatar,Skywork AI,WaveSpeedAI,720p,0.06
-skywork-ai/skyreels-v4,Skywork AI,WaveSpeedAI,480p,0.11
-skywork-ai/skyreels-v4,Skywork AI,WaveSpeedAI,720p,0.14
-skywork-ai/skyreels-v4,Skywork AI,WaveSpeedAI,1080p,0.35
-sync-labs/sync-lipsync,Sync Labs,Fal,any,0.011667
-sync-labs/sync-lipsync-react-1,Sync Labs,Fal,any,0.166667
-sync-labs/sync-lipsync-v2,Sync Labs,Fal,any,0.05
-sync-labs/sync-lipsync-v2-pro,Sync Labs,Fal,any,0.083333
-sync-labs/sync-lipsync-v3,Sync Labs,Fal,any,0.133333
-sync-labs/sync-lipsync-v3-image,Sync Labs,Fal,any,0.133333
-veed/veed-fabric-1.0,VEED,WaveSpeedAI,480p,0.07
-veed/veed-fabric-1.0,VEED,WaveSpeedAI,720p,0.14
-veed/veed-lipsync-v2,VEED,Fal,any,0.07
-vidu/s1-avatar-offline,Shengshu,Shengshu,any,0.005
-xai/grok-imagine-video,xAI,MachGen,480p,0.05015
-xai/grok-imagine-video,xAI,MachGen,720p,0.07055
-xai/grok-imagine-video,xAI,OpenRouter,480p,0.05
-xai/grok-imagine-video,xAI,OpenRouter,720p,0.07
-xai/grok-imagine-video,xAI,Pika,480p,0.053
-xai/grok-imagine-video,xAI,Pika,720p,0.074
-xai/grok-imagine-video,xAI,WaveSpeedAI,480p,0.05
-xai/grok-imagine-video,xAI,WaveSpeedAI,720p,0.05
-xai/grok-imagine-video,xAI,WaveSpeedAI,1080p,0.05
-xai/grok-imagine-video,xAI,xAI,480p,0.5
-xai/grok-imagine-video,xAI,xAI,720p,0.7
-xai/grok-imagine-video-1.5,xAI,MachGen,480p,0.08075
-xai/grok-imagine-video-1.5,xAI,MachGen,720p,0.14025
-xai/grok-imagine-video-1.5,xAI,MachGen,1080p,0.25075
-xai/grok-imagine-video-1.5,xAI,OpenRouter,480p,0.08
-xai/grok-imagine-video-1.5,xAI,OpenRouter,720p,0.14
-xai/grok-imagine-video-1.5,xAI,OpenRouter,1080p,0.25
-xai/grok-imagine-video-1.5,xAI,Replicate,any,0.08
-xai/grok-imagine-video-1.5,xAI,WaveSpeedAI,480p,0.08
-xai/grok-imagine-video-1.5,xAI,WaveSpeedAI,720p,0.14
-xai/grok-imagine-video-1.5,xAI,WaveSpeedAI,1080p,0.25
-xai/grok-imagine-video-1.5,xAI,xAI,480p,0.8
-xai/grok-imagine-video-1.5,xAI,xAI,720p,1.4
-xai/grok-imagine-video-1.5,xAI,xAI,1080p,2.5
-xai/grok-imagine-video-1.5-lite,xAI,OpenRouter,480p,0.02
-xai/grok-imagine-video-1.5-lite,xAI,OpenRouter,720p,0.03
-xai/grok-imagine-video-1.5-lite,xAI,OpenRouter,1080p,0.14
-xai/grok-imagine-video-edit,xAI,Atlas Cloud,any,0.08
-xai/grok-imagine-video-extend,xAI,Atlas Cloud,any,0.08
+model,creator,provider,tier,usd_per_second,routed_by_videorouter
+Pixverse/Pixverse-6-T2V,PixVerse,DeepInfra,any,0.045,true
+Wan-AI/Wan2.2-I2V-A14B,Alibaba,SiliconFlow,any,0.057284,true
+Wan-AI/Wan2.2-T2V-A14B,Alibaba,SiliconFlow,any,0.057284,true
+alibaba/happy-horse,Alibaba,Fal,720p,0.14,true
+alibaba/happy-horse,Alibaba,Fal,1080p,0.18,true
+alibaba/happyhorse-1.0,Alibaba,MachGen,720p,0.1122,true
+alibaba/happyhorse-1.0,Alibaba,MachGen,1080p,0.2244,true
+alibaba/happyhorse-1.0,Alibaba,OpenRouter,720p,0.1647,true
+alibaba/happyhorse-1.0,Alibaba,OpenRouter,1080p,0.2824,true
+alibaba/happyhorse-1.0,Alibaba,Pika,720p,0.098,true
+alibaba/happyhorse-1.0,Alibaba,Pika,1080p,0.168,true
+alibaba/happyhorse-1.0-i2v,Alibaba,Together AI,720p,0.14,true
+alibaba/happyhorse-1.0-i2v,Alibaba,Together AI,1080p,0.24,true
+alibaba/happyhorse-1.0-r2v,Alibaba,Together AI,720p,0.14,true
+alibaba/happyhorse-1.0-r2v,Alibaba,Together AI,1080p,0.24,true
+alibaba/happyhorse-1.0-t2v,Alibaba,Together AI,720p,0.14,true
+alibaba/happyhorse-1.0-t2v,Alibaba,Together AI,1080p,0.24,true
+alibaba/happyhorse-1.1,Alibaba,Alibaba,480p,0.07,true
+alibaba/happyhorse-1.1,Alibaba,Alibaba,720p,0.14,true
+alibaba/happyhorse-1.1,Alibaba,Alibaba,1080p,0.18,true
+alibaba/happyhorse-1.1,Alibaba,MachGen,720p,0.1122,true
+alibaba/happyhorse-1.1,Alibaba,MachGen,1080p,0.1445,true
+alibaba/happyhorse-1.1,Alibaba,OpenRouter,720p,0.1647,true
+alibaba/happyhorse-1.1,Alibaba,OpenRouter,1080p,0.213,true
+alibaba/happyhorse-1.1,Alibaba,Pika,720p,0.098,true
+alibaba/happyhorse-1.1,Alibaba,Pika,1080p,0.126,true
+alibaba/happyhorse-1.1,Alibaba,Replicate,720p,0.14,true
+alibaba/happyhorse-1.1,Alibaba,Replicate,1080p,0.18,true
+alibaba/happyhorse-1.1-i2v,Alibaba,Together AI,720p,0.14,true
+alibaba/happyhorse-1.1-i2v,Alibaba,Together AI,1080p,0.18,true
+alibaba/happyhorse-1.1-r2v,Alibaba,Together AI,720p,0.14,true
+alibaba/happyhorse-1.1-r2v,Alibaba,Together AI,1080p,0.18,true
+alibaba/happyhorse-1.1-t2v,Alibaba,Together AI,720p,0.14,true
+alibaba/happyhorse-1.1-t2v,Alibaba,Together AI,1080p,0.18,true
+alibaba/wan-2.2-a14b,Alibaba,MachGen,480p,0.018,true
+alibaba/wan-2.2-a14b,Alibaba,MachGen,720p,0.036,true
+alibaba/wan-2.2-animate-mix,Alibaba,Atlas Cloud,pro,0.182,true
+alibaba/wan-2.2-animate-mix,Alibaba,Atlas Cloud,std,0.126,true
+alibaba/wan-2.2-animate-move,Alibaba,Atlas Cloud,pro,0.126,true
+alibaba/wan-2.2-animate-move,Alibaba,Atlas Cloud,std,0.084,true
+alibaba/wan-2.5-extend,Alibaba,Atlas Cloud,480p,0.0525,true
+alibaba/wan-2.5-extend,Alibaba,Atlas Cloud,720p,0.105,true
+alibaba/wan-2.5-extend,Alibaba,Atlas Cloud,1080p,0.1575,true
+alibaba/wan-2.7-i2v,Alibaba,Together AI,any,0.02,true
+alibaba/wan-2.7-image,Alibaba,WaveSpeedAI,720p,0.1,true
+alibaba/wan-2.7-image,Alibaba,WaveSpeedAI,1080p,0.15,true
+alibaba/wan-2.7-pro,Alibaba,WaveSpeedAI,1080p,0.14,true
+alibaba/wan-2.7-pro,Alibaba,WaveSpeedAI,2k,0.15,true
+alibaba/wan-2.7-pro,Alibaba,WaveSpeedAI,2160p,0.17,true
+alibaba/wan-2.7-r2v,Alibaba,Together AI,any,0.02,true
+alibaba/wan-2.7-t2v,Alibaba,Together AI,any,0.02,true
+alibaba/wan-25-preview,Alibaba,Fal,480p,0.05,true
+alibaba/wan-25-preview,Alibaba,Fal,720p,0.1,true
+alibaba/wan-25-preview,Alibaba,Fal,1080p,0.15,true
+alibaba/wan-3.0,Alibaba,Alibaba,480p,0.05,true
+alibaba/wan-3.0,Alibaba,Alibaba,720p,0.1,true
+alibaba/wan-3.0,Alibaba,Alibaba,1080p,0.2,true
+alibaba/wan-3.0,Alibaba,Atlas Cloud,480p,0.04,true
+alibaba/wan-3.0,Alibaba,Atlas Cloud,720p,0.08,true
+alibaba/wan-3.0,Alibaba,Atlas Cloud,720p-esr,0.064,true
+alibaba/wan-3.0,Alibaba,Atlas Cloud,1080p,0.16,true
+alibaba/wan-3.0,Alibaba,Atlas Cloud,1080p-esr,0.128,true
+alibaba/wan-3.0,Alibaba,Atlas Cloud,1440p,0.16,true
+alibaba/wan-3.0,Alibaba,Atlas Cloud,1440p-esr,0.2752,true
+alibaba/wan-3.0,Alibaba,Atlas Cloud,2160p,0.16,true
+alibaba/wan-3.0,Alibaba,Atlas Cloud,4k-esr,0.59168,true
+alibaba/wan-3.0,Alibaba,DeepInfra,1080p,0.2,true
+alibaba/wan-3.0,Alibaba,Fal,480p,0.05,true
+alibaba/wan-3.0,Alibaba,Fal,720p,0.1,true
+alibaba/wan-3.0,Alibaba,Fal,1080p,0.2,true
+alibaba/wan-3.0,Alibaba,MachGen,480p,0.04165,true
+alibaba/wan-3.0,Alibaba,MachGen,720p,0.0816,true
+alibaba/wan-3.0,Alibaba,MachGen,1080p,0.16235,true
+alibaba/wan-3.0,Alibaba,MuleRouter,480p,0.04,true
+alibaba/wan-3.0,Alibaba,MuleRouter,720p,0.08,true
+alibaba/wan-3.0,Alibaba,MuleRouter,1080p,0.16,true
+alibaba/wan-3.0,Alibaba,OpenRouter,480p,0.10625,true
+alibaba/wan-3.0,Alibaba,OpenRouter,720p,0.2125,true
+alibaba/wan-3.0,Alibaba,OpenRouter,1080p,0.425,true
+alibaba/wan-3.0,Alibaba,Pika,480p,0.0325,true
+alibaba/wan-3.0,Alibaba,Pika,720p,0.065,true
+alibaba/wan-3.0,Alibaba,Pika,1080p,0.13,true
+alibaba/wan-3.0,Alibaba,Replicate,480p,0.025,true
+alibaba/wan-3.0,Alibaba,Replicate,720p,0.05,true
+alibaba/wan-3.0,Alibaba,Replicate,1080p,0.1,true
+alibaba/wan-3.0,Alibaba,SandBase,480p,0.03,true
+alibaba/wan-3.0,Alibaba,SandBase,720p,0.06,true
+alibaba/wan-3.0,Alibaba,SandBase,1080p,0.12,true
+alibaba/wan-3.0,Alibaba,TOAPIS,480p,0.03,true
+alibaba/wan-3.0,Alibaba,TOAPIS,720p,0.06,true
+alibaba/wan-3.0,Alibaba,TOAPIS,1080p,0.12,true
+alibaba/wan-3.0,Alibaba,WaveSpeedAI,480p,0.05,true
+alibaba/wan-3.0,Alibaba,WaveSpeedAI,720p,0.1,true
+alibaba/wan-3.0,Alibaba,WaveSpeedAI,1080p,0.2,true
+alibaba/wan-3.0,Alibaba,Higgsfield,480p,0.0375,false
+alibaba/wan-3.0,Alibaba,Higgsfield,720p,0.075,false
+alibaba/wan-3.0,Alibaba,Higgsfield,1080p,0.15,false
+alibaba/wan-3.0-prime,Alibaba,Alibaba,480p,0.068,true
+alibaba/wan-3.0-prime,Alibaba,Alibaba,720p,0.14,true
+alibaba/wan-3.0-prime,Alibaba,Alibaba,1080p,0.28,true
+alibaba/wan-3.0-prime,Alibaba,Atlas Cloud,480p,0.0612,true
+alibaba/wan-3.0-prime,Alibaba,Atlas Cloud,720p,0.126,true
+alibaba/wan-3.0-prime,Alibaba,Atlas Cloud,720p-esr,0.1008,true
+alibaba/wan-3.0-prime,Alibaba,Atlas Cloud,1080p,0.252,true
+alibaba/wan-3.0-prime,Alibaba,Atlas Cloud,1080p-esr,0.2016,true
+alibaba/wan-3.0-prime,Alibaba,Atlas Cloud,1440p,0.252,true
+alibaba/wan-3.0-prime,Alibaba,Atlas Cloud,1440p-esr,0.43344,true
+alibaba/wan-3.0-prime,Alibaba,Atlas Cloud,2160p,0.252,true
+alibaba/wan-3.0-prime,Alibaba,Atlas Cloud,4k-esr,0.931896,true
+alibaba/wan-3.0-prime,Alibaba,Fal,480p,0.068,true
+alibaba/wan-3.0-prime,Alibaba,Fal,720p,0.14,true
+alibaba/wan-3.0-prime,Alibaba,Fal,1080p,0.28,true
+alibaba/wan-3.0-prime,Alibaba,MuleRouter,480p,0.0578,true
+alibaba/wan-3.0-prime,Alibaba,MuleRouter,720p,0.119,true
+alibaba/wan-3.0-prime,Alibaba,MuleRouter,1080p,0.238,true
+alibaba/wan-3.0-prime,Alibaba,OpenRouter,480p,0.17,true
+alibaba/wan-3.0-prime,Alibaba,OpenRouter,720p,0.35,true
+alibaba/wan-3.0-prime,Alibaba,OpenRouter,1080p,0.7,true
+alibaba/wan-3.0-prime,Alibaba,Pika,480p,0.051,true
+alibaba/wan-3.0-prime,Alibaba,Pika,720p,0.105,true
+alibaba/wan-3.0-prime,Alibaba,Pika,1080p,0.21,true
+alibaba/wan-3.0-prime,Alibaba,SandBase,480p,0.0408,true
+alibaba/wan-3.0-prime,Alibaba,SandBase,720p,0.084,true
+alibaba/wan-3.0-prime,Alibaba,SandBase,1080p,0.168,true
+alibaba/wan-3.0-prime,Alibaba,WaveSpeedAI,480p,0.075,true
+alibaba/wan-3.0-prime,Alibaba,WaveSpeedAI,720p,0.15,true
+alibaba/wan-3.0-prime,Alibaba,WaveSpeedAI,1080p,0.3,true
+alibaba/wan-3.0-prime,Alibaba,Higgsfield,480p,0.051,false
+alibaba/wan-3.0-prime,Alibaba,Higgsfield,720p,0.105,false
+alibaba/wan-3.0-prime,Alibaba,Higgsfield,1080p,0.21,false
+black-forest-labs/flux-3,Black Forest Labs,Atlas Cloud,720p,0.187,true
+black-forest-labs/flux-3,Black Forest Labs,Atlas Cloud,1080p,0.319,true
+black-forest-labs/flux-3,Black Forest Labs,Black Forest Labs,720p,0.17,true
+black-forest-labs/flux-3,Black Forest Labs,Black Forest Labs,1080p,0.29,true
+black-forest-labs/flux-3,Black Forest Labs,OpenRouter,720p,0.17,true
+black-forest-labs/flux-3,Black Forest Labs,OpenRouter,1080p,0.29,true
+black-forest-labs/flux-3,Black Forest Labs,Replicate,720p,0.17,true
+black-forest-labs/flux-3,Black Forest Labs,Replicate,1080p,0.29,true
+black-forest-labs/flux-3,Black Forest Labs,Together AI,720p,0.17,true
+black-forest-labs/flux-3,Black Forest Labs,Together AI,1080p,0.29,true
+black-forest-labs/flux-3,Black Forest Labs,WaveSpeedAI,720p,0.17,true
+black-forest-labs/flux-3,Black Forest Labs,WaveSpeedAI,1080p,0.29,true
+black-forest-labs/flux-3-edit-video,Black Forest Labs,Atlas Cloud,any,0.033,true
+black-forest-labs/flux-3-edit-video,Black Forest Labs,Black Forest Labs,any,0.03,true
+black-forest-labs/flux-3-edit-video,Black Forest Labs,Fal,any,0.03,true
+black-forest-labs/flux-3-edit-video,Black Forest Labs,WaveSpeedAI,any,0.03,true
+black-forest-labs/flux-3-extend,Black Forest Labs,Atlas Cloud,720p,0.451,true
+black-forest-labs/flux-3-extend,Black Forest Labs,Atlas Cloud,1080p,0.583,true
+black-forest-labs/flux-3-extend,Black Forest Labs,Black Forest Labs,720p,0.41,true
+black-forest-labs/flux-3-extend,Black Forest Labs,Black Forest Labs,1080p,0.53,true
+black-forest-labs/flux-3-extend,Black Forest Labs,Fal,720p,0.41,true
+black-forest-labs/flux-3-extend,Black Forest Labs,Fal,1080p,0.53,true
+black-forest-labs/flux-3-extend,Black Forest Labs,WaveSpeedAI,720p,0.41,true
+black-forest-labs/flux-3-extend,Black Forest Labs,WaveSpeedAI,1080p,0.53,true
+boson/higgs-avatar,Boson AI,Boson AI,480x640,0.001167,true
+boson/higgs-avatar,Boson AI,Boson AI,640x480,0.001167,true
+boson/higgs-avatar,Boson AI,Boson AI,640x640,0.0015,true
+bytedance/doubao-seedance-1-0-pro-quality,ByteDance,TOAPIS,480p,0.02262,true
+bytedance/doubao-seedance-1-0-pro-quality,ByteDance,TOAPIS,720p,0.05237,true
+bytedance/doubao-seedance-1-0-pro-quality,ByteDance,TOAPIS,1080p,0.11372,true
+bytedance/omnihuman-v2,ByteDance,Atlas Cloud,any,0.0896,true
+bytedance/omnihuman-v2,ByteDance,Fal,any,0.105,true
+bytedance/seedance-1-5-pro,ByteDance,OpenRouter,480p,0.011529,true
+bytedance/seedance-1-5-pro,ByteDance,OpenRouter,720p,0.02592,true
+bytedance/seedance-1-5-pro,ByteDance,OpenRouter,1080p,0.05832,true
+bytedance/seedance-1-5-pro,ByteDance,TOAPIS,480p,0.0124,true
+bytedance/seedance-1-5-pro,ByteDance,TOAPIS,720p,0.02696,true
+bytedance/seedance-1-5-pro,ByteDance,TOAPIS,1080p,0.06073,true
+bytedance/seedance-2.0,ByteDance,Atlas Cloud,480p,0.089994,true
+bytedance/seedance-2.0,ByteDance,Atlas Cloud,720p,0.193536,true
+bytedance/seedance-2.0,ByteDance,Atlas Cloud,720p-sr,0.16199,true
+bytedance/seedance-2.0,ByteDance,Atlas Cloud,1080p,0.435456,true
+bytedance/seedance-2.0,ByteDance,Atlas Cloud,1080p-sr,0.348365,true
+bytedance/seedance-2.0,ByteDance,Atlas Cloud,1440p-sr,0.619315,true
+bytedance/seedance-2.0,ByteDance,Atlas Cloud,2160p,1.24105,true
+bytedance/seedance-2.0,ByteDance,Fal,480p,0.1345,true
+bytedance/seedance-2.0,ByteDance,Fal,720p,0.3034,true
+bytedance/seedance-2.0,ByteDance,Fal,1080p,0.682,true
+bytedance/seedance-2.0,ByteDance,Fal,2160p,1.5552,true
+bytedance/seedance-2.0,ByteDance,MachGen,480p,0.05976,true
+bytedance/seedance-2.0,ByteDance,MachGen,720p,0.12852,true
+bytedance/seedance-2.0,ByteDance,MachGen,1080p,0.31809,true
+bytedance/seedance-2.0,ByteDance,MachGen,2160p,0.66096,true
+bytedance/seedance-2.0,ByteDance,OpenRouter,480p,0.067252,true
+bytedance/seedance-2.0,ByteDance,OpenRouter,720p,0.151199,true
+bytedance/seedance-2.0,ByteDance,OpenRouter,1080p,0.37422,true
+bytedance/seedance-2.0,ByteDance,OpenRouter,2160p,0.7776,true
+bytedance/seedance-2.0,ByteDance,OpenSand,480p,0.059762,true
+bytedance/seedance-2.0,ByteDance,OpenSand,720p,0.12852,true
+bytedance/seedance-2.0,ByteDance,OpenSand,1080p,0.318087,true
+bytedance/seedance-2.0,ByteDance,OpenSand,2160p,0.60653,true
+bytedance/seedance-2.0,ByteDance,Replicate,480p,0.08,true
+bytedance/seedance-2.0,ByteDance,Replicate,720p,0.18,true
+bytedance/seedance-2.0,ByteDance,Replicate,1080p,0.45,true
+bytedance/seedance-2.0,ByteDance,Replicate,2160p,1,true
+bytedance/seedance-2.0,ByteDance,SandBase,480p,0.096,true
+bytedance/seedance-2.0,ByteDance,SandBase,720p,0.192,true
+bytedance/seedance-2.0,ByteDance,SandBase,1080p,0.48,true
+bytedance/seedance-2.0,ByteDance,SandBase,2160p,0.96,true
+bytedance/seedance-2.0,ByteDance,SoCheap-Official,480p,0.0592,true
+bytedance/seedance-2.0,ByteDance,SoCheap-Official,720p,0.1274,true
+bytedance/seedance-2.0,ByteDance,SoCheap-Official,1080p,0.3201,true
+bytedance/seedance-2.0,ByteDance,SoCheap-Overseas,720p,0.0896,true
+bytedance/seedance-2.0,ByteDance,TOAPIS,480p,0.066,true
+bytedance/seedance-2.0,ByteDance,TOAPIS,720p,0.14194,true
+bytedance/seedance-2.0,ByteDance,TOAPIS,1080p,0.35426,true
+bytedance/seedance-2.0,ByteDance,TOAPIS,2160p,0.76841,true
+bytedance/seedance-2.0,ByteDance,WaveSpeedAI,480p,0.12,true
+bytedance/seedance-2.0,ByteDance,WaveSpeedAI,720p,0.24,true
+bytedance/seedance-2.0,ByteDance,WaveSpeedAI,1080p,0.6,true
+bytedance/seedance-2.0,ByteDance,WaveSpeedAI,2160p,1.2,true
+bytedance/seedance-2.0,ByteDance,Higgsfield,480p,0.0804,false
+bytedance/seedance-2.0,ByteDance,Higgsfield,720p,0.1735,false
+bytedance/seedance-2.0,ByteDance,Higgsfield,1080p,0.4293,false
+bytedance/seedance-2.0,ByteDance,Higgsfield,2160p,0.8907,false
+bytedance/seedance-2.0-fast,ByteDance,Atlas Cloud,480p,0.026998,true
+bytedance/seedance-2.0-fast,ByteDance,Atlas Cloud,720p,0.058061,true
+bytedance/seedance-2.0-fast,ByteDance,Atlas Cloud,720p-sr,0.048597,true
+bytedance/seedance-2.0-fast,ByteDance,Atlas Cloud,1080p,0.130637,true
+bytedance/seedance-2.0-fast,ByteDance,Atlas Cloud,1080p-sr,0.104509,true
+bytedance/seedance-2.0-fast,ByteDance,Atlas Cloud,1440p-sr,0.185795,true
+bytedance/seedance-2.0-fast,ByteDance,Fal,any,0.2419,true
+bytedance/seedance-2.0-fast,ByteDance,MachGen,480p,0.04781,true
+bytedance/seedance-2.0-fast,ByteDance,MachGen,720p,0.10282,true
+bytedance/seedance-2.0-fast,ByteDance,OpenRouter,480p,0.040351,true
+bytedance/seedance-2.0-fast,ByteDance,OpenRouter,720p,0.09072,true
+bytedance/seedance-2.0-fast,ByteDance,OpenSand,480p,0.047809,true
+bytedance/seedance-2.0-fast,ByteDance,OpenSand,720p,0.102816,true
+bytedance/seedance-2.0-fast,ByteDance,Replicate,480p,0.07,true
+bytedance/seedance-2.0-fast,ByteDance,Replicate,720p,0.15,true
+bytedance/seedance-2.0-fast,ByteDance,SandBase,480p,0.085,true
+bytedance/seedance-2.0-fast,ByteDance,SandBase,720p,0.17,true
+bytedance/seedance-2.0-fast,ByteDance,TOAPIS,480p,0.0416,true
+bytedance/seedance-2.0-fast,ByteDance,TOAPIS,720p,0.089463,true
+bytedance/seedance-2.0-fast,ByteDance,WaveSpeedAI,480p,0.1,true
+bytedance/seedance-2.0-fast,ByteDance,WaveSpeedAI,720p,0.2,true
+bytedance/seedance-2.0-fast,ByteDance,WaveSpeedAI,1080p,0.5,true
+bytedance/seedance-2.0-fast,ByteDance,WaveSpeedAI,2160p,1,true
+bytedance/seedance-2.0-mini,ByteDance,Atlas Cloud,480p,0.011249,true
+bytedance/seedance-2.0-mini,ByteDance,Atlas Cloud,720p,0.024192,true
+bytedance/seedance-2.0-mini,ByteDance,Atlas Cloud,720p-sr,0.020249,true
+bytedance/seedance-2.0-mini,ByteDance,Atlas Cloud,1080p-sr,0.043546,true
+bytedance/seedance-2.0-mini,ByteDance,Atlas Cloud,1440p-sr,0.077414,true
+bytedance/seedance-2.0-mini,ByteDance,Fal,480p,0.0721,true
+bytedance/seedance-2.0-mini,ByteDance,Fal,720p,0.1547,true
+bytedance/seedance-2.0-mini,ByteDance,MachGen,480p,0.02988,true
+bytedance/seedance-2.0-mini,ByteDance,MachGen,720p,0.06426,true
+bytedance/seedance-2.0-mini,ByteDance,OpenRouter,480p,0.033626,true
+bytedance/seedance-2.0-mini,ByteDance,OpenRouter,720p,0.075599,true
+bytedance/seedance-2.0-mini,ByteDance,OpenSand,480p,0.029881,true
+bytedance/seedance-2.0-mini,ByteDance,OpenSand,720p,0.06426,true
+bytedance/seedance-2.0-mini,ByteDance,SandBase,480p,0.054,true
+bytedance/seedance-2.0-mini,ByteDance,SandBase,720p,0.108,true
+bytedance/seedance-2.0-mini,ByteDance,TOAPIS,480p,0.018964,true
+bytedance/seedance-2.0-mini,ByteDance,TOAPIS,720p,0.040782,true
+bytedance/seedance-2.0-mini,ByteDance,WaveSpeedAI,480p,0.06,true
+bytedance/seedance-2.0-mini,ByteDance,WaveSpeedAI,720p,0.12,true
+bytedance/seedance-2.0-mini,ByteDance,WaveSpeedAI,1080p,0.3,true
+bytedance/seedance-2.0-mini,ByteDance,WaveSpeedAI,2160p,0.6,true
+bytedance/seedance-2.5,ByteDance,Atlas Cloud,480p,0.139712,true
+bytedance/seedance-2.5,ByteDance,Atlas Cloud,720p,0.300456,true
+bytedance/seedance-2.5,ByteDance,Atlas Cloud,720p-esr,0.251482,true
+bytedance/seedance-2.5,ByteDance,Atlas Cloud,720p-sr,0.219348,true
+bytedance/seedance-2.5,ByteDance,Atlas Cloud,1080p,0.591365,true
+bytedance/seedance-2.5,ByteDance,Atlas Cloud,1080p-esr,0.450684,true
+bytedance/seedance-2.5,ByteDance,Atlas Cloud,1080p-esr & 60fps,0.495752,true
+bytedance/seedance-2.5,ByteDance,Atlas Cloud,1080p-sr,0.405616,true
+bytedance/seedance-2.5,ByteDance,Atlas Cloud,1440p-esr,0.760154,true
+bytedance/seedance-2.5,ByteDance,Atlas Cloud,1440p-sr,0.699999,true
+bytedance/seedance-2.5,ByteDance,Atlas Cloud,4k-esr,1.700581,true
+bytedance/seedance-2.5,ByteDance,Fal,480p,0.2205,true
+bytedance/seedance-2.5,ByteDance,Fal,720p,0.473,true
+bytedance/seedance-2.5,ByteDance,Fal,1080p,1.164,true
+bytedance/seedance-2.5,ByteDance,Fal-US,480p,0.2205,true
+bytedance/seedance-2.5,ByteDance,Fal-US,720p,0.473,true
+bytedance/seedance-2.5,ByteDance,MachGen,480p,0.08738,true
+bytedance/seedance-2.5,ByteDance,MachGen,720p,0.19645,true
+bytedance/seedance-2.5,ByteDance,MachGen,1080p,0.48333,true
+bytedance/seedance-2.5,ByteDance,OpenRouter,480p,0.1028,true
+bytedance/seedance-2.5,ByteDance,OpenRouter,720p,0.23112,true
+bytedance/seedance-2.5,ByteDance,OpenRouter,1080p,0.52002,true
+bytedance/seedance-2.5,ByteDance,OpenRouter,2160p,2.08008,true
+bytedance/seedance-2.5,ByteDance,OpenSand,480p,0.09135,true
+bytedance/seedance-2.5,ByteDance,OpenSand,720p,0.196452,true
+bytedance/seedance-2.5,ByteDance,OpenSand,1080p,0.483327,true
+bytedance/seedance-2.5,ByteDance,OpenSand,2160p,1.933308,true
+bytedance/seedance-2.5,ByteDance,Replicate,480p,0.1028,true
+bytedance/seedance-2.5,ByteDance,Replicate,720p,0.2312,true
+bytedance/seedance-2.5,ByteDance,SandBase,480p,0.144,true
+bytedance/seedance-2.5,ByteDance,SandBase,720p,0.288,true
+bytedance/seedance-2.5,ByteDance,SandBase,1080p,0.72,true
+bytedance/seedance-2.5,ByteDance,SoCheap-Official,480p,0.0862,true
+bytedance/seedance-2.5,ByteDance,SoCheap-Official,720p,0.1934,true
+bytedance/seedance-2.5,ByteDance,SoCheap-Official,1080p,0.4783,true
+bytedance/seedance-2.5,ByteDance,SoCheap-Overseas,720p,0.137,true
+bytedance/seedance-2.5,ByteDance,TOAPIS,480p,0.10044,true
+bytedance/seedance-2.5,ByteDance,TOAPIS,720p,0.2175,true
+bytedance/seedance-2.5,ByteDance,TOAPIS,1080p,0.5391,true
+bytedance/seedance-2.5,ByteDance,WaveSpeedAI,480p,0.162,true
+bytedance/seedance-2.5,ByteDance,WaveSpeedAI,720p,0.324,true
+bytedance/seedance-2.5,ByteDance,WaveSpeedAI,1080p,0.81,true
+bytedance/seedance-2.5,ByteDance,WaveSpeedAI,2160p,1.62,true
+bytedance/seedance-2.5,ByteDance,Higgsfield,480p,0.1177,false
+bytedance/seedance-2.5,ByteDance,Higgsfield,720p,0.2647,false
+bytedance/seedance-2.5,ByteDance,Higgsfield,1080p,0.6518,false
+bytedance/seedance-2.5-talking-avatar,ByteDance,WaveSpeedAI,480p,0.22,true
+bytedance/seedance-2.5-talking-avatar,ByteDance,WaveSpeedAI,720p,0.44,true
+creatify/boreal,Creatify,Fal,720p,0.01,true
+creatify/boreal,Creatify,Fal,1080p,0.03,true
+creatify/boreal,Creatify,Fal,2k,0.12,true
+fal/flux-3-max,Fal,Fal,720p,0.17,true
+fal/flux-3-max,Fal,Fal,1080p,0.29,true
+google/gemini-omni-1.1-flash,Google,Atlas Cloud,720p,0.099,true
+google/gemini-omni-1.1-flash,Google,Atlas Cloud,1080p,0.144,true
+google/gemini-omni-1.1-flash,Google,Atlas Cloud,2160p,0.279,true
+google/gemini-omni-1.1-flash,Google,Google,any,0.1,true
+google/gemini-omni-1.1-flash,Google,WaveSpeedAI,360p,0.03,true
+google/gemini-omni-1.1-flash,Google,WaveSpeedAI,720p,0.1,true
+google/gemini-omni-1.1-flash,Google,WaveSpeedAI,1080p,0.15,true
+google/gemini-omni-1.1-flash,Google,WaveSpeedAI,2160p,0.3,true
+google/gemini-omni-1.2-flash,Google,Atlas Cloud,720p,0.059635,true
+google/gemini-omni-1.2-flash,Google,Atlas Cloud,1080p,0.087437,true
+google/gemini-omni-1.2-flash,Google,Atlas Cloud,2160p,0.170842,true
+google/gemini-omni-1.2-flash,Google,Fal,360p,0.0273,true
+google/gemini-omni-1.2-flash,Google,Fal,720p,0.0819,true
+google/gemini-omni-1.2-flash,Google,Fal,1080p,0.1229,true
+google/gemini-omni-1.2-flash,Google,Fal,2160p,0.2457,true
+google/gemini-omni-1.2-flash,Google,Google,360p,0.023172,true
+google/gemini-omni-1.2-flash,Google,Google,720p,0.069504,true
+google/gemini-omni-1.2-flash,Google,Google,1080p,0.104256,true
+google/gemini-omni-1.2-flash,Google,Google,2160p,0.208512,true
+google/gemini-omni-1.2-flash,Google,WaveSpeedAI,360p,0.023,true
+google/gemini-omni-1.2-flash,Google,WaveSpeedAI,720p,0.07,true
+google/gemini-omni-1.2-flash,Google,WaveSpeedAI,1080p,0.105,true
+google/gemini-omni-1.2-flash,Google,WaveSpeedAI,2160p,0.21,true
+google/gemini-omni-flash,Google,Atlas Cloud,any,0.125,true
+google/gemini-omni-flash,Google,Fal,any,0.13,true
+google/gemini-omni-flash,Google,Google,any,0.1,true
+google/gemini-omni-flash,Google,WaveSpeedAI,any,0.13,true
+google/veo-3,Google,Replicate,any,0.2,true
+google/veo-3-fast,Google,Replicate,any,0.1,true
+google/veo-3.1,Google,DeepInfra,any,0.4,true
+google/veo-3.1,Google,MachGen,720p,0.40035,true
+google/veo-3.1,Google,MachGen,1080p,0.40035,true
+google/veo-3.1,Google,MachGen,2160p,0.6001,true
+google/veo-3.1,Google,OpenRouter,720p,0.2,true
+google/veo-3.1,Google,OpenRouter,1080p,0.2,true
+google/veo-3.1,Google,OpenRouter,2160p,0.4,true
+google/veo-3.1,Google,Pika,any,0.2,true
+google/veo-3.1,Google,Replicate,any,0.2,true
+google/veo-3.1,Google,SandBase,720p,0.2,true
+google/veo-3.1,Google,SandBase,1080p,0.2,true
+google/veo-3.1,Google,SandBase,2160p,0.4,true
+google/veo-3.1,Google,WaveSpeedAI,720p,0.4,true
+google/veo-3.1,Google,WaveSpeedAI,1080p,0.4,true
+google/veo-3.1,Google,WaveSpeedAI,2160p,0.4,true
+google/veo-3.1-extend,Google,Fal,720p,0.4,true
+google/veo-3.1-extend,Google,Fal,1080p,0.4,true
+google/veo-3.1-fast,Google,DeepInfra,any,0.15,true
+google/veo-3.1-fast,Google,MachGen,720p,0.1003,true
+google/veo-3.1-fast,Google,MachGen,1080p,0.1207,true
+google/veo-3.1-fast,Google,MachGen,2160p,0.30005,true
+google/veo-3.1-fast,Google,OpenRouter,720p,0.08,true
+google/veo-3.1-fast,Google,OpenRouter,1080p,0.1,true
+google/veo-3.1-fast,Google,OpenRouter,2160p,0.25,true
+google/veo-3.1-fast,Google,Pika,720p,0.08,true
+google/veo-3.1-fast,Google,Pika,1080p,0.1,true
+google/veo-3.1-fast,Google,Replicate,any,0.1,true
+google/veo-3.1-fast,Google,SandBase,720p,0.08,true
+google/veo-3.1-fast,Google,SandBase,1080p,0.1,true
+google/veo-3.1-fast,Google,SandBase,2160p,0.25,true
+google/veo-3.1-fast,Google,WaveSpeedAI,720p,0.15,true
+google/veo-3.1-fast,Google,WaveSpeedAI,1080p,0.15,true
+google/veo-3.1-fast,Google,WaveSpeedAI,2160p,0.15,true
+google/veo-3.1-fast-extend,Google,Fal,720p,0.15,true
+google/veo-3.1-fast-extend,Google,Fal,1080p,0.15,true
+google/veo-3.1-lite,Google,OpenRouter,720p,0.03,true
+google/veo-3.1-lite,Google,OpenRouter,1080p,0.05,true
+google/veo-3.1-lite,Google,Pika,720p,0.03,true
+google/veo-3.1-lite,Google,Pika,1080p,0.05,true
+google/veo-3.1-lite,Google,SandBase,720p,0.03,true
+google/veo-3.1-lite,Google,SandBase,1080p,0.05,true
+google/veo-3.1-lite,Google,WaveSpeedAI,720p,0.05,true
+google/veo-3.1-lite,Google,WaveSpeedAI,1080p,0.08,true
+heygen/avatar-iv,HeyGen,HeyGen,720p,0.05,true
+heygen/avatar-iv,HeyGen,HeyGen,1080p,0.05,true
+heygen/avatar-iv,HeyGen,HeyGen,2160p,0.066667,true
+heygen/heygen-avatar4-image-to-video,HeyGen,Fal,any,0.1,true
+heygen/heygen-v3-lipsync-precision,HeyGen,Fal,any,0.1,true
+heygen/heygen-v3-lipsync-speed,HeyGen,Fal,any,0.05,true
+heygen/heygen-video-1,HeyGen,Fal,480p,0.02,true
+heygen/heygen-video-1,HeyGen,Fal,768p,0.02,true
+heygen/heygen-video-1,HeyGen,Fal,1080p,0.06,true
+heygen/heygen-video-1,HeyGen,Fal,2k,0.06,true
+heygen/heygen-video-1,HeyGen,HeyGen,480p,0.02,true
+heygen/heygen-video-1,HeyGen,HeyGen,768p,0.03,true
+heygen/heygen-video-1,HeyGen,HeyGen,1080p,0.09,true
+heygen/heygen-video-1,HeyGen,HeyGen,2k,0.09,true
+heygen/heygen-video-1,HeyGen,OpenRouter,480p,0.02,true
+heygen/heygen-video-1,HeyGen,OpenRouter,768p,0.036,true
+heygen/heygen-video-1,HeyGen,OpenRouter,1080p,0.1,true
+heygen/heygen-video-1,HeyGen,OpenRouter,2k,0.1,true
+heygen/heygen-video-1,HeyGen,WaveSpeedAI,480p,0.02,true
+heygen/heygen-video-1,HeyGen,WaveSpeedAI,768p,0.036,true
+kuaishou/kling-ai-avatar-v2-pro,Kuaishou,Fal,any,0.115,true
+kuaishou/kling-ai-avatar-v2-pro,Kuaishou,WaveSpeedAI,any,0.112,true
+kuaishou/kling-ai-avatar-v2-standard,Kuaishou,Fal,any,0.0562,true
+kuaishou/kling-ai-avatar-v2-standard,Kuaishou,WaveSpeedAI,any,0.056,true
+kuaishou/kling-motion-control,Kuaishou,Atlas Cloud,pro,0.1428,true
+kuaishou/kling-motion-control,Kuaishou,Atlas Cloud,std,0.1071,true
+kuaishou/kling-motion-control,Kuaishou,Novita,pro,0.21,true
+kuaishou/kling-motion-control,Kuaishou,Novita,std,0.1575,true
+kuaishou/kling-o3,Kuaishou,MachGen,720p,0.068,true
+kuaishou/kling-o3,Kuaishou,MachGen,1080p,0.0901,true
+kuaishou/kling-o3,Kuaishou,MachGen,2160p,0.3366,true
+kuaishou/kling-o3,Kuaishou,SandBase,720p,0.0588,true
+kuaishou/kling-o3,Kuaishou,SandBase,1080p,0.0784,true
+kuaishou/kling-o3,Kuaishou,SandBase,2160p,0.294,true
+kuaishou/kling-o3,Kuaishou,WaveSpeedAI,720p,0.084,true
+kuaishou/kling-o3,Kuaishou,WaveSpeedAI,1080p,0.112,true
+kuaishou/kling-o3,Kuaishou,WaveSpeedAI,2160p,0.42,true
+kuaishou/kling-o3,Kuaishou,WaveSpeedAI,any,0.084,true
+kuaishou/kling-v2.6,Kuaishou,Kling,std,0.062,true
+kuaishou/kling-v2.6,Kuaishou,WaveSpeedAI,any,0.042,true
+kuaishou/kling-v2.6,Kuaishou,WaveSpeedAI,pro,0.14,true
+kuaishou/kling-v2.6,Kuaishou,WaveSpeedAI,std,0.042,true
+kuaishou/kling-v2.6,Kuaishou,Higgsfield,1080p,0.0666,false
+kuaishou/kling-v2.6-motion-control,Kuaishou,Atlas Cloud,pro,0.0952,true
+kuaishou/kling-v2.6-motion-control,Kuaishou,Atlas Cloud,std,0.0595,true
+kuaishou/kling-v3,Kuaishou,kie.ai,720p,0.07,true
+kuaishou/kling-v3,Kuaishou,kie.ai,1080p,0.09,true
+kuaishou/kling-v3,Kuaishou,kie.ai,2160p,0.335,true
+kuaishou/kling-v3,Kuaishou,MachGen,720p,0.068,true
+kuaishou/kling-v3,Kuaishou,MachGen,1080p,0.0901,true
+kuaishou/kling-v3,Kuaishou,MachGen,2160p,0.3366,true
+kuaishou/kling-v3,Kuaishou,Novita,720p,0.084,true
+kuaishou/kling-v3,Kuaishou,Novita,1080p,0.112,true
+kuaishou/kling-v3,Kuaishou,Novita,2160p,0.42,true
+kuaishou/kling-v3,Kuaishou,OpenRouter,720p,0.14,true
+kuaishou/kling-v3,Kuaishou,Pika,720p,0.068,true
+kuaishou/kling-v3,Kuaishou,Pika,1080p,0.09,true
+kuaishou/kling-v3,Kuaishou,SandBase,720p,0.0588,true
+kuaishou/kling-v3,Kuaishou,SandBase,1080p,0.0784,true
+kuaishou/kling-v3,Kuaishou,SandBase,2160p,0.294,true
+kuaishou/kling-v3,Kuaishou,TOAPIS,720p,0.06,true
+kuaishou/kling-v3,Kuaishou,TOAPIS,1080p,0.08,true
+kuaishou/kling-v3,Kuaishou,WaveSpeedAI,720p,0.084,true
+kuaishou/kling-v3,Kuaishou,WaveSpeedAI,1080p,0.112,true
+kuaishou/kling-v3,Kuaishou,WaveSpeedAI,2160p,0.42,true
+kuaishou/kling-v3,Kuaishou,WaveSpeedAI,any,0.084,true
+kuaishou/kling-v3,Kuaishou,Higgsfield,720p,0.0714,false
+kuaishou/kling-v3,Kuaishou,Higgsfield,1080p,0.0962,false
+kuaishou/kling-v3-omni-video,Kuaishou,Replicate,2160p,0.42,true
+kuaishou/kling-v3-omni-video,Kuaishou,Replicate,pro,0.224,true
+kuaishou/kling-v3-omni-video,Kuaishou,Replicate,standard,0.168,true
+kuaishou/kling-v3-turbo,Kuaishou,kie.ai,720p,0.09,true
+kuaishou/kling-v3-turbo,Kuaishou,kie.ai,1080p,0.1125,true
+kuaishou/kling-v3-turbo,Kuaishou,Pika,720p,0.09,true
+kuaishou/kling-v3-turbo,Kuaishou,Pika,1080p,0.112,true
+kuaishou/kling-v3-turbo,Kuaishou,WaveSpeedAI,720p,0.112,true
+kuaishou/kling-v3-turbo,Kuaishou,WaveSpeedAI,1080p,0.14,true
+kuaishou/kling-v3-turbo,Kuaishou,WaveSpeedAI,any,0.112,true
+kuaishou/kling-v3-video,Kuaishou,Replicate,2160p,0.42,true
+kuaishou/kling-v3-video,Kuaishou,Replicate,pro,0.224,true
+kuaishou/kling-v3-video,Kuaishou,Replicate,standard,0.168,true
+kuaishou/kling-v4.0,Kuaishou,Atlas Cloud,720p,0.14287,true
+kuaishou/kling-v4.0,Kuaishou,Atlas Cloud,1080p,0.21385,true
+kuaishou/kling-v4.0,Kuaishou,Atlas Cloud,1080p-esr,0.182,true
+kuaishou/kling-v4.0,Kuaishou,Atlas Cloud,2k,0.21385,true
+kuaishou/kling-v4.0,Kuaishou,Atlas Cloud,2160p,0.21385,true
+kuaishou/kling-v4.0,Kuaishou,Atlas Cloud,4k-esr,0.364,true
+kuaishou/kling-v4.0,Kuaishou,Fal,720p,0.157,true
+kuaishou/kling-v4.0,Kuaishou,Fal,1080p,0.235,true
+kuaishou/kling-v4.0,Kuaishou,MachGen,720p,0.13345,true
+kuaishou/kling-v4.0,Kuaishou,MachGen,1080p,0.19975,true
+kuaishou/kling-v4.0,Kuaishou,Replicate,720p,0.157,true
+kuaishou/kling-v4.0,Kuaishou,Replicate,1080p,0.235,true
+kuaishou/kling-v4.0,Kuaishou,Runware,720p,0.157,true
+kuaishou/kling-v4.0,Kuaishou,Runware,1080p,0.235,true
+kuaishou/kling-v4.0,Kuaishou,SandBase,720p,0.13345,true
+kuaishou/kling-v4.0,Kuaishou,SandBase,1080p,0.19975,true
+kuaishou/kling-v4.0,Kuaishou,TOAPIS,720p,0.157,true
+kuaishou/kling-v4.0,Kuaishou,TOAPIS,1080p,0.235,true
+kuaishou/kling-v4.0,Kuaishou,WaveSpeedAI,720p,0.157,true
+kuaishou/kling-v4.0,Kuaishou,WaveSpeedAI,1080p,0.235,true
+kuaishou/kling-v4.0,Kuaishou,Higgsfield,720p,0.1257,false
+kuaishou/kling-v4.0,Kuaishou,Higgsfield,1080p,0.1879,false
+kuaishou/kling-v4.0-edit,Kuaishou,Atlas Cloud,720p,0.17108,true
+kuaishou/kling-v4.0-edit,Kuaishou,Atlas Cloud,1080p,0.25662,true
+kuaishou/kling-v4.0-edit,Kuaishou,Fal,720p,0.188,true
+kuaishou/kling-v4.0-edit,Kuaishou,Fal,1080p,0.282,true
+kuaishou/kling-v4.0-edit,Kuaishou,Runware,720p,0.188,true
+kuaishou/kling-v4.0-edit,Kuaishou,Runware,1080p,0.282,true
+kuaishou/kling-v4.0-edit,Kuaishou,SandBase,720p,0.1598,true
+kuaishou/kling-v4.0-edit,Kuaishou,SandBase,1080p,0.2397,true
+kuaishou/kling-v4.0-edit,Kuaishou,WaveSpeedAI,720p,0.188,true
+kuaishou/kling-v4.0-edit,Kuaishou,WaveSpeedAI,1080p,0.282,true
+kuaishou/kling-v4.0-extend,Kuaishou,WaveSpeedAI,720p,0.157,true
+kuaishou/kling-v4.0-extend,Kuaishou,WaveSpeedAI,1080p,0.235,true
+kuaishou/kling-v4.0-flash,Kuaishou,Atlas Cloud,720p,0.085722,true
+kuaishou/kling-v4.0-flash,Kuaishou,Fal,720p,0.094,true
+kuaishou/kling-v4.0-flash,Kuaishou,Runware,720p,0.094,true
+kuaishou/kling-v4.0-flash,Kuaishou,WaveSpeedAI,720p,0.094,true
+kuaishou/kling-v4.0-flash-edit,Kuaishou,Atlas Cloud,720p,0.114296,true
+kuaishou/kling-v4.0-flash-edit,Kuaishou,Runware,720p,0.126,true
+kuaishou/kling-v4.0-flash-edit,Kuaishou,WaveSpeedAI,720p,0.126,true
+kuaishou/kling-video-o1,Kuaishou,OpenRouter,any,0.112,true
+lightricks/ltx-2-fast,Lightricks,WaveSpeedAI,any,0.04,true
+lightricks/ltx-2-pro,Lightricks,WaveSpeedAI,any,0.06,true
+lightricks/ltx-2.3,Lightricks,WaveSpeedAI,480p,0.02,true
+lightricks/ltx-2.3,Lightricks,WaveSpeedAI,720p,0.03,true
+lightricks/ltx-2.3,Lightricks,WaveSpeedAI,1080p,0.04,true
+lightricks/ltx-2.3-fast,Lightricks,SandBase,1080p,0.06,true
+lightricks/ltx-2.3-fast,Lightricks,SandBase,1440p,0.12,true
+lightricks/ltx-2.3-fast,Lightricks,SandBase,2160p,0.24,true
+lightricks/ltx-2.3-pro,Lightricks,MachGen,1080p,0.03,true
+lightricks/ltx-2.3-pro,Lightricks,MachGen,1440p,0.06,true
+lightricks/ltx-2.3-pro,Lightricks,MachGen,2160p,0.1,true
+lightricks/ltx-2.3-pro,Lightricks,SandBase,1080p,0.08,true
+lightricks/ltx-2.3-pro,Lightricks,SandBase,1440p,0.16,true
+lightricks/ltx-2.3-pro,Lightricks,SandBase,2160p,0.32,true
+lightricks/ltx-2.5,Lightricks,WaveSpeedAI,720p,0.1,true
+lightricks/ltx-2.5,Lightricks,WaveSpeedAI,1080p,0.14,true
+lightricks/ltx-2.5,Lightricks,WaveSpeedAI,2k,0.21,true
+lightricks/ltx-2.5,Lightricks,WaveSpeedAI,2160p,0.33,true
+lightricks/ltx-2.5-fast,Lightricks,Fal,720p,0.09,true
+lightricks/ltx-2.5-fast,Lightricks,Fal,1080p,0.13,true
+lightricks/ltx-2.5-fast,Lightricks,Fal,1440p,0.19,true
+lightricks/ltx-2.5-fast,Lightricks,Fal,2160p,0.3,true
+lightricks/ltx-2.5-fast,Lightricks,Lightricks,720p,0.09,true
+lightricks/ltx-2.5-fast,Lightricks,Lightricks,1080p,0.13,true
+lightricks/ltx-2.5-fast,Lightricks,Lightricks,1440p,0.19,true
+lightricks/ltx-2.5-fast,Lightricks,Lightricks,2160p,0.3,true
+lightricks/ltx-2.5-pro,Lightricks,Fal,720p,0.12,true
+lightricks/ltx-2.5-pro,Lightricks,Fal,1080p,0.17,true
+lightricks/ltx-2.5-pro,Lightricks,Lightricks,720p,0.12,true
+lightricks/ltx-2.5-pro,Lightricks,Lightricks,1080p,0.17,true
+luma/luma-ray-3.2,Luma,Luma,540p,0.03,true
+luma/luma-ray-3.2,Luma,Luma,720p,0.06,true
+luma/luma-ray-3.2,Luma,Luma,1080p,0.24,true
+luma/luma-ray-3.2,Luma,SandBase,540p,0.1,true
+luma/luma-ray-3.2,Luma,SandBase,720p,0.2,true
+luma/luma-ray-3.2,Luma,SandBase,1080p,0.4,true
+meigen-ai/infinitetalk,MeiGen-AI,Atlas Cloud,480p,0.03,true
+meigen-ai/infinitetalk,MeiGen-AI,Atlas Cloud,720p,0.06,true
+meigen-ai/infinitetalk-fast,MeiGen-AI,WaveSpeedAI,any,0.015,true
+meituan/longcat-avatar-1.5,Meituan,WaveSpeedAI,480p,0.04,true
+meituan/longcat-avatar-1.5,Meituan,WaveSpeedAI,720p,0.08,true
+minimax/h3,MiniMax,Atlas Cloud,480p,0.038,true
+minimax/h3,MiniMax,Atlas Cloud,768p,0.08,true
+minimax/h3,MiniMax,Atlas Cloud,1080p,0.08,true
+minimax/h3,MiniMax,Atlas Cloud,1080p-esr,0.105,true
+minimax/h3,MiniMax,Atlas Cloud,1440p,0.08,true
+minimax/h3,MiniMax,Atlas Cloud,1440p-esr,0.115,true
+minimax/h3,MiniMax,Atlas Cloud,2k,0.13,true
+minimax/h3,MiniMax,Atlas Cloud,2160p,0.08,true
+minimax/h3,MiniMax,Atlas Cloud,4k-esr,0.195,true
+minimax/h3,MiniMax,Fal,480p,0.05,true
+minimax/h3,MiniMax,Fal,768p,0.06,true
+minimax/h3,MiniMax,Fal,2k,0.13,true
+minimax/h3,MiniMax,Fal,2160p,0.16,true
+minimax/h3,MiniMax,kie.ai,768p,0.04,true
+minimax/h3,MiniMax,kie.ai,2k,0.065,true
+minimax/h3,MiniMax,MachGen,480p,0.044,true
+minimax/h3,MiniMax,MachGen,768p,0.05,true
+minimax/h3,MiniMax,MachGen,1440p,0.125,true
+minimax/h3,MiniMax,MiniMax,768p,0.08,true
+minimax/h3,MiniMax,MiniMax,2k,0.13,true
+minimax/h3,MiniMax,Novita,768p,0.069,true
+minimax/h3,MiniMax,Novita,2k,0.1104,true
+minimax/h3,MiniMax,OpenSand,768p,0.05304,true
+minimax/h3,MiniMax,OpenSand,2k,0.08619,true
+minimax/h3,MiniMax,Pika,768p,0.08,true
+minimax/h3,MiniMax,Pika,2k,0.13,true
+minimax/h3,MiniMax,Replicate,768p,0.08,true
+minimax/h3,MiniMax,Replicate,2k,0.13,true
+minimax/h3,MiniMax,SandBase,768p,0.048,true
+minimax/h3,MiniMax,SandBase,2k,0.104,true
+minimax/h3,MiniMax,TOAPIS,768p,0.08,true
+minimax/h3,MiniMax,TOAPIS,2k,0.13,true
+minimax/h3,MiniMax,WaveSpeedAI,480p,0.04,true
+minimax/h3,MiniMax,WaveSpeedAI,540p,0.06,true
+minimax/h3,MiniMax,WaveSpeedAI,768p,0.08,true
+minimax/h3,MiniMax,WaveSpeedAI,1080p,0.16,true
+minimax/h3,MiniMax,WaveSpeedAI-resell,768p,0.1,true
+minimax/h3,MiniMax,WaveSpeedAI-resell,2k,0.14,true
+minimax/h3,MiniMax,Higgsfield,1440p,0.13,false
+minimax/h3-fast,MiniMax,Atlas Cloud,any,0.0437,true
+minimax/h3-max,MiniMax,Atlas Cloud,480p,0.0475,true
+minimax/h3-max,MiniMax,Atlas Cloud,768p,0.076,true
+minimax/h3-max,MiniMax,Atlas Cloud,1440p,0.076,true
+minimax/h3-max,MiniMax,Atlas Cloud,1440p-sr,0.1425,true
+minimax/h3-max,MiniMax,Atlas Cloud,2160p,0.076,true
+minimax/h3-max,MiniMax,Atlas Cloud,4k-sr,0.19475,true
+minimax/h3-max,MiniMax,Fal,480p,0.05,true
+minimax/h3-max,MiniMax,Fal,768p,0.08,true
+minimax/h3-max,MiniMax,SandBase,480p,0.04,true
+minimax/h3-max,MiniMax,SandBase,768p,0.064,true
+minimax/h3-max,MiniMax,TOAPIS,480p,0.05,true
+minimax/h3-max,MiniMax,TOAPIS,768p,0.08,true
+minimax/h3-max-camera-controls,MiniMax,Fal,480p,0.05,true
+minimax/h3-max-camera-controls,MiniMax,Fal,768p,0.08,true
+minimax/h3-max-camera-controls,MiniMax,Fal,1080p,0.16,true
+minimax/h3-max-lipsync,MiniMax,Fal,480p,0.05,true
+minimax/h3-max-lipsync,MiniMax,Fal,768p,0.08,true
+minimax/h3-max-lipsync,MiniMax,Fal,1080p,0.16,true
+minimax/h3-max-lipsync,MiniMax,Fal,2k,0.32,true
+minimax/h3-max-turbo,MiniMax,Fal,480p,0.025,true
+minimax/h3-max-turbo,MiniMax,Fal,768p,0.04,true
+minimax/h3-max-turbo,MiniMax,Fal,1080p,0.08,true
+minimax/h3-max-turbo,MiniMax,TOAPIS,480p,0.025,true
+minimax/h3-max-turbo,MiniMax,TOAPIS,768p,0.04,true
+minimax/hailuo-2.3,MiniMax,OpenRouter,any,0.0817,true
+minimax/hailuo-2.3-pro,MiniMax,WaveSpeedAI,any,0.081667,true
+minimax/hailuo-2.3-standard,MiniMax,WaveSpeedAI,any,0.046667,true
+minimax/hailuo-3,MiniMax,OpenRouter,any,0.13,true
+minimax/hailuo-3-max,MiniMax,OpenRouter,480p,0.05,true
+minimax/hailuo-3-max,MiniMax,OpenRouter,768p,0.08,true
+minimax/minimax-h3-turbo,MiniMax,MachGen,480p,0.02,true
+minimax/minimax-h3-turbo,MiniMax,MachGen,768p,0.02,true
+pika/pika-2.5,Pika,Pika,720p,0.04,true
+pika/pika-2.5,Pika,Pika,1080p,0.09,true
+pika/pika-h3-flex,Pika,Pika,480p,0.01,true
+pika/pika-h3-flex,Pika,Pika,768p,0.02,true
+pika/pika-h3-flex,Pika,Pika,1080p,0.035,true
+pika/pika-h3-flex,Pika,Pika,2k,0.04,true
+pika/pika-h3-flex,Pika,Pika,2160p,0.08,true
+pika/pikadditions,Pika,Pika,any,0.006,true
+pixverse/pixverse-c1,PixVerse,MachGen,360p,0.02465,true
+pixverse/pixverse-c1,PixVerse,MachGen,540p,0.0323,true
+pixverse/pixverse-c1,PixVerse,MachGen,720p,0.0408,true
+pixverse/pixverse-c1,PixVerse,MachGen,1080p,0.0765,true
+pixverse/pixverse-v6,PixVerse,MachGen,360p,0.0204,true
+pixverse/pixverse-v6,PixVerse,MachGen,540p,0.02805,true
+pixverse/pixverse-v6,PixVerse,MachGen,720p,0.03655,true
+pixverse/pixverse-v6,PixVerse,MachGen,1080p,0.07225,true
+pixverse/pixverse-v6,PixVerse,SandBase,360p,0.025,true
+pixverse/pixverse-v6,PixVerse,SandBase,540p,0.035,true
+pixverse/pixverse-v6,PixVerse,SandBase,720p,0.045,true
+pixverse/pixverse-v6,PixVerse,SandBase,1080p,0.09,true
+pixverse/pixverse-v6,PixVerse,WaveSpeedAI,360p,0.025,true
+pixverse/pixverse-v6,PixVerse,WaveSpeedAI,540p,0.035,true
+pixverse/pixverse-v6,PixVerse,WaveSpeedAI,720p,0.045,true
+pixverse/pixverse-v6,PixVerse,WaveSpeedAI,1080p,0.09,true
+pixverse/pixverse-v6-extend,PixVerse,Atlas Cloud,360p,0.025,true
+pixverse/pixverse-v6-extend,PixVerse,Atlas Cloud,540p,0.035,true
+pixverse/pixverse-v6-extend,PixVerse,Atlas Cloud,720p,0.045,true
+pixverse/pixverse-v6-extend,PixVerse,Atlas Cloud,1080p,0.09,true
+pixverse/pixverse-v6-max,PixVerse,Atlas Cloud,360p,0.024,true
+pixverse/pixverse-v6-max,PixVerse,Atlas Cloud,540p,0.036,true
+pixverse/pixverse-v6-max,PixVerse,Atlas Cloud,720p,0.044,true
+pixverse/pixverse-v6-max,PixVerse,Atlas Cloud,1080p,0.088,true
+pixverse/pixverse-v6-max,PixVerse,Replicate,360p,0.06,true
+pixverse/pixverse-v6-max,PixVerse,Replicate,540p,0.09,true
+pixverse/pixverse-v6-max,PixVerse,Replicate,720p,0.11,true
+pixverse/pixverse-v6-max,PixVerse,Replicate,1080p,0.22,true
+pixverse/pixverse-v6-max,PixVerse,WaveSpeedAI,360p,0.027,true
+pixverse/pixverse-v6-max,PixVerse,WaveSpeedAI,540p,0.04,true
+pixverse/pixverse-v6-max,PixVerse,WaveSpeedAI,720p,0.049,true
+pixverse/pixverse-v6-max,PixVerse,WaveSpeedAI,1080p,0.098,true
+pruna-ai/pruna-p-video-2-pro-avatar,Pruna AI,WaveSpeedAI,480p,0.02,true
+pruna-ai/pruna-p-video-2-pro-avatar,Pruna AI,WaveSpeedAI,768p,0.04,true
+prunaai/p-video,PrunaAI,DeepInfra,any,0.02,true
+prunaai/p-video,PrunaAI,Pruna,720p,0.02,true
+prunaai/p-video,PrunaAI,Pruna,1080p,0.04,true
+prunaai/p-video-2,PrunaAI,Pruna,720p,0.025,true
+prunaai/p-video-2,PrunaAI,Pruna,1080p,0.05,true
+prunaai/p-video-2-draft,PrunaAI,Pruna,720p,0.015,true
+prunaai/p-video-2-draft,PrunaAI,Pruna,1080p,0.03,true
+prunaai/p-video-2-pro,PrunaAI,Pruna,480p,0.02,true
+prunaai/p-video-2-pro,PrunaAI,Pruna,768p,0.035,true
+prunaai/p-video-2-pro,PrunaAI,Pruna,1080p,0.055,true
+prunaai/p-video-2-pro,PrunaAI,Pruna,2k,0.075,true
+prunaai/p-video-2-pro,PrunaAI,Pruna,2160p,0.115,true
+prunaai/p-video-2-pro,PrunaAI,Replicate,480p,0.02,true
+prunaai/p-video-2-pro,PrunaAI,Replicate,768p,0.035,true
+prunaai/p-video-2-pro,PrunaAI,Replicate,1080p,0.055,true
+prunaai/p-video-2-pro,PrunaAI,Replicate,2k,0.075,true
+prunaai/p-video-2-pro,PrunaAI,Replicate,2160p,0.115,true
+prunaai/p-video-2-pro,PrunaAI,Runware,480p,0.02,true
+prunaai/p-video-2-pro,PrunaAI,Runware,768p,0.035,true
+prunaai/p-video-2-pro,PrunaAI,Segmind,480p,0.02,true
+prunaai/p-video-2-pro,PrunaAI,Segmind,768p,0.035,true
+prunaai/p-video-2-pro,PrunaAI,WaveSpeedAI,480p,0.02,true
+prunaai/p-video-2-pro,PrunaAI,WaveSpeedAI,768p,0.035,true
+prunaai/p-video-2-pro-cost,PrunaAI,Pruna,480p,0.01,true
+prunaai/p-video-2-pro-cost,PrunaAI,Pruna,768p,0.025,true
+prunaai/p-video-2-pro-cost,PrunaAI,Pruna,1080p,0.045,true
+prunaai/p-video-2-pro-cost,PrunaAI,Pruna,2k,0.065,true
+prunaai/p-video-2-pro-cost,PrunaAI,Pruna,2160p,0.105,true
+prunaai/p-video-2-pro-cost,PrunaAI,Replicate,480p,0.01,true
+prunaai/p-video-2-pro-cost,PrunaAI,Replicate,768p,0.025,true
+prunaai/p-video-2-pro-cost,PrunaAI,Replicate,1080p,0.045,true
+prunaai/p-video-2-pro-cost,PrunaAI,Replicate,2k,0.065,true
+prunaai/p-video-2-pro-cost,PrunaAI,Replicate,2160p,0.105,true
+prunaai/p-video-2-pro-cost,PrunaAI,Runware,480p,0.01,true
+prunaai/p-video-2-pro-cost,PrunaAI,Runware,768p,0.025,true
+prunaai/p-video-2-pro-cost,PrunaAI,Segmind,480p,0.01,true
+prunaai/p-video-2-pro-cost,PrunaAI,Segmind,768p,0.025,true
+prunaai/p-video-2-pro-cost,PrunaAI,WaveSpeedAI,480p,0.01,true
+prunaai/p-video-2-pro-cost,PrunaAI,WaveSpeedAI,768p,0.025,true
+prunaai/p-video-2-pro-quality,PrunaAI,Pruna,480p,0.04,true
+prunaai/p-video-2-pro-quality,PrunaAI,Pruna,768p,0.075,true
+prunaai/p-video-2-pro-quality,PrunaAI,Pruna,1080p,0.095,true
+prunaai/p-video-2-pro-quality,PrunaAI,Pruna,2k,0.115,true
+prunaai/p-video-2-pro-quality,PrunaAI,Pruna,2160p,0.155,true
+prunaai/p-video-2-pro-quality,PrunaAI,Replicate,480p,0.04,true
+prunaai/p-video-2-pro-quality,PrunaAI,Replicate,768p,0.075,true
+prunaai/p-video-2-pro-quality,PrunaAI,Replicate,1080p,0.095,true
+prunaai/p-video-2-pro-quality,PrunaAI,Replicate,2k,0.115,true
+prunaai/p-video-2-pro-quality,PrunaAI,Replicate,2160p,0.155,true
+prunaai/p-video-2-pro-quality,PrunaAI,Runware,480p,0.04,true
+prunaai/p-video-2-pro-quality,PrunaAI,Runware,768p,0.075,true
+prunaai/p-video-2-pro-quality,PrunaAI,Segmind,480p,0.04,true
+prunaai/p-video-2-pro-quality,PrunaAI,Segmind,768p,0.075,true
+prunaai/p-video-2-pro-quality,PrunaAI,WaveSpeedAI,480p,0.04,true
+prunaai/p-video-2-pro-quality,PrunaAI,WaveSpeedAI,768p,0.075,true
+prunaai/p-video-draft,PrunaAI,Pruna,720p,0.005,true
+prunaai/p-video-draft,PrunaAI,Pruna,1080p,0.01,true
+runway/aleph-2,Runway,Runway,any,0.28,true
+runway/gen-4.5,Runway,OpenRouter,any,0.12,true
+runway/gen-4.5,Runway,Replicate,any,0.12,true
+segmind/hyperswap-video-faceswap,FaceFusion Labs,FaceFusion Labs,any,0.00675,true
+shengshu/vidu-q3,Shengshu,MachGen,540p,0.042,true
+shengshu/vidu-q3,Shengshu,MachGen,720p,0.071,true
+shengshu/vidu-q3,Shengshu,MachGen,1080p,0.089,true
+shengshu/vidu-q3,Shengshu,Runware,360p,0.0325,true
+shengshu/vidu-q3,Shengshu,Runware,540p,0.02925,true
+shengshu/vidu-q3,Shengshu,Runware,720p,0.065,true
+shengshu/vidu-q3,Shengshu,Runware,1080p,0.078,true
+shengshu/vidu-q3,Shengshu,SandBase,360p,0.07,true
+shengshu/vidu-q3,Shengshu,SandBase,540p,0.07,true
+shengshu/vidu-q3,Shengshu,SandBase,720p,0.154,true
+shengshu/vidu-q3,Shengshu,SandBase,1080p,0.16,true
+shengshu/vidu-q3-pro,Shengshu,MachGen,540p,0.053,true
+shengshu/vidu-q3-pro,Shengshu,MachGen,720p,0.118,true
+shengshu/vidu-q3-pro,Shengshu,MachGen,1080p,0.142,true
+shengshu/vidu-q3-pro,Shengshu,WaveSpeedAI,540p,0.05,true
+shengshu/vidu-q3-pro,Shengshu,WaveSpeedAI,720p,0.125,true
+shengshu/vidu-q3-pro,Shengshu,WaveSpeedAI,1080p,0.15,true
+shengshu/vidu-q3-pro-fast,Shengshu,MachGen,720p,0.118,true
+shengshu/vidu-q3-pro-fast,Shengshu,MachGen,1080p,0.148,true
+shengshu/vidu-q3-turbo,Shengshu,MachGen,540p,0.02,true
+shengshu/vidu-q3-turbo,Shengshu,MachGen,720p,0.045,true
+shengshu/vidu-q3-turbo,Shengshu,Runware,360p,0.026,true
+shengshu/vidu-q3-turbo,Shengshu,Runware,540p,0.02275,true
+shengshu/vidu-q3-turbo,Shengshu,Runware,720p,0.03575,true
+shengshu/vidu-q3-turbo,Shengshu,Runware,1080p,0.04225,true
+shengshu/vidu-q3-turbo,Shengshu,SandBase,360p,0.04,true
+shengshu/vidu-q3-turbo,Shengshu,SandBase,540p,0.04,true
+shengshu/vidu-q3-turbo,Shengshu,SandBase,720p,0.077,true
+shengshu/vidu-q3-turbo,Shengshu,SandBase,1080p,0.08,true
+skywork-ai/skyreels-v3-talking-avatar,Skywork AI,WaveSpeedAI,480p,0.03,true
+skywork-ai/skyreels-v3-talking-avatar,Skywork AI,WaveSpeedAI,720p,0.06,true
+skywork-ai/skyreels-v4,Skywork AI,WaveSpeedAI,480p,0.11,true
+skywork-ai/skyreels-v4,Skywork AI,WaveSpeedAI,720p,0.14,true
+skywork-ai/skyreels-v4,Skywork AI,WaveSpeedAI,1080p,0.35,true
+sync-labs/sync-lipsync,Sync Labs,Fal,any,0.011667,true
+sync-labs/sync-lipsync-react-1,Sync Labs,Fal,any,0.166667,true
+sync-labs/sync-lipsync-v2,Sync Labs,Fal,any,0.05,true
+sync-labs/sync-lipsync-v2-pro,Sync Labs,Fal,any,0.083333,true
+sync-labs/sync-lipsync-v3,Sync Labs,Fal,any,0.133333,true
+sync-labs/sync-lipsync-v3-image,Sync Labs,Fal,any,0.133333,true
+veed/veed-fabric-1.0,VEED,WaveSpeedAI,480p,0.07,true
+veed/veed-fabric-1.0,VEED,WaveSpeedAI,720p,0.14,true
+veed/veed-lipsync-v2,VEED,Fal,any,0.07,true
+vidu/s1-avatar-offline,Shengshu,Shengshu,any,0.005,true
+xai/grok-imagine-video,xAI,MachGen,480p,0.05015,true
+xai/grok-imagine-video,xAI,MachGen,720p,0.07055,true
+xai/grok-imagine-video,xAI,OpenRouter,480p,0.05,true
+xai/grok-imagine-video,xAI,OpenRouter,720p,0.07,true
+xai/grok-imagine-video,xAI,Pika,480p,0.053,true
+xai/grok-imagine-video,xAI,Pika,720p,0.074,true
+xai/grok-imagine-video,xAI,WaveSpeedAI,480p,0.05,true
+xai/grok-imagine-video,xAI,WaveSpeedAI,720p,0.05,true
+xai/grok-imagine-video,xAI,WaveSpeedAI,1080p,0.05,true
+xai/grok-imagine-video,xAI,xAI,480p,0.5,true
+xai/grok-imagine-video,xAI,xAI,720p,0.7,true
+xai/grok-imagine-video-1.5,xAI,MachGen,480p,0.08075,true
+xai/grok-imagine-video-1.5,xAI,MachGen,720p,0.14025,true
+xai/grok-imagine-video-1.5,xAI,MachGen,1080p,0.25075,true
+xai/grok-imagine-video-1.5,xAI,OpenRouter,480p,0.08,true
+xai/grok-imagine-video-1.5,xAI,OpenRouter,720p,0.14,true
+xai/grok-imagine-video-1.5,xAI,OpenRouter,1080p,0.25,true
+xai/grok-imagine-video-1.5,xAI,Replicate,any,0.08,true
+xai/grok-imagine-video-1.5,xAI,WaveSpeedAI,480p,0.08,true
+xai/grok-imagine-video-1.5,xAI,WaveSpeedAI,720p,0.14,true
+xai/grok-imagine-video-1.5,xAI,WaveSpeedAI,1080p,0.25,true
+xai/grok-imagine-video-1.5,xAI,xAI,480p,0.8,true
+xai/grok-imagine-video-1.5,xAI,xAI,720p,1.4,true
+xai/grok-imagine-video-1.5,xAI,xAI,1080p,2.5,true
+xai/grok-imagine-video-1.5-lite,xAI,OpenRouter,480p,0.02,true
+xai/grok-imagine-video-1.5-lite,xAI,OpenRouter,720p,0.03,true
+xai/grok-imagine-video-1.5-lite,xAI,OpenRouter,1080p,0.14,true
+xai/grok-imagine-video-edit,xAI,Atlas Cloud,any,0.08,true
+xai/grok-imagine-video-extend,xAI,Atlas Cloud,any,0.08,true

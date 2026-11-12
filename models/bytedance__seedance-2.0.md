@@ -12,10 +12,13 @@ Prices are USD **per second** of generated video, provider list price before the
 | TOAPIS | $0.066 | $0.1419 | – | $0.3543 | – | – | $0.7684 |
 | OpenRouter | $0.0673 | $0.1512 | – | $0.3742 | – | – | $0.7776 |
 | Replicate | $0.08 | $0.18 | – | $0.45 | – | – | $1 |
+| Higgsfield † | $0.0804 | $0.1735 | – | $0.4293 | – | – | $0.8907 |
 | SoCheap-Overseas | – | **$0.0896** | – | – | – | – | – |
 | Atlas Cloud | $0.09 | $0.1935 | $0.162 | $0.4355 | $0.3484 | $0.6193 | $1.241 |
 | SandBase | $0.096 | $0.192 | – | $0.48 | – | – | $0.96 |
 | WaveSpeedAI | $0.12 | $0.24 | – | $0.6 | – | – | $1.2 |
 | Fal | $0.1345 | $0.3034 | – | $0.682 | – | – | $1.5552 |
+
+† Higgsfield is not available through VideoRouter — reference list price only, never counted as the cheapest host.
 
 **[Call seedance-2.0 through one API →](https://videorouter.sh/video/bytedance/seedance-2.0?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-video-models&utm_content=model-page)** · [Live price index](https://videorouter.sh/pricing-index?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-video-models&utm_content=model-page) · [← All models](../README.md)
