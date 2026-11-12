@@ -18,7 +18,8 @@
         },
         "rows": [
           "Pixverse/Pixverse-6-T2V"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -41,7 +42,8 @@
         },
         "rows": [
           "siliconflow/Wan-AI/Wan2.2-I2V-A14B"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -64,7 +66,8 @@
         },
         "rows": [
           "siliconflow/Wan-AI/Wan2.2-T2V-A14B"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -89,7 +92,8 @@
         },
         "rows": [
           "fal/happy-horse"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -114,7 +118,8 @@
         },
         "rows": [
           "machgen/happy-horse-1.0"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "OpenRouter",
@@ -124,7 +129,8 @@
         },
         "rows": [
           "openrouter/happyhorse-1.0"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Pika",
@@ -134,7 +140,8 @@
         },
         "rows": [
           "pika/happy-horse-1.0"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -159,7 +166,8 @@
         },
         "rows": [
           "together/happyhorse-1.0-i2v"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -184,7 +192,8 @@
         },
         "rows": [
           "together/happyhorse-1.0-r2v"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -209,7 +218,8 @@
         },
         "rows": [
           "together/happyhorse-1.0-t2v"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -236,7 +246,8 @@
         },
         "rows": [
           "happy-horse-1.1"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "MachGen",
@@ -246,7 +257,8 @@
         },
         "rows": [
           "machgen/happy-horse-1.1"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "OpenRouter",
@@ -256,7 +268,8 @@
         },
         "rows": [
           "openrouter/happyhorse-1.1"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Pika",
@@ -266,7 +279,8 @@
         },
         "rows": [
           "pika/happy-horse-1.1"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Replicate",
@@ -276,7 +290,8 @@
         },
         "rows": [
           "replicate/happy-horse-1.1"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -301,7 +316,8 @@
         },
         "rows": [
           "together/happyhorse-1.1-i2v"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -326,7 +342,8 @@
         },
         "rows": [
           "together/happyhorse-1.1-r2v"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -351,7 +368,8 @@
         },
         "rows": [
           "together/happyhorse-1.1-t2v"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -376,7 +394,8 @@
         },
         "rows": [
           "machgen/wan-2.2-a14b"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -402,7 +421,8 @@
         "rows": [
           "atlascloud/wan-2.2-animate-mix-std",
           "atlascloud/wan-2.2-animate-mix-pro"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -428,7 +448,8 @@
         "rows": [
           "atlascloud/wan-2.2-animate-move-std",
           "atlascloud/wan-2.2-animate-move-pro"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -455,7 +476,8 @@
         },
         "rows": [
           "atlascloud/wan-2.5-extend"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -478,7 +500,8 @@
         },
         "rows": [
           "together/wan-2.7-i2v"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -503,7 +526,8 @@
         },
         "rows": [
           "wavespeed/wan-2.7-image"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -530,7 +554,8 @@
         },
         "rows": [
           "wavespeed/wan-2.7-pro"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -553,7 +578,8 @@
         },
         "rows": [
           "together/wan-2.7-r2v"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -576,7 +602,8 @@
         },
         "rows": [
           "together/wan-2.7-t2v"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -603,7 +630,8 @@
         },
         "rows": [
           "fal/wan-25-preview"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -636,7 +664,8 @@
         },
         "rows": [
           "wan-3.0"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Atlas Cloud",
@@ -653,7 +682,8 @@
         },
         "rows": [
           "atlascloud/wan-3.0"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "DeepInfra",
@@ -662,7 +692,8 @@
         },
         "rows": [
           "Wan-AI/Wan3.0-Video"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Fal",
@@ -673,7 +704,8 @@
         },
         "rows": [
           "fal/wan-3.0"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "MachGen",
@@ -684,7 +716,8 @@
         },
         "rows": [
           "machgen/alibaba-wan-3.0"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "MuleRouter",
@@ -695,7 +728,8 @@
         },
         "rows": [
           "mulerouter/wan-3.0"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "OpenRouter",
@@ -706,7 +740,8 @@
         },
         "rows": [
           "openrouter/wan-3.0"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Pika",
@@ -717,7 +752,8 @@
         },
         "rows": [
           "pika/wan-3.0"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Replicate",
@@ -728,7 +764,8 @@
         },
         "rows": [
           "replicate/wan-3.0"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "SandBase",
@@ -739,7 +776,8 @@
         },
         "rows": [
           "sandbase/wan-3.0"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "TOAPIS",
@@ -750,7 +788,8 @@
         },
         "rows": [
           "toapis/wan-3.0"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "WaveSpeedAI",
@@ -762,7 +801,18 @@
         "rows": [
           "wavespeed/wan-3.0",
           "wavespeed/wan-3.0-image"
-        ]
+        ],
+        "routed_by_videorouter": true
+      },
+      {
+        "provider": "Higgsfield",
+        "routed_by_videorouter": false,
+        "prices": {
+          "1080p": 0.15,
+          "480p": 0.0375,
+          "720p": 0.075
+        },
+        "rows": []
       }
     ]
   },
@@ -795,7 +845,8 @@
         },
         "rows": [
           "wan-3.0-prime"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Atlas Cloud",
@@ -812,7 +863,8 @@
         },
         "rows": [
           "atlascloud/wan-3.0-prime"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Fal",
@@ -823,7 +875,8 @@
         },
         "rows": [
           "fal/wan-3.0-prime"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "MuleRouter",
@@ -834,7 +887,8 @@
         },
         "rows": [
           "mulerouter/wan-3.0-prime"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "OpenRouter",
@@ -845,7 +899,8 @@
         },
         "rows": [
           "openrouter/wan-3.0-prime"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Pika",
@@ -856,7 +911,8 @@
         },
         "rows": [
           "pika/wan-3.0-prime"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "SandBase",
@@ -867,7 +923,8 @@
         },
         "rows": [
           "sandbase/wan-3.0-prime"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "WaveSpeedAI",
@@ -879,7 +936,18 @@
         "rows": [
           "wavespeed/wan-3.0-prime",
           "wavespeed/wan-3.0-prime-image"
-        ]
+        ],
+        "routed_by_videorouter": true
+      },
+      {
+        "provider": "Higgsfield",
+        "routed_by_videorouter": false,
+        "prices": {
+          "1080p": 0.21,
+          "480p": 0.051,
+          "720p": 0.105
+        },
+        "rows": []
       }
     ]
   },
@@ -898,7 +966,8 @@
         "prices": {},
         "rows": [
           "atlascloud/video-upscaler"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -923,7 +992,8 @@
         },
         "rows": [
           "atlascloud/flux-3"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Black Forest Labs",
@@ -933,7 +1003,8 @@
         },
         "rows": [
           "flux-3"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "OpenRouter",
@@ -943,7 +1014,8 @@
         },
         "rows": [
           "openrouter/flux-3-video"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Replicate",
@@ -953,7 +1025,8 @@
         },
         "rows": [
           "replicate/flux-3"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Together AI",
@@ -963,7 +1036,8 @@
         },
         "rows": [
           "together/flux-3"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "WaveSpeedAI",
@@ -973,7 +1047,8 @@
         },
         "rows": [
           "wavespeed/flux-3"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -996,7 +1071,8 @@
         },
         "rows": [
           "atlascloud/flux-3-edit-video"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Black Forest Labs",
@@ -1005,7 +1081,8 @@
         },
         "rows": [
           "flux-3-edit-video"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Fal",
@@ -1014,7 +1091,8 @@
         },
         "rows": [
           "fal/flux-3-edit-video"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "WaveSpeedAI",
@@ -1023,7 +1101,8 @@
         },
         "rows": [
           "wavespeed/flux-3-edit-video"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -1048,7 +1127,8 @@
         },
         "rows": [
           "atlascloud/flux-3-extend"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Black Forest Labs",
@@ -1058,7 +1138,8 @@
         },
         "rows": [
           "flux-3-extend"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Fal",
@@ -1068,7 +1149,8 @@
         },
         "rows": [
           "fal/flux-3-extend"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "WaveSpeedAI",
@@ -1078,7 +1160,8 @@
         },
         "rows": [
           "wavespeed/flux-3-extend"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -1097,21 +1180,24 @@
         "prices": {},
         "rows": [
           "flux-video-upscale"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Fal",
         "prices": {},
         "rows": [
           "fal/flux-video-upscale"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "WaveSpeedAI",
         "prices": {},
         "rows": [
           "wavespeed/flux-video-upscale"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -1130,7 +1216,8 @@
         "prices": {},
         "rows": [
           "flux-video-upscale-creative"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -1157,7 +1244,8 @@
         },
         "rows": [
           "boson/higgs-avatar"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -1176,21 +1264,24 @@
         "prices": {},
         "rows": [
           "atlascloud/byteplus-video-upscaler"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Fal",
         "prices": {},
         "rows": [
           "fal/byteplus-video-upscaler"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "WaveSpeedAI",
         "prices": {},
         "rows": [
           "wavespeed/byteplus-video-upscaler"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -1217,7 +1308,8 @@
         },
         "rows": [
           "toapis/doubao-seedance-1-0-pro-quality"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -1240,7 +1332,8 @@
         },
         "rows": [
           "atlascloud/omnihuman-v2"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Fal",
@@ -1249,7 +1342,8 @@
         },
         "rows": [
           "fal/omnihuman-v2"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -1276,7 +1370,8 @@
         },
         "rows": [
           "openrouter/seedance-1-5-pro"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "TOAPIS",
@@ -1287,7 +1382,8 @@
         },
         "rows": [
           "toapis/doubao-seedance-1-5-pro"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -1322,7 +1418,8 @@
         },
         "rows": [
           "atlascloud/seedance-2.0"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Fal",
@@ -1335,7 +1432,8 @@
         "rows": [
           "fal/seedance-2.0",
           "fal/seedance-2.0-reference"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "MachGen",
@@ -1347,7 +1445,8 @@
         },
         "rows": [
           "machgen/seedance-2.0"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "OpenRouter",
@@ -1359,7 +1458,8 @@
         },
         "rows": [
           "openrouter/seedance-2.0"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "OpenSand",
@@ -1372,7 +1472,8 @@
         "rows": [
           "opensand/seedance-2-0-overseas",
           "opensand/seedance-2-0"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Replicate",
@@ -1384,7 +1485,8 @@
         },
         "rows": [
           "replicate/seedance-2.0"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "SandBase",
@@ -1396,7 +1498,8 @@
         },
         "rows": [
           "sandbase/seedance-2.0"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "SoCheap-Official",
@@ -1407,7 +1510,8 @@
         },
         "rows": [
           "socheap/seedance-2.0-official"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "SoCheap-Overseas",
@@ -1416,7 +1520,8 @@
         },
         "rows": [
           "socheap/seedance-2.0-low"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "TOAPIS",
@@ -1428,7 +1533,8 @@
         },
         "rows": [
           "toapis/seedance-2"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "WaveSpeedAI",
@@ -1441,7 +1547,19 @@
         "rows": [
           "wavespeed/seedance-2.0",
           "wavespeed/seedance-2.0-image"
-        ]
+        ],
+        "routed_by_videorouter": true
+      },
+      {
+        "provider": "Higgsfield",
+        "routed_by_videorouter": false,
+        "prices": {
+          "1080p": 0.4293,
+          "2160p": 0.8907,
+          "480p": 0.0804,
+          "720p": 0.1735
+        },
+        "rows": []
       }
     ]
   },
@@ -1476,7 +1594,8 @@
         },
         "rows": [
           "atlascloud/seedance-2.0-fast"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Fal",
@@ -1486,7 +1605,8 @@
         "rows": [
           "fal/seedance-2.0-fast",
           "fal/seedance-2.0-fast-reference"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "MachGen",
@@ -1496,7 +1616,8 @@
         },
         "rows": [
           "machgen/seedance-2.0-fast"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "OpenRouter",
@@ -1506,7 +1627,8 @@
         },
         "rows": [
           "openrouter/seedance-2.0-fast"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "OpenSand",
@@ -1517,7 +1639,8 @@
         "rows": [
           "opensand/seedance-2-0-fast-overseas",
           "opensand/seedance-2-0-fast"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Replicate",
@@ -1527,7 +1650,8 @@
         },
         "rows": [
           "replicate/seedance-2.0-fast"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "SandBase",
@@ -1537,7 +1661,8 @@
         },
         "rows": [
           "sandbase/seedance-2.0-fast"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "TOAPIS",
@@ -1547,7 +1672,8 @@
         },
         "rows": [
           "toapis/seedance-2-fast"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "WaveSpeedAI",
@@ -1560,7 +1686,8 @@
         "rows": [
           "wavespeed/seedance-2.0-fast",
           "wavespeed/seedance-2.0-fast-image"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -1593,7 +1720,8 @@
         },
         "rows": [
           "atlascloud/seedance-2.0-mini"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Fal",
@@ -1604,7 +1732,8 @@
         "rows": [
           "fal/seedance-2.0-mini",
           "fal/seedance-2.0-mini-reference"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "MachGen",
@@ -1614,7 +1743,8 @@
         },
         "rows": [
           "machgen/seedance-2.0-mini"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "OpenRouter",
@@ -1624,7 +1754,8 @@
         },
         "rows": [
           "openrouter/seedance-2.0-mini"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "OpenSand",
@@ -1634,7 +1765,8 @@
         },
         "rows": [
           "opensand/seedance-2-0-mini"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "SandBase",
@@ -1644,7 +1776,8 @@
         },
         "rows": [
           "sandbase/seedance-2.0-mini"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "TOAPIS",
@@ -1655,7 +1788,8 @@
         "rows": [
           "toapis/seedance-2-mini",
           "toapis/seedance-2-mini-overseas"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "WaveSpeedAI",
@@ -1668,7 +1802,8 @@
         "rows": [
           "wavespeed/seedance-2.0-mini",
           "wavespeed/seedance-2.0-mini-image"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -1712,7 +1847,8 @@
         },
         "rows": [
           "atlascloud/seedance-2.5"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Fal",
@@ -1724,7 +1860,8 @@
         "rows": [
           "fal/seedance-2.5",
           "fal/seedance-2.5-reference"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Fal-US",
@@ -1734,7 +1871,8 @@
         },
         "rows": [
           "fal/seedance-2.5-us"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "MachGen",
@@ -1745,7 +1883,8 @@
         },
         "rows": [
           "machgen/seedance-2.5"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "OpenRouter",
@@ -1757,7 +1896,8 @@
         },
         "rows": [
           "openrouter/seedance-2.5"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "OpenSand",
@@ -1769,7 +1909,8 @@
         },
         "rows": [
           "opensand/seedance-2-5"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Replicate",
@@ -1779,7 +1920,8 @@
         },
         "rows": [
           "replicate/seedance-2.5"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "SandBase",
@@ -1790,7 +1932,8 @@
         },
         "rows": [
           "sandbase/seedance-2.5"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "SoCheap-Official",
@@ -1801,7 +1944,8 @@
         },
         "rows": [
           "socheap/seedance-2.5-official"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "SoCheap-Overseas",
@@ -1810,7 +1954,8 @@
         },
         "rows": [
           "socheap/seedance-2.5-low"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "TOAPIS",
@@ -1821,7 +1966,8 @@
         },
         "rows": [
           "toapis/seedance-2-5"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "WaveSpeedAI",
@@ -1834,7 +1980,18 @@
         "rows": [
           "wavespeed/seedance-2.5",
           "wavespeed/seedance-2.5-image"
-        ]
+        ],
+        "routed_by_videorouter": true
+      },
+      {
+        "provider": "Higgsfield",
+        "routed_by_videorouter": false,
+        "prices": {
+          "1080p": 0.6518,
+          "480p": 0.1177,
+          "720p": 0.2647
+        },
+        "rows": []
       }
     ]
   },
@@ -1859,7 +2016,8 @@
         },
         "rows": [
           "wavespeed/seedance-2.5-talking-avatar"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -1878,7 +2036,8 @@
         "prices": {},
         "rows": [
           "fal/seedvr2-upscale-video"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -1897,7 +2056,8 @@
         "prices": {},
         "rows": [
           "fal/crystal-video-upscale"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -1924,7 +2084,8 @@
         },
         "rows": [
           "fal/boreal"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -1949,7 +2110,8 @@
         },
         "rows": [
           "fal/flux-3-max"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -1978,7 +2140,8 @@
         },
         "rows": [
           "atlascloud/gemini-omni-1.1-flash"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Google",
@@ -1987,7 +2150,8 @@
         },
         "rows": [
           "gemini-omni-1.1-flash"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "WaveSpeedAI",
@@ -2000,7 +2164,8 @@
         "rows": [
           "wavespeed/gemini-omni-1.1-flash",
           "wavespeed/gemini-omni-1.1-flash-image"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -2028,7 +2193,8 @@
         },
         "rows": [
           "atlascloud/gemini-omni-1.2-flash"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Fal",
@@ -2040,7 +2206,8 @@
         },
         "rows": [
           "fal/gemini-omni-1.2-flash"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Google",
@@ -2052,7 +2219,8 @@
         },
         "rows": [
           "gemini-omni-1.2-flash"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "WaveSpeedAI",
@@ -2065,7 +2233,8 @@
         "rows": [
           "wavespeed/gemini-omni-1.2-flash",
           "wavespeed/gemini-omni-1.2-flash-image"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -2088,7 +2257,8 @@
         },
         "rows": [
           "atlascloud/gemini-omni-flash"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Fal",
@@ -2097,7 +2267,8 @@
         },
         "rows": [
           "fal/gemini-omni-flash"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Google",
@@ -2106,7 +2277,8 @@
         },
         "rows": [
           "gemini-omni-flash"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "WaveSpeedAI",
@@ -2116,7 +2288,8 @@
         "rows": [
           "wavespeed/gemini-omni-flash",
           "wavespeed/gemini-omni-flash-image"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -2139,7 +2312,8 @@
         },
         "rows": [
           "replicate/veo-3"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -2162,7 +2336,8 @@
         },
         "rows": [
           "replicate/veo-3-fast"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -2188,7 +2363,8 @@
         },
         "rows": [
           "deepinfra/veo-3.1"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "MachGen",
@@ -2199,7 +2375,8 @@
         },
         "rows": [
           "machgen/veo-3.1"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "OpenRouter",
@@ -2210,7 +2387,8 @@
         },
         "rows": [
           "openrouter/veo-3.1"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Pika",
@@ -2219,7 +2397,8 @@
         },
         "rows": [
           "pika/veo-3.1"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Replicate",
@@ -2228,7 +2407,8 @@
         },
         "rows": [
           "replicate/veo-3.1"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "SandBase",
@@ -2239,7 +2419,8 @@
         },
         "rows": [
           "sandbase/veo-3.1"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "WaveSpeedAI",
@@ -2251,7 +2432,8 @@
         "rows": [
           "wavespeed/veo-3.1",
           "wavespeed/veo-3.1-image"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -2276,7 +2458,8 @@
         },
         "rows": [
           "fal/veo-3.1-extend"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -2302,7 +2485,8 @@
         },
         "rows": [
           "deepinfra/veo-3.1-fast"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "MachGen",
@@ -2313,7 +2497,8 @@
         },
         "rows": [
           "machgen/veo-3.1-fast"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "OpenRouter",
@@ -2324,7 +2509,8 @@
         },
         "rows": [
           "openrouter/veo-3.1-fast"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Pika",
@@ -2334,7 +2520,8 @@
         },
         "rows": [
           "pika/veo-3.1-fast"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Replicate",
@@ -2343,7 +2530,8 @@
         },
         "rows": [
           "replicate/veo-3.1-fast"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "SandBase",
@@ -2354,7 +2542,8 @@
         },
         "rows": [
           "sandbase/veo-3.1-fast"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "WaveSpeedAI",
@@ -2366,7 +2555,8 @@
         "rows": [
           "wavespeed/veo-3.1-fast",
           "wavespeed/veo-3.1-fast-image"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -2391,7 +2581,8 @@
         },
         "rows": [
           "fal/veo-3.1-fast-extend"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -2416,7 +2607,8 @@
         },
         "rows": [
           "openrouter/veo-3.1-lite"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Pika",
@@ -2426,7 +2618,8 @@
         },
         "rows": [
           "pika/veo-3.1-lite"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "SandBase",
@@ -2436,7 +2629,8 @@
         },
         "rows": [
           "sandbase/veo-3.1-lite"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "WaveSpeedAI",
@@ -2447,7 +2641,8 @@
         "rows": [
           "wavespeed/veo-3.1-lite",
           "wavespeed/veo-3.1-lite-image"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -2474,7 +2669,8 @@
         },
         "rows": [
           "heygen/avatar-iv"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -2497,7 +2693,8 @@
         },
         "rows": [
           "fal/heygen-avatar4-image-to-video"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -2520,7 +2717,8 @@
         },
         "rows": [
           "fal/heygen-v3-lipsync-precision"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -2543,7 +2741,8 @@
         },
         "rows": [
           "fal/heygen-v3-lipsync-speed"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -2572,7 +2771,8 @@
         },
         "rows": [
           "fal/heygen-video-1"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "HeyGen",
@@ -2584,7 +2784,8 @@
         },
         "rows": [
           "heygen-video-1"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "OpenRouter",
@@ -2596,7 +2797,8 @@
         },
         "rows": [
           "openrouter/heygen-video-1"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "WaveSpeedAI",
@@ -2607,7 +2809,8 @@
         "rows": [
           "wavespeed/heygen-video-1",
           "wavespeed/heygen-video-1-image"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -2630,7 +2833,8 @@
         },
         "rows": [
           "fal/kling-ai-avatar-v2-pro"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "WaveSpeedAI",
@@ -2639,7 +2843,8 @@
         },
         "rows": [
           "wavespeed/kling-ai-avatar-v2-pro"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -2662,7 +2867,8 @@
         },
         "rows": [
           "fal/kling-ai-avatar-v2-standard"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "WaveSpeedAI",
@@ -2671,7 +2877,8 @@
         },
         "rows": [
           "wavespeed/kling-ai-avatar-v2-standard"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -2697,7 +2904,8 @@
         "rows": [
           "atlascloud/kling-v3.0-motion-control-std",
           "atlascloud/kling-v3.0-motion-control-pro"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Novita",
@@ -2708,7 +2916,8 @@
         "rows": [
           "novita/kling-motion-control-std",
           "novita/kling-motion-control-pro"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -2736,7 +2945,8 @@
         },
         "rows": [
           "machgen/kling-o3"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "SandBase",
@@ -2750,7 +2960,8 @@
           "sandbase/kling-o3-standard",
           "sandbase/kling-o3-4k",
           "sandbase/kling-3.0-omni-pro"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "WaveSpeedAI",
@@ -2767,7 +2978,8 @@
           "wavespeed/kling-video-o3-pro-image",
           "wavespeed/kling-video-o3-4k",
           "wavespeed/kling-video-o3-4k-image"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -2780,6 +2992,7 @@
     "platform_fee_rate": 0.025,
     "billing": "per_second",
     "tiers": [
+      "1080p",
       "any",
       "pro",
       "std"
@@ -2792,7 +3005,8 @@
         },
         "rows": [
           "kling-v2-6"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "WaveSpeedAI",
@@ -2806,7 +3020,16 @@
           "wavespeed/kling-v2.6-std-image",
           "wavespeed/kling-v2.6-pro",
           "wavespeed/kling-v2.6-pro-image"
-        ]
+        ],
+        "routed_by_videorouter": true
+      },
+      {
+        "provider": "Higgsfield",
+        "routed_by_videorouter": false,
+        "prices": {
+          "1080p": 0.0666
+        },
+        "rows": []
       }
     ]
   },
@@ -2832,7 +3055,8 @@
         "rows": [
           "atlascloud/kling-v2.6-motion-control-std",
           "atlascloud/kling-v2.6-motion-control-pro"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -2860,7 +3084,8 @@
         },
         "rows": [
           "kie/kling-v3"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "MachGen",
@@ -2871,7 +3096,8 @@
         },
         "rows": [
           "machgen/kling-v3"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Novita",
@@ -2884,7 +3110,8 @@
           "novita/kling-v3.0-std",
           "novita/kling-v3.0-pro",
           "novita/kling-v3.0-4k"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "OpenRouter",
@@ -2894,7 +3121,8 @@
         "rows": [
           "openrouter/kling-v3.0-pro",
           "openrouter/kling-v3.0-std"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Pika",
@@ -2904,7 +3132,8 @@
         },
         "rows": [
           "pika/kling-3.0"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "SandBase",
@@ -2917,7 +3146,8 @@
           "sandbase/kling-v3-pro",
           "sandbase/kling-v3-standard",
           "sandbase/kling-v3-4k"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "TOAPIS",
@@ -2927,7 +3157,8 @@
         },
         "rows": [
           "toapis/kling-v3"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "WaveSpeedAI",
@@ -2944,7 +3175,17 @@
           "wavespeed/kling-v3.0-pro-image",
           "wavespeed/kling-v3.0-4k",
           "wavespeed/kling-v3.0-4k-image"
-        ]
+        ],
+        "routed_by_videorouter": true
+      },
+      {
+        "provider": "Higgsfield",
+        "routed_by_videorouter": false,
+        "prices": {
+          "1080p": 0.0962,
+          "720p": 0.0714
+        },
+        "rows": []
       }
     ]
   },
@@ -2971,7 +3212,8 @@
         },
         "rows": [
           "replicate/kling-v3-omni-video"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -2997,7 +3239,8 @@
         },
         "rows": [
           "kie/kling-v3-turbo"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Pika",
@@ -3007,7 +3250,8 @@
         },
         "rows": [
           "pika/kling-3.0-turbo"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "WaveSpeedAI",
@@ -3021,7 +3265,8 @@
           "wavespeed/kling-v3-turbo-std-image",
           "wavespeed/kling-v3-turbo-pro",
           "wavespeed/kling-v3-turbo-pro-image"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -3048,7 +3293,8 @@
         },
         "rows": [
           "replicate/kling-v3-video"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -3081,7 +3327,8 @@
         },
         "rows": [
           "atlascloud/kling-v4.0"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Fal",
@@ -3091,7 +3338,8 @@
         },
         "rows": [
           "fal/kling-v4.0"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "MachGen",
@@ -3101,7 +3349,8 @@
         },
         "rows": [
           "machgen/kling-v4.0"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Replicate",
@@ -3111,7 +3360,8 @@
         },
         "rows": [
           "replicate/kling-v4.0"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Runware",
@@ -3121,7 +3371,8 @@
         },
         "rows": [
           "runware/kling-v4.0"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "SandBase",
@@ -3131,7 +3382,8 @@
         },
         "rows": [
           "sandbase/kling-v4.0"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "TOAPIS",
@@ -3141,7 +3393,8 @@
         },
         "rows": [
           "toapis/kling-v4.0"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "WaveSpeedAI",
@@ -3152,7 +3405,17 @@
         "rows": [
           "wavespeed/kling-v4.0",
           "wavespeed/kling-v4.0-image"
-        ]
+        ],
+        "routed_by_videorouter": true
+      },
+      {
+        "provider": "Higgsfield",
+        "routed_by_videorouter": false,
+        "prices": {
+          "1080p": 0.1879,
+          "720p": 0.1257
+        },
+        "rows": []
       }
     ]
   },
@@ -3177,7 +3440,8 @@
         },
         "rows": [
           "atlascloud/kling-v4.0-edit"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Fal",
@@ -3187,7 +3451,8 @@
         },
         "rows": [
           "fal/kling-v4.0-edit"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Runware",
@@ -3197,7 +3462,8 @@
         },
         "rows": [
           "runware/kling-v4.0-edit"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "SandBase",
@@ -3207,7 +3473,8 @@
         },
         "rows": [
           "sandbase/kling-v4.0-edit"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "WaveSpeedAI",
@@ -3217,7 +3484,8 @@
         },
         "rows": [
           "wavespeed/kling-v4.0-edit"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -3242,7 +3510,8 @@
         },
         "rows": [
           "wavespeed/kling-v4.0-extend"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -3265,7 +3534,8 @@
         },
         "rows": [
           "atlascloud/kling-v4.0-flash"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Fal",
@@ -3274,7 +3544,8 @@
         },
         "rows": [
           "fal/kling-v4.0-flash"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Runware",
@@ -3283,7 +3554,8 @@
         },
         "rows": [
           "runware/kling-v4.0-flash"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "WaveSpeedAI",
@@ -3293,7 +3565,8 @@
         "rows": [
           "wavespeed/kling-v4.0-flash",
           "wavespeed/kling-v4.0-flash-image"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -3316,7 +3589,8 @@
         },
         "rows": [
           "atlascloud/kling-v4.0-flash-edit"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Runware",
@@ -3325,7 +3599,8 @@
         },
         "rows": [
           "runware/kling-v4.0-flash-edit"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "WaveSpeedAI",
@@ -3334,7 +3609,8 @@
         },
         "rows": [
           "wavespeed/kling-v4.0-flash-edit"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -3357,7 +3633,8 @@
         },
         "rows": [
           "openrouter/kling-video-o1"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -3381,7 +3658,8 @@
         "rows": [
           "wavespeed/ltx-2-fast",
           "wavespeed/ltx-2-fast-image"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -3405,7 +3683,8 @@
         "rows": [
           "wavespeed/ltx-2-pro",
           "wavespeed/ltx-2-pro-image"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -3433,7 +3712,8 @@
         "rows": [
           "wavespeed/ltx-2.3",
           "wavespeed/ltx-2.3-image"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -3461,7 +3741,8 @@
         "rows": [
           "sandbase/ltx-2.3-fast",
           "sandbase/ltx-2.3-fast-image"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -3488,7 +3769,8 @@
         },
         "rows": [
           "machgen/ltx-2.3-pro"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "SandBase",
@@ -3500,7 +3782,8 @@
         "rows": [
           "sandbase/ltx-2.3-pro",
           "sandbase/ltx-2.3-pro-image"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -3530,7 +3813,8 @@
         "rows": [
           "wavespeed/ltx-2.5",
           "wavespeed/ltx-2.5-image"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -3559,7 +3843,8 @@
         },
         "rows": [
           "fal/ltx-2.5-fast"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Lightricks",
@@ -3571,7 +3856,8 @@
         },
         "rows": [
           "ltx-2.5-fast"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -3596,7 +3882,8 @@
         },
         "rows": [
           "fal/ltx-2.5-pro"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Lightricks",
@@ -3606,7 +3893,8 @@
         },
         "rows": [
           "ltx-2.5-pro"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -3633,7 +3921,8 @@
         },
         "rows": [
           "luma-ray-3.2"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "SandBase",
@@ -3645,7 +3934,8 @@
         "rows": [
           "sandbase/luma-ray-3.2",
           "sandbase/luma-ray-3.2-image"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -3670,7 +3960,8 @@
         },
         "rows": [
           "atlascloud/infinitetalk"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -3693,7 +3984,8 @@
         },
         "rows": [
           "wavespeed/infinitetalk-fast"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -3718,7 +4010,8 @@
         },
         "rows": [
           "wavespeed/longcat-avatar-1.5"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -3758,7 +4051,8 @@
         },
         "rows": [
           "atlascloud/h3"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Fal",
@@ -3770,7 +4064,8 @@
         },
         "rows": [
           "fal/h3"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "kie.ai",
@@ -3780,7 +4075,8 @@
         },
         "rows": [
           "kie/minimax-h3"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "MachGen",
@@ -3791,7 +4087,8 @@
         },
         "rows": [
           "machgen/minimax-h3"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "MiniMax",
@@ -3801,7 +4098,8 @@
         },
         "rows": [
           "minimax-h3"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Novita",
@@ -3811,7 +4109,8 @@
         },
         "rows": [
           "novita/minimax-h3"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "OpenSand",
@@ -3821,7 +4120,8 @@
         },
         "rows": [
           "opensand/minimax-h3"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Pika",
@@ -3831,7 +4131,8 @@
         },
         "rows": [
           "pika/minimax-h3"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Replicate",
@@ -3841,7 +4142,8 @@
         },
         "rows": [
           "replicate/h3"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "SandBase",
@@ -3851,7 +4153,8 @@
         },
         "rows": [
           "sandbase/h3"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "TOAPIS",
@@ -3862,7 +4165,8 @@
         "rows": [
           "toapis/minimax-h3",
           "toapis/minimax-h3-overseas"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "WaveSpeedAI",
@@ -3875,7 +4179,8 @@
         "rows": [
           "wavespeed/minimax-h3-native",
           "wavespeed/minimax-h3-native-image"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "WaveSpeedAI-resell",
@@ -3885,7 +4190,16 @@
         },
         "rows": [
           "wavespeed/h3"
-        ]
+        ],
+        "routed_by_videorouter": true
+      },
+      {
+        "provider": "Higgsfield",
+        "routed_by_videorouter": false,
+        "prices": {
+          "1440p": 0.13
+        },
+        "rows": []
       }
     ]
   },
@@ -3908,7 +4222,8 @@
         },
         "rows": [
           "atlascloud/h3-fast"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -3941,7 +4256,8 @@
         },
         "rows": [
           "atlascloud/h3-max"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Fal",
@@ -3951,7 +4267,8 @@
         },
         "rows": [
           "fal/h3-max"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "SandBase",
@@ -3961,7 +4278,8 @@
         },
         "rows": [
           "sandbase/h3-max"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "TOAPIS",
@@ -3971,7 +4289,8 @@
         },
         "rows": [
           "toapis/minimax-h3-max"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -3998,7 +4317,8 @@
         },
         "rows": [
           "fal/h3-max-camera-controls"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -4027,7 +4347,8 @@
         },
         "rows": [
           "fal/h3-max-lipsync"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -4054,7 +4375,8 @@
         },
         "rows": [
           "fal/h3-max-turbo"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "TOAPIS",
@@ -4064,7 +4386,8 @@
         },
         "rows": [
           "toapis/minimax-h3-max-turbo"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -4087,7 +4410,8 @@
         },
         "rows": [
           "openrouter/hailuo-2.3"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -4111,7 +4435,8 @@
         "rows": [
           "wavespeed/hailuo-2.3-pro",
           "wavespeed/hailuo-2.3-pro-image"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -4135,7 +4460,8 @@
         "rows": [
           "wavespeed/hailuo-2.3-standard",
           "wavespeed/hailuo-2.3-standard-image"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -4158,7 +4484,8 @@
         },
         "rows": [
           "openrouter/hailuo-3"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -4183,7 +4510,8 @@
         },
         "rows": [
           "openrouter/hailuo-3-max"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -4208,7 +4536,8 @@
         },
         "rows": [
           "machgen/minimax-h3-turbo"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -4233,7 +4562,8 @@
         },
         "rows": [
           "pika/pika-2.5"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -4264,7 +4594,8 @@
         },
         "rows": [
           "pika/pika-h3-flex"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -4287,7 +4618,8 @@
         },
         "rows": [
           "pika/pikadditions"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -4316,7 +4648,8 @@
         },
         "rows": [
           "machgen/pixverse-c1"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -4345,7 +4678,8 @@
         },
         "rows": [
           "machgen/pixverse-v6"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "SandBase",
@@ -4357,7 +4691,8 @@
         },
         "rows": [
           "sandbase/pixverse-v6"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "WaveSpeedAI",
@@ -4370,7 +4705,8 @@
         "rows": [
           "wavespeed/pixverse-v6",
           "wavespeed/pixverse-v6-image"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -4399,7 +4735,8 @@
         },
         "rows": [
           "atlascloud/pixverse-v6-extend"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -4428,7 +4765,8 @@
         },
         "rows": [
           "atlascloud/pixverse-v6-max"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Replicate",
@@ -4440,7 +4778,8 @@
         },
         "rows": [
           "replicate/pixverse-v6-max"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "WaveSpeedAI",
@@ -4453,7 +4792,8 @@
         "rows": [
           "wavespeed/pixverse-v6-max",
           "wavespeed/pixverse-v6-max-image"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -4478,7 +4818,8 @@
         },
         "rows": [
           "wavespeed/pruna-p-video-2-pro-avatar"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -4503,7 +4844,8 @@
         },
         "rows": [
           "PrunaAI/p-video"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Pruna",
@@ -4513,7 +4855,8 @@
         },
         "rows": [
           "pruna/p-video"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -4538,7 +4881,8 @@
         },
         "rows": [
           "pruna/p-video-2"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -4563,7 +4907,8 @@
         },
         "rows": [
           "pruna/p-video-2-draft"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -4594,7 +4939,8 @@
         },
         "rows": [
           "pruna/p-video-2-pro"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Replicate",
@@ -4607,7 +4953,8 @@
         },
         "rows": [
           "replicate/p-video-2-pro"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Runware",
@@ -4617,7 +4964,8 @@
         },
         "rows": [
           "runware/p-video-2-pro"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Segmind",
@@ -4627,7 +4975,8 @@
         },
         "rows": [
           "segmind/p-video-2-pro"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "WaveSpeedAI",
@@ -4638,7 +4987,8 @@
         "rows": [
           "wavespeed/p-video-2-pro",
           "wavespeed/p-video-2-pro-image"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -4669,7 +5019,8 @@
         },
         "rows": [
           "pruna/p-video-2-pro-cost"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Replicate",
@@ -4682,7 +5033,8 @@
         },
         "rows": [
           "replicate/p-video-2-pro-cost"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Runware",
@@ -4692,7 +5044,8 @@
         },
         "rows": [
           "runware/p-video-2-pro-cost"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Segmind",
@@ -4702,7 +5055,8 @@
         },
         "rows": [
           "segmind/p-video-2-pro-cost"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "WaveSpeedAI",
@@ -4713,7 +5067,8 @@
         "rows": [
           "wavespeed/p-video-2-pro-cost",
           "wavespeed/p-video-2-pro-cost-image"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -4744,7 +5099,8 @@
         },
         "rows": [
           "pruna/p-video-2-pro-quality"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Replicate",
@@ -4757,7 +5113,8 @@
         },
         "rows": [
           "replicate/p-video-2-pro-quality"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Runware",
@@ -4767,7 +5124,8 @@
         },
         "rows": [
           "runware/p-video-2-pro-quality"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Segmind",
@@ -4777,7 +5135,8 @@
         },
         "rows": [
           "segmind/p-video-2-pro-quality"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "WaveSpeedAI",
@@ -4788,7 +5147,8 @@
         "rows": [
           "wavespeed/p-video-2-pro-quality",
           "wavespeed/p-video-2-pro-quality-image"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -4813,7 +5173,8 @@
         },
         "rows": [
           "pruna/p-video-draft"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -4836,7 +5197,8 @@
         },
         "rows": [
           "runway/aleph-2"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -4859,7 +5221,8 @@
         },
         "rows": [
           "openrouter/gen-4.5"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Replicate",
@@ -4868,7 +5231,8 @@
         },
         "rows": [
           "replicate/gen-4.5"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -4891,7 +5255,8 @@
         },
         "rows": [
           "segmind/hyperswap-video-faceswap"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -4919,7 +5284,8 @@
         },
         "rows": [
           "machgen/vidu-q3"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Runware",
@@ -4931,7 +5297,8 @@
         },
         "rows": [
           "runware/vidu-q3"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "SandBase",
@@ -4943,7 +5310,8 @@
         },
         "rows": [
           "sandbase/vidu-q3"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -4970,7 +5338,8 @@
         },
         "rows": [
           "machgen/vidu-q3-pro"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "WaveSpeedAI",
@@ -4982,7 +5351,8 @@
         "rows": [
           "wavespeed/vidu-q3-pro",
           "wavespeed/vidu-q3-pro-image"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -5007,7 +5377,8 @@
         },
         "rows": [
           "machgen/vidu-q3-pro-fast"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -5034,7 +5405,8 @@
         },
         "rows": [
           "machgen/vidu-q3-turbo"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Runware",
@@ -5046,7 +5418,8 @@
         },
         "rows": [
           "runware/vidu-q3-turbo"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "SandBase",
@@ -5058,7 +5431,8 @@
         },
         "rows": [
           "sandbase/vidu-q3-turbo"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -5083,7 +5457,8 @@
         },
         "rows": [
           "wavespeed/skyreels-v3-talking-avatar"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -5111,7 +5486,8 @@
         "rows": [
           "wavespeed/skyreels-v4",
           "wavespeed/skyreels-v4-image"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -5134,7 +5510,8 @@
         },
         "rows": [
           "fal/sync-lipsync"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -5157,7 +5534,8 @@
         },
         "rows": [
           "fal/sync-lipsync-react-1"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -5180,7 +5558,8 @@
         },
         "rows": [
           "fal/sync-lipsync-v2"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -5203,7 +5582,8 @@
         },
         "rows": [
           "fal/sync-lipsync-v2-pro"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -5226,7 +5606,8 @@
         },
         "rows": [
           "fal/sync-lipsync-v3"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -5249,7 +5630,8 @@
         },
         "rows": [
           "fal/sync-lipsync-v3-image"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -5268,7 +5650,8 @@
         "prices": {},
         "rows": [
           "atlascloud/tencent-video-upscaler"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -5287,7 +5670,8 @@
         "prices": {},
         "rows": [
           "fal/topaz-upscale-video-creative"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -5306,7 +5690,8 @@
         "prices": {},
         "rows": [
           "fal/topaz-upscale-video-generative"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -5325,7 +5710,8 @@
         "prices": {},
         "rows": [
           "fal/topaz-upscale-video-precision"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -5350,7 +5736,8 @@
         },
         "rows": [
           "wavespeed/veed-fabric-1.0"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -5373,7 +5760,8 @@
         },
         "rows": [
           "fal/veed-lipsync-v2"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -5396,7 +5784,8 @@
         },
         "rows": [
           "vidu/s1-avatar-offline"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -5422,7 +5811,8 @@
         },
         "rows": [
           "machgen/grok-imagine-video"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "OpenRouter",
@@ -5432,7 +5822,8 @@
         },
         "rows": [
           "openrouter/grok-imagine-video"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Pika",
@@ -5442,7 +5833,8 @@
         },
         "rows": [
           "pika/grok-imagine-video"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "WaveSpeedAI",
@@ -5454,7 +5846,8 @@
         "rows": [
           "wavespeed/grok-imagine-video",
           "wavespeed/grok-imagine-video-image"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "xAI",
@@ -5464,7 +5857,8 @@
         },
         "rows": [
           "grok-imagine-video"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -5492,7 +5886,8 @@
         },
         "rows": [
           "machgen/grok-imagine-video-1.5"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "OpenRouter",
@@ -5503,7 +5898,8 @@
         },
         "rows": [
           "openrouter/grok-imagine-video-1.5"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "Replicate",
@@ -5512,7 +5908,8 @@
         },
         "rows": [
           "replicate/grok-imagine-video-1.5"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "WaveSpeedAI",
@@ -5524,7 +5921,8 @@
         "rows": [
           "wavespeed/grok-imagine-video-1.5",
           "wavespeed/grok-imagine-video-1.5-image"
-        ]
+        ],
+        "routed_by_videorouter": true
       },
       {
         "provider": "xAI",
@@ -5535,7 +5933,8 @@
         },
         "rows": [
           "grok-imagine-video-1.5"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -5562,7 +5961,8 @@
         },
         "rows": [
           "openrouter/grok-imagine-video-1.5-lite"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -5585,7 +5985,8 @@
         },
         "rows": [
           "atlascloud/grok-imagine-video-edit"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   },
@@ -5608,7 +6009,8 @@
         },
         "rows": [
           "atlascloud/grok-imagine-video-extend"
-        ]
+        ],
+        "routed_by_videorouter": true
       }
     ]
   }

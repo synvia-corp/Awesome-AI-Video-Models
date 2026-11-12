@@ -19,5 +19,8 @@ Prices are USD **per second** of generated video, provider list price before the
 | Replicate | – | – | $0.08 | – | – | – | – | $0.13 | – | – |
 | TOAPIS | – | – | $0.08 | – | – | – | – | $0.13 | – | – |
 | WaveSpeedAI-resell | – | – | $0.1 | – | – | – | – | $0.14 | – | – |
+| Higgsfield † | – | – | – | – | – | $0.13 | – | – | – | – |
+
+† Higgsfield is not available through VideoRouter — reference list price only, never counted as the cheapest host.
 
 **[Call minimax/h3 through one API →](https://videorouter.sh/video/minimax/h3?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-video-models&utm_content=model-page)** · [Live price index](https://videorouter.sh/pricing-index?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-video-models&utm_content=model-page) · [← All models](../README.md)
