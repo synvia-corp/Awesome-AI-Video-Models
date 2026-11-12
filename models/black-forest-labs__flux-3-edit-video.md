@@ -6,8 +6,8 @@ Prices are USD **per second** of generated video, provider list price before the
 
 | Provider | any |
 |---|---:|
-| Black Forest Labs | **$0.03** |
 | Fal | **$0.03** |
+| Black Forest Labs | **$0.03** |
 | WaveSpeedAI | **$0.03** |
 | Atlas Cloud | $0.033 |
 

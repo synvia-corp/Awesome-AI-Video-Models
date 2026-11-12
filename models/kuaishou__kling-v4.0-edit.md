@@ -6,9 +6,9 @@ Prices are USD **per second** of generated video, provider list price before the
 
 | Provider | 720p | 1080p |
 |---|---:|---:|
+| Fal | $0.188 | $0.282 |
 | SandBase | **$0.1598** | **$0.2397** |
 | Atlas Cloud | $0.1711 | $0.2566 |
-| Fal | $0.188 | $0.282 |
 | Runware | $0.188 | $0.282 |
 | WaveSpeedAI | $0.188 | $0.282 |
 

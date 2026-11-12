@@ -6,7 +6,7 @@ Prices are USD **per second** of generated video, provider list price before the
 
 | Provider | any |
 |---|---:|
-| WaveSpeedAI | **$0.112** |
 | Fal | $0.115 |
+| WaveSpeedAI | **$0.112** |
 
 **[Call kling-ai-avatar-v2-pro through one API →](https://videorouter.sh/video/kuaishou/kling-ai-avatar-v2-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-video-models&utm_content=model-page)** · [Live price index](https://videorouter.sh/pricing-index?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-video-models&utm_content=model-page) · [← All models](../README.md)
