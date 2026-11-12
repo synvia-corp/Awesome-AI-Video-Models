@@ -1,0 +1,5615 @@
+[
+  {
+    "id": "Pixverse/Pixverse-6-T2V",
+    "name": "Pixverse-6-T2V",
+    "creator": "PixVerse",
+    "url": "https://videorouter.sh/video/Pixverse/Pixverse-6-T2V",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "any"
+    ],
+    "providers": [
+      {
+        "provider": "DeepInfra",
+        "prices": {
+          "any": 0.045
+        },
+        "rows": [
+          "Pixverse/Pixverse-6-T2V"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "Wan-AI/Wan2.2-I2V-A14B",
+    "name": "Wan2.2-I2V-A14B",
+    "creator": "Alibaba",
+    "url": "https://videorouter.sh/video/Wan-AI/Wan2.2-I2V-A14B",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "any"
+    ],
+    "providers": [
+      {
+        "provider": "SiliconFlow",
+        "prices": {
+          "any": 0.057283950617283946
+        },
+        "rows": [
+          "siliconflow/Wan-AI/Wan2.2-I2V-A14B"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "Wan-AI/Wan2.2-T2V-A14B",
+    "name": "Wan2.2-T2V-A14B",
+    "creator": "Alibaba",
+    "url": "https://videorouter.sh/video/Wan-AI/Wan2.2-T2V-A14B",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "any"
+    ],
+    "providers": [
+      {
+        "provider": "SiliconFlow",
+        "prices": {
+          "any": 0.057283950617283946
+        },
+        "rows": [
+          "siliconflow/Wan-AI/Wan2.2-T2V-A14B"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "alibaba/happy-horse",
+    "name": "happy-horse",
+    "creator": "Alibaba",
+    "url": "https://videorouter.sh/video/alibaba/happy-horse",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "720p",
+      "1080p"
+    ],
+    "providers": [
+      {
+        "provider": "Fal",
+        "prices": {
+          "720p": 0.14,
+          "1080p": 0.18
+        },
+        "rows": [
+          "fal/happy-horse"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "alibaba/happyhorse-1.0",
+    "name": "happyhorse-1.0",
+    "creator": "Alibaba",
+    "url": "https://videorouter.sh/video/alibaba/happyhorse-1.0",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "720p",
+      "1080p"
+    ],
+    "providers": [
+      {
+        "provider": "MachGen",
+        "prices": {
+          "720p": 0.1122,
+          "1080p": 0.2244
+        },
+        "rows": [
+          "machgen/happy-horse-1.0"
+        ]
+      },
+      {
+        "provider": "OpenRouter",
+        "prices": {
+          "720p": 0.1647,
+          "1080p": 0.2824
+        },
+        "rows": [
+          "openrouter/happyhorse-1.0"
+        ]
+      },
+      {
+        "provider": "Pika",
+        "prices": {
+          "720p": 0.098,
+          "1080p": 0.168
+        },
+        "rows": [
+          "pika/happy-horse-1.0"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "alibaba/happyhorse-1.0-i2v",
+    "name": "happyhorse-1.0-i2v",
+    "creator": "Alibaba",
+    "url": "https://videorouter.sh/video/alibaba/happyhorse-1.0-i2v",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "720p",
+      "1080p"
+    ],
+    "providers": [
+      {
+        "provider": "Together AI",
+        "prices": {
+          "720p": 0.14,
+          "1080p": 0.24
+        },
+        "rows": [
+          "together/happyhorse-1.0-i2v"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "alibaba/happyhorse-1.0-r2v",
+    "name": "happyhorse-1.0-r2v",
+    "creator": "Alibaba",
+    "url": "https://videorouter.sh/video/alibaba/happyhorse-1.0-r2v",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "720p",
+      "1080p"
+    ],
+    "providers": [
+      {
+        "provider": "Together AI",
+        "prices": {
+          "720p": 0.14,
+          "1080p": 0.24
+        },
+        "rows": [
+          "together/happyhorse-1.0-r2v"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "alibaba/happyhorse-1.0-t2v",
+    "name": "happyhorse-1.0-t2v",
+    "creator": "Alibaba",
+    "url": "https://videorouter.sh/video/alibaba/happyhorse-1.0-t2v",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "720p",
+      "1080p"
+    ],
+    "providers": [
+      {
+        "provider": "Together AI",
+        "prices": {
+          "720p": 0.14,
+          "1080p": 0.24
+        },
+        "rows": [
+          "together/happyhorse-1.0-t2v"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "alibaba/happyhorse-1.1",
+    "name": "happyhorse-1.1",
+    "creator": "Alibaba",
+    "url": "https://videorouter.sh/video/alibaba/happyhorse-1.1",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "480p",
+      "720p",
+      "1080p"
+    ],
+    "providers": [
+      {
+        "provider": "Alibaba",
+        "prices": {
+          "480p": 0.07,
+          "720p": 0.14,
+          "1080p": 0.18
+        },
+        "rows": [
+          "happy-horse-1.1"
+        ]
+      },
+      {
+        "provider": "MachGen",
+        "prices": {
+          "720p": 0.1122,
+          "1080p": 0.1445
+        },
+        "rows": [
+          "machgen/happy-horse-1.1"
+        ]
+      },
+      {
+        "provider": "OpenRouter",
+        "prices": {
+          "720p": 0.1647,
+          "1080p": 0.213
+        },
+        "rows": [
+          "openrouter/happyhorse-1.1"
+        ]
+      },
+      {
+        "provider": "Pika",
+        "prices": {
+          "720p": 0.098,
+          "1080p": 0.126
+        },
+        "rows": [
+          "pika/happy-horse-1.1"
+        ]
+      },
+      {
+        "provider": "Replicate",
+        "prices": {
+          "720p": 0.14,
+          "1080p": 0.18
+        },
+        "rows": [
+          "replicate/happy-horse-1.1"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "alibaba/happyhorse-1.1-i2v",
+    "name": "happyhorse-1.1-i2v",
+    "creator": "Alibaba",
+    "url": "https://videorouter.sh/video/alibaba/happyhorse-1.1-i2v",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "720p",
+      "1080p"
+    ],
+    "providers": [
+      {
+        "provider": "Together AI",
+        "prices": {
+          "720p": 0.14,
+          "1080p": 0.18
+        },
+        "rows": [
+          "together/happyhorse-1.1-i2v"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "alibaba/happyhorse-1.1-r2v",
+    "name": "happyhorse-1.1-r2v",
+    "creator": "Alibaba",
+    "url": "https://videorouter.sh/video/alibaba/happyhorse-1.1-r2v",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "720p",
+      "1080p"
+    ],
+    "providers": [
+      {
+        "provider": "Together AI",
+        "prices": {
+          "720p": 0.14,
+          "1080p": 0.18
+        },
+        "rows": [
+          "together/happyhorse-1.1-r2v"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "alibaba/happyhorse-1.1-t2v",
+    "name": "happyhorse-1.1-t2v",
+    "creator": "Alibaba",
+    "url": "https://videorouter.sh/video/alibaba/happyhorse-1.1-t2v",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "720p",
+      "1080p"
+    ],
+    "providers": [
+      {
+        "provider": "Together AI",
+        "prices": {
+          "720p": 0.14,
+          "1080p": 0.18
+        },
+        "rows": [
+          "together/happyhorse-1.1-t2v"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "alibaba/wan-2.2-a14b",
+    "name": "wan-2.2-a14b",
+    "creator": "Alibaba",
+    "url": "https://videorouter.sh/video/alibaba/wan-2.2-a14b",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "480p",
+      "720p"
+    ],
+    "providers": [
+      {
+        "provider": "MachGen",
+        "prices": {
+          "480p": 0.018,
+          "720p": 0.036
+        },
+        "rows": [
+          "machgen/wan-2.2-a14b"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "alibaba/wan-2.2-animate-mix",
+    "name": "wan-2.2-animate-mix",
+    "creator": "Alibaba",
+    "url": "https://videorouter.sh/video/alibaba/wan-2.2-animate-mix",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "pro",
+      "std"
+    ],
+    "providers": [
+      {
+        "provider": "Atlas Cloud",
+        "prices": {
+          "std": 0.126,
+          "pro": 0.182
+        },
+        "rows": [
+          "atlascloud/wan-2.2-animate-mix-std",
+          "atlascloud/wan-2.2-animate-mix-pro"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "alibaba/wan-2.2-animate-move",
+    "name": "wan-2.2-animate-move",
+    "creator": "Alibaba",
+    "url": "https://videorouter.sh/video/alibaba/wan-2.2-animate-move",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "pro",
+      "std"
+    ],
+    "providers": [
+      {
+        "provider": "Atlas Cloud",
+        "prices": {
+          "std": 0.084,
+          "pro": 0.126
+        },
+        "rows": [
+          "atlascloud/wan-2.2-animate-move-std",
+          "atlascloud/wan-2.2-animate-move-pro"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "alibaba/wan-2.5-extend",
+    "name": "wan-2.5-extend",
+    "creator": "Alibaba",
+    "url": "https://videorouter.sh/video/alibaba/wan-2.5-extend",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "480p",
+      "720p",
+      "1080p"
+    ],
+    "providers": [
+      {
+        "provider": "Atlas Cloud",
+        "prices": {
+          "480p": 0.0525,
+          "720p": 0.105,
+          "1080p": 0.1575
+        },
+        "rows": [
+          "atlascloud/wan-2.5-extend"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "alibaba/wan-2.7-i2v",
+    "name": "wan-2.7-i2v",
+    "creator": "Alibaba",
+    "url": "https://videorouter.sh/video/alibaba/wan-2.7-i2v",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "any"
+    ],
+    "providers": [
+      {
+        "provider": "Together AI",
+        "prices": {
+          "any": 0.02
+        },
+        "rows": [
+          "together/wan-2.7-i2v"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "alibaba/wan-2.7-image",
+    "name": "wan-2.7-image",
+    "creator": "Alibaba",
+    "url": "https://videorouter.sh/video/alibaba/wan-2.7-image",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "720p",
+      "1080p"
+    ],
+    "providers": [
+      {
+        "provider": "WaveSpeedAI",
+        "prices": {
+          "720p": 0.1,
+          "1080p": 0.15
+        },
+        "rows": [
+          "wavespeed/wan-2.7-image"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "alibaba/wan-2.7-pro",
+    "name": "wan-2.7-pro",
+    "creator": "Alibaba",
+    "url": "https://videorouter.sh/video/alibaba/wan-2.7-pro",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "1080p",
+      "2k",
+      "2160p"
+    ],
+    "providers": [
+      {
+        "provider": "WaveSpeedAI",
+        "prices": {
+          "1080p": 0.14,
+          "2k": 0.15,
+          "2160p": 0.17
+        },
+        "rows": [
+          "wavespeed/wan-2.7-pro"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "alibaba/wan-2.7-r2v",
+    "name": "wan-2.7-r2v",
+    "creator": "Alibaba",
+    "url": "https://videorouter.sh/video/alibaba/wan-2.7-r2v",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "any"
+    ],
+    "providers": [
+      {
+        "provider": "Together AI",
+        "prices": {
+          "any": 0.02
+        },
+        "rows": [
+          "together/wan-2.7-r2v"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "alibaba/wan-2.7-t2v",
+    "name": "wan-2.7-t2v",
+    "creator": "Alibaba",
+    "url": "https://videorouter.sh/video/alibaba/wan-2.7-t2v",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "any"
+    ],
+    "providers": [
+      {
+        "provider": "Together AI",
+        "prices": {
+          "any": 0.02
+        },
+        "rows": [
+          "together/wan-2.7-t2v"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "alibaba/wan-25-preview",
+    "name": "wan-25-preview",
+    "creator": "Alibaba",
+    "url": "https://videorouter.sh/video/alibaba/wan-25-preview",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "480p",
+      "720p",
+      "1080p"
+    ],
+    "providers": [
+      {
+        "provider": "Fal",
+        "prices": {
+          "480p": 0.05,
+          "720p": 0.1,
+          "1080p": 0.15
+        },
+        "rows": [
+          "fal/wan-25-preview"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "alibaba/wan-3.0",
+    "name": "wan-3.0",
+    "creator": "Alibaba",
+    "url": "https://videorouter.sh/video/alibaba/wan-3.0",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "480p",
+      "720p",
+      "720p-esr",
+      "1080p",
+      "1080p-esr",
+      "1440p",
+      "1440p-esr",
+      "2160p",
+      "4k-esr"
+    ],
+    "providers": [
+      {
+        "provider": "Alibaba",
+        "prices": {
+          "480p": 0.05,
+          "720p": 0.1,
+          "1080p": 0.2
+        },
+        "rows": [
+          "wan-3.0"
+        ]
+      },
+      {
+        "provider": "Atlas Cloud",
+        "prices": {
+          "480p": 0.04,
+          "720p": 0.08,
+          "720p-esr": 0.064,
+          "1080p": 0.16,
+          "1080p-esr": 0.128,
+          "1440p": 0.16,
+          "1440p-esr": 0.2752,
+          "2160p": 0.16,
+          "4k-esr": 0.59168
+        },
+        "rows": [
+          "atlascloud/wan-3.0"
+        ]
+      },
+      {
+        "provider": "DeepInfra",
+        "prices": {
+          "1080p": 0.2
+        },
+        "rows": [
+          "Wan-AI/Wan3.0-Video"
+        ]
+      },
+      {
+        "provider": "Fal",
+        "prices": {
+          "480p": 0.05,
+          "720p": 0.1,
+          "1080p": 0.2
+        },
+        "rows": [
+          "fal/wan-3.0"
+        ]
+      },
+      {
+        "provider": "MachGen",
+        "prices": {
+          "480p": 0.04165,
+          "720p": 0.0816,
+          "1080p": 0.16235
+        },
+        "rows": [
+          "machgen/alibaba-wan-3.0"
+        ]
+      },
+      {
+        "provider": "MuleRouter",
+        "prices": {
+          "480p": 0.04,
+          "720p": 0.08,
+          "1080p": 0.16
+        },
+        "rows": [
+          "mulerouter/wan-3.0"
+        ]
+      },
+      {
+        "provider": "OpenRouter",
+        "prices": {
+          "480p": 0.10625,
+          "720p": 0.2125,
+          "1080p": 0.425
+        },
+        "rows": [
+          "openrouter/wan-3.0"
+        ]
+      },
+      {
+        "provider": "Pika",
+        "prices": {
+          "480p": 0.0325,
+          "720p": 0.065,
+          "1080p": 0.13
+        },
+        "rows": [
+          "pika/wan-3.0"
+        ]
+      },
+      {
+        "provider": "Replicate",
+        "prices": {
+          "480p": 0.025,
+          "720p": 0.05,
+          "1080p": 0.1
+        },
+        "rows": [
+          "replicate/wan-3.0"
+        ]
+      },
+      {
+        "provider": "SandBase",
+        "prices": {
+          "480p": 0.03,
+          "720p": 0.06,
+          "1080p": 0.12
+        },
+        "rows": [
+          "sandbase/wan-3.0"
+        ]
+      },
+      {
+        "provider": "TOAPIS",
+        "prices": {
+          "480p": 0.03,
+          "720p": 0.06,
+          "1080p": 0.12
+        },
+        "rows": [
+          "toapis/wan-3.0"
+        ]
+      },
+      {
+        "provider": "WaveSpeedAI",
+        "prices": {
+          "480p": 0.05,
+          "720p": 0.1,
+          "1080p": 0.2
+        },
+        "rows": [
+          "wavespeed/wan-3.0",
+          "wavespeed/wan-3.0-image"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "alibaba/wan-3.0-prime",
+    "name": "wan-3.0-prime",
+    "creator": "Alibaba",
+    "url": "https://videorouter.sh/video/alibaba/wan-3.0-prime",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "480p",
+      "720p",
+      "720p-esr",
+      "1080p",
+      "1080p-esr",
+      "1440p",
+      "1440p-esr",
+      "2160p",
+      "4k-esr"
+    ],
+    "providers": [
+      {
+        "provider": "Alibaba",
+        "prices": {
+          "480p": 0.068,
+          "720p": 0.14,
+          "1080p": 0.28
+        },
+        "rows": [
+          "wan-3.0-prime"
+        ]
+      },
+      {
+        "provider": "Atlas Cloud",
+        "prices": {
+          "480p": 0.0612,
+          "720p": 0.126,
+          "720p-esr": 0.1008,
+          "1080p": 0.252,
+          "1080p-esr": 0.2016,
+          "1440p": 0.252,
+          "1440p-esr": 0.43344,
+          "2160p": 0.252,
+          "4k-esr": 0.931896
+        },
+        "rows": [
+          "atlascloud/wan-3.0-prime"
+        ]
+      },
+      {
+        "provider": "Fal",
+        "prices": {
+          "480p": 0.068,
+          "720p": 0.14,
+          "1080p": 0.28
+        },
+        "rows": [
+          "fal/wan-3.0-prime"
+        ]
+      },
+      {
+        "provider": "MuleRouter",
+        "prices": {
+          "480p": 0.0578,
+          "720p": 0.119,
+          "1080p": 0.238
+        },
+        "rows": [
+          "mulerouter/wan-3.0-prime"
+        ]
+      },
+      {
+        "provider": "OpenRouter",
+        "prices": {
+          "480p": 0.17,
+          "720p": 0.35,
+          "1080p": 0.7
+        },
+        "rows": [
+          "openrouter/wan-3.0-prime"
+        ]
+      },
+      {
+        "provider": "Pika",
+        "prices": {
+          "480p": 0.051,
+          "720p": 0.105,
+          "1080p": 0.21
+        },
+        "rows": [
+          "pika/wan-3.0-prime"
+        ]
+      },
+      {
+        "provider": "SandBase",
+        "prices": {
+          "480p": 0.0408,
+          "720p": 0.084,
+          "1080p": 0.168
+        },
+        "rows": [
+          "sandbase/wan-3.0-prime"
+        ]
+      },
+      {
+        "provider": "WaveSpeedAI",
+        "prices": {
+          "480p": 0.075,
+          "720p": 0.15,
+          "1080p": 0.3
+        },
+        "rows": [
+          "wavespeed/wan-3.0-prime",
+          "wavespeed/wan-3.0-prime-image"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "atlas-cloud/video-upscaler",
+    "name": "video-upscaler",
+    "creator": "Atlas Cloud",
+    "url": "https://videorouter.sh/video/atlas-cloud/video-upscaler",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "variable",
+    "tiers": [],
+    "providers": [
+      {
+        "provider": "Atlas Cloud",
+        "prices": {},
+        "rows": [
+          "atlascloud/video-upscaler"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "black-forest-labs/flux-3",
+    "name": "flux-3",
+    "creator": "Black Forest Labs",
+    "url": "https://videorouter.sh/video/black-forest-labs/flux-3",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "720p",
+      "1080p"
+    ],
+    "providers": [
+      {
+        "provider": "Atlas Cloud",
+        "prices": {
+          "720p": 0.187,
+          "1080p": 0.319
+        },
+        "rows": [
+          "atlascloud/flux-3"
+        ]
+      },
+      {
+        "provider": "Black Forest Labs",
+        "prices": {
+          "720p": 0.17,
+          "1080p": 0.29
+        },
+        "rows": [
+          "flux-3"
+        ]
+      },
+      {
+        "provider": "OpenRouter",
+        "prices": {
+          "720p": 0.17,
+          "1080p": 0.29
+        },
+        "rows": [
+          "openrouter/flux-3-video"
+        ]
+      },
+      {
+        "provider": "Replicate",
+        "prices": {
+          "720p": 0.17,
+          "1080p": 0.29
+        },
+        "rows": [
+          "replicate/flux-3"
+        ]
+      },
+      {
+        "provider": "Together AI",
+        "prices": {
+          "720p": 0.17,
+          "1080p": 0.29
+        },
+        "rows": [
+          "together/flux-3"
+        ]
+      },
+      {
+        "provider": "WaveSpeedAI",
+        "prices": {
+          "720p": 0.17,
+          "1080p": 0.29
+        },
+        "rows": [
+          "wavespeed/flux-3"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "black-forest-labs/flux-3-edit-video",
+    "name": "flux-3-edit-video",
+    "creator": "Black Forest Labs",
+    "url": "https://videorouter.sh/video/black-forest-labs/flux-3-edit-video",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "any"
+    ],
+    "providers": [
+      {
+        "provider": "Atlas Cloud",
+        "prices": {
+          "any": 0.033
+        },
+        "rows": [
+          "atlascloud/flux-3-edit-video"
+        ]
+      },
+      {
+        "provider": "Black Forest Labs",
+        "prices": {
+          "any": 0.03
+        },
+        "rows": [
+          "flux-3-edit-video"
+        ]
+      },
+      {
+        "provider": "Fal",
+        "prices": {
+          "any": 0.03
+        },
+        "rows": [
+          "fal/flux-3-edit-video"
+        ]
+      },
+      {
+        "provider": "WaveSpeedAI",
+        "prices": {
+          "any": 0.03
+        },
+        "rows": [
+          "wavespeed/flux-3-edit-video"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "black-forest-labs/flux-3-extend",
+    "name": "flux-3-extend",
+    "creator": "Black Forest Labs",
+    "url": "https://videorouter.sh/video/black-forest-labs/flux-3-extend",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "720p",
+      "1080p"
+    ],
+    "providers": [
+      {
+        "provider": "Atlas Cloud",
+        "prices": {
+          "720p": 0.451,
+          "1080p": 0.583
+        },
+        "rows": [
+          "atlascloud/flux-3-extend"
+        ]
+      },
+      {
+        "provider": "Black Forest Labs",
+        "prices": {
+          "720p": 0.41,
+          "1080p": 0.53
+        },
+        "rows": [
+          "flux-3-extend"
+        ]
+      },
+      {
+        "provider": "Fal",
+        "prices": {
+          "720p": 0.41,
+          "1080p": 0.53
+        },
+        "rows": [
+          "fal/flux-3-extend"
+        ]
+      },
+      {
+        "provider": "WaveSpeedAI",
+        "prices": {
+          "720p": 0.41,
+          "1080p": 0.53
+        },
+        "rows": [
+          "wavespeed/flux-3-extend"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "black-forest-labs/flux-video-upscale",
+    "name": "flux-video-upscale",
+    "creator": "Black Forest Labs",
+    "url": "https://videorouter.sh/video/black-forest-labs/flux-video-upscale",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "variable",
+    "tiers": [],
+    "providers": [
+      {
+        "provider": "Black Forest Labs",
+        "prices": {},
+        "rows": [
+          "flux-video-upscale"
+        ]
+      },
+      {
+        "provider": "Fal",
+        "prices": {},
+        "rows": [
+          "fal/flux-video-upscale"
+        ]
+      },
+      {
+        "provider": "WaveSpeedAI",
+        "prices": {},
+        "rows": [
+          "wavespeed/flux-video-upscale"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "black-forest-labs/flux-video-upscale-creative",
+    "name": "flux-video-upscale-creative",
+    "creator": "Black Forest Labs",
+    "url": "https://videorouter.sh/video/black-forest-labs/flux-video-upscale-creative",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "variable",
+    "tiers": [],
+    "providers": [
+      {
+        "provider": "Black Forest Labs",
+        "prices": {},
+        "rows": [
+          "flux-video-upscale-creative"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "boson/higgs-avatar",
+    "name": "higgs-avatar",
+    "creator": "Boson AI",
+    "url": "https://videorouter.sh/video/boson/higgs-avatar",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "480x640",
+      "640x480",
+      "640x640"
+    ],
+    "providers": [
+      {
+        "provider": "Boson AI",
+        "prices": {
+          "640x640": 0.0015,
+          "640x480": 0.001167,
+          "480x640": 0.001167
+        },
+        "rows": [
+          "boson/higgs-avatar"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bytedance/byteplus-video-upscaler",
+    "name": "byteplus-video-upscaler",
+    "creator": "ByteDance",
+    "url": "https://videorouter.sh/video/bytedance/byteplus-video-upscaler",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "variable",
+    "tiers": [],
+    "providers": [
+      {
+        "provider": "Atlas Cloud",
+        "prices": {},
+        "rows": [
+          "atlascloud/byteplus-video-upscaler"
+        ]
+      },
+      {
+        "provider": "Fal",
+        "prices": {},
+        "rows": [
+          "fal/byteplus-video-upscaler"
+        ]
+      },
+      {
+        "provider": "WaveSpeedAI",
+        "prices": {},
+        "rows": [
+          "wavespeed/byteplus-video-upscaler"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bytedance/doubao-seedance-1-0-pro-quality",
+    "name": "seedance-1.0-pro-quality",
+    "creator": "ByteDance",
+    "url": "https://videorouter.sh/video/bytedance/doubao-seedance-1-0-pro-quality",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "480p",
+      "720p",
+      "1080p"
+    ],
+    "providers": [
+      {
+        "provider": "TOAPIS",
+        "prices": {
+          "480p": 0.02262,
+          "720p": 0.05237,
+          "1080p": 0.11372
+        },
+        "rows": [
+          "toapis/doubao-seedance-1-0-pro-quality"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bytedance/omnihuman-v2",
+    "name": "omnihuman-v2",
+    "creator": "ByteDance",
+    "url": "https://videorouter.sh/video/bytedance/omnihuman-v2",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "any"
+    ],
+    "providers": [
+      {
+        "provider": "Atlas Cloud",
+        "prices": {
+          "any": 0.0896
+        },
+        "rows": [
+          "atlascloud/omnihuman-v2"
+        ]
+      },
+      {
+        "provider": "Fal",
+        "prices": {
+          "any": 0.105
+        },
+        "rows": [
+          "fal/omnihuman-v2"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bytedance/seedance-1-5-pro",
+    "name": "seedance-1.5-pro",
+    "creator": "ByteDance",
+    "url": "https://videorouter.sh/video/bytedance/seedance-1-5-pro",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "480p",
+      "720p",
+      "1080p"
+    ],
+    "providers": [
+      {
+        "provider": "OpenRouter",
+        "prices": {
+          "480p": 0.011529,
+          "720p": 0.02592,
+          "1080p": 0.05832
+        },
+        "rows": [
+          "openrouter/seedance-1-5-pro"
+        ]
+      },
+      {
+        "provider": "TOAPIS",
+        "prices": {
+          "480p": 0.0124,
+          "720p": 0.02696,
+          "1080p": 0.06073
+        },
+        "rows": [
+          "toapis/doubao-seedance-1-5-pro"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bytedance/seedance-2.0",
+    "name": "seedance-2.0",
+    "creator": "ByteDance",
+    "url": "https://videorouter.sh/video/bytedance/seedance-2.0",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "480p",
+      "720p",
+      "720p-sr",
+      "1080p",
+      "1080p-sr",
+      "1440p-sr",
+      "2160p"
+    ],
+    "providers": [
+      {
+        "provider": "Atlas Cloud",
+        "prices": {
+          "480p": 0.08999424,
+          "720p": 0.193536,
+          "720p-sr": 0.161989632,
+          "1080p": 0.435456,
+          "1080p-sr": 0.3483648,
+          "1440p-sr": 0.6193152,
+          "2160p": 1.24105
+        },
+        "rows": [
+          "atlascloud/seedance-2.0"
+        ]
+      },
+      {
+        "provider": "Fal",
+        "prices": {
+          "480p": 0.1345,
+          "720p": 0.3034,
+          "1080p": 0.682,
+          "2160p": 1.5552
+        },
+        "rows": [
+          "fal/seedance-2.0",
+          "fal/seedance-2.0-reference"
+        ]
+      },
+      {
+        "provider": "MachGen",
+        "prices": {
+          "480p": 0.05976,
+          "720p": 0.12852,
+          "1080p": 0.31809,
+          "2160p": 0.66096
+        },
+        "rows": [
+          "machgen/seedance-2.0"
+        ]
+      },
+      {
+        "provider": "OpenRouter",
+        "prices": {
+          "480p": 0.067252,
+          "720p": 0.151199,
+          "1080p": 0.37422,
+          "2160p": 0.7776
+        },
+        "rows": [
+          "openrouter/seedance-2.0"
+        ]
+      },
+      {
+        "provider": "OpenSand",
+        "prices": {
+          "480p": 0.059762,
+          "720p": 0.12852,
+          "1080p": 0.318087,
+          "2160p": 0.60653
+        },
+        "rows": [
+          "opensand/seedance-2-0-overseas",
+          "opensand/seedance-2-0"
+        ]
+      },
+      {
+        "provider": "Replicate",
+        "prices": {
+          "480p": 0.08,
+          "720p": 0.18,
+          "1080p": 0.45,
+          "2160p": 1.0
+        },
+        "rows": [
+          "replicate/seedance-2.0"
+        ]
+      },
+      {
+        "provider": "SandBase",
+        "prices": {
+          "480p": 0.096,
+          "720p": 0.192,
+          "1080p": 0.48,
+          "2160p": 0.96
+        },
+        "rows": [
+          "sandbase/seedance-2.0"
+        ]
+      },
+      {
+        "provider": "SoCheap-Official",
+        "prices": {
+          "480p": 0.0592,
+          "720p": 0.1274,
+          "1080p": 0.3201
+        },
+        "rows": [
+          "socheap/seedance-2.0-official"
+        ]
+      },
+      {
+        "provider": "SoCheap-Overseas",
+        "prices": {
+          "720p": 0.0896
+        },
+        "rows": [
+          "socheap/seedance-2.0-low"
+        ]
+      },
+      {
+        "provider": "TOAPIS",
+        "prices": {
+          "480p": 0.066,
+          "720p": 0.14194,
+          "1080p": 0.35426,
+          "2160p": 0.76841
+        },
+        "rows": [
+          "toapis/seedance-2"
+        ]
+      },
+      {
+        "provider": "WaveSpeedAI",
+        "prices": {
+          "480p": 0.12,
+          "720p": 0.24,
+          "1080p": 0.6,
+          "2160p": 1.2
+        },
+        "rows": [
+          "wavespeed/seedance-2.0",
+          "wavespeed/seedance-2.0-image"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bytedance/seedance-2.0-fast",
+    "name": "seedance-2.0-fast",
+    "creator": "ByteDance",
+    "url": "https://videorouter.sh/video/bytedance/seedance-2.0-fast",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "480p",
+      "720p",
+      "720p-sr",
+      "1080p",
+      "1080p-sr",
+      "1440p-sr",
+      "2160p",
+      "any"
+    ],
+    "providers": [
+      {
+        "provider": "Atlas Cloud",
+        "prices": {
+          "480p": 0.026998272,
+          "720p": 0.0580608,
+          "720p-sr": 0.0485968896,
+          "1080p": 0.1306368,
+          "1080p-sr": 0.10450944,
+          "1440p-sr": 0.18579456
+        },
+        "rows": [
+          "atlascloud/seedance-2.0-fast"
+        ]
+      },
+      {
+        "provider": "Fal",
+        "prices": {
+          "any": 0.2419
+        },
+        "rows": [
+          "fal/seedance-2.0-fast",
+          "fal/seedance-2.0-fast-reference"
+        ]
+      },
+      {
+        "provider": "MachGen",
+        "prices": {
+          "480p": 0.04781,
+          "720p": 0.10282
+        },
+        "rows": [
+          "machgen/seedance-2.0-fast"
+        ]
+      },
+      {
+        "provider": "OpenRouter",
+        "prices": {
+          "480p": 0.0403515,
+          "720p": 0.09072
+        },
+        "rows": [
+          "openrouter/seedance-2.0-fast"
+        ]
+      },
+      {
+        "provider": "OpenSand",
+        "prices": {
+          "480p": 0.047809,
+          "720p": 0.102816
+        },
+        "rows": [
+          "opensand/seedance-2-0-fast-overseas",
+          "opensand/seedance-2-0-fast"
+        ]
+      },
+      {
+        "provider": "Replicate",
+        "prices": {
+          "480p": 0.07,
+          "720p": 0.15
+        },
+        "rows": [
+          "replicate/seedance-2.0-fast"
+        ]
+      },
+      {
+        "provider": "SandBase",
+        "prices": {
+          "480p": 0.085,
+          "720p": 0.17
+        },
+        "rows": [
+          "sandbase/seedance-2.0-fast"
+        ]
+      },
+      {
+        "provider": "TOAPIS",
+        "prices": {
+          "480p": 0.0416,
+          "720p": 0.089463
+        },
+        "rows": [
+          "toapis/seedance-2-fast"
+        ]
+      },
+      {
+        "provider": "WaveSpeedAI",
+        "prices": {
+          "480p": 0.1,
+          "720p": 0.2,
+          "1080p": 0.5,
+          "2160p": 1.0
+        },
+        "rows": [
+          "wavespeed/seedance-2.0-fast",
+          "wavespeed/seedance-2.0-fast-image"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bytedance/seedance-2.0-mini",
+    "name": "seedance-2.0-mini",
+    "creator": "ByteDance",
+    "url": "https://videorouter.sh/video/bytedance/seedance-2.0-mini",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "480p",
+      "720p",
+      "720p-sr",
+      "1080p",
+      "1080p-sr",
+      "1440p-sr",
+      "2160p"
+    ],
+    "providers": [
+      {
+        "provider": "Atlas Cloud",
+        "prices": {
+          "480p": 0.01124928,
+          "720p": 0.024192,
+          "720p-sr": 0.020248704,
+          "1080p-sr": 0.0435456,
+          "1440p-sr": 0.0774144
+        },
+        "rows": [
+          "atlascloud/seedance-2.0-mini"
+        ]
+      },
+      {
+        "provider": "Fal",
+        "prices": {
+          "480p": 0.0721,
+          "720p": 0.1547
+        },
+        "rows": [
+          "fal/seedance-2.0-mini",
+          "fal/seedance-2.0-mini-reference"
+        ]
+      },
+      {
+        "provider": "MachGen",
+        "prices": {
+          "480p": 0.02988,
+          "720p": 0.06426
+        },
+        "rows": [
+          "machgen/seedance-2.0-mini"
+        ]
+      },
+      {
+        "provider": "OpenRouter",
+        "prices": {
+          "480p": 0.033626,
+          "720p": 0.075599
+        },
+        "rows": [
+          "openrouter/seedance-2.0-mini"
+        ]
+      },
+      {
+        "provider": "OpenSand",
+        "prices": {
+          "480p": 0.029881,
+          "720p": 0.06426
+        },
+        "rows": [
+          "opensand/seedance-2-0-mini"
+        ]
+      },
+      {
+        "provider": "SandBase",
+        "prices": {
+          "480p": 0.054,
+          "720p": 0.108
+        },
+        "rows": [
+          "sandbase/seedance-2.0-mini"
+        ]
+      },
+      {
+        "provider": "TOAPIS",
+        "prices": {
+          "480p": 0.018964,
+          "720p": 0.040782
+        },
+        "rows": [
+          "toapis/seedance-2-mini",
+          "toapis/seedance-2-mini-overseas"
+        ]
+      },
+      {
+        "provider": "WaveSpeedAI",
+        "prices": {
+          "480p": 0.06,
+          "720p": 0.12,
+          "1080p": 0.3,
+          "2160p": 0.6
+        },
+        "rows": [
+          "wavespeed/seedance-2.0-mini",
+          "wavespeed/seedance-2.0-mini-image"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bytedance/seedance-2.5",
+    "name": "seedance-2.5",
+    "creator": "ByteDance",
+    "url": "https://videorouter.sh/video/bytedance/seedance-2.5",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "480p",
+      "720p",
+      "720p-esr",
+      "720p-sr",
+      "1080p",
+      "1080p-esr",
+      "1080p-esr & 60fps",
+      "1080p-sr",
+      "1440p-esr",
+      "1440p-sr",
+      "2160p",
+      "4k-esr"
+    ],
+    "providers": [
+      {
+        "provider": "Atlas Cloud",
+        "prices": {
+          "480p": 0.13971204,
+          "720p": 0.300456,
+          "720p-esr": 0.251481672,
+          "720p-sr": 0.2193479028,
+          "1080p": 0.591364559916,
+          "1080p-esr": 0.450684,
+          "1080p-esr & 60fps": 0.4957524,
+          "1080p-sr": 0.4056156,
+          "1440p-esr": 0.7601536799996995,
+          "1440p-sr": 0.6999989996006605,
+          "4k-esr": 1.7005809600003003
+        },
+        "rows": [
+          "atlascloud/seedance-2.5"
+        ]
+      },
+      {
+        "provider": "Fal",
+        "prices": {
+          "480p": 0.2205,
+          "720p": 0.473,
+          "1080p": 1.164
+        },
+        "rows": [
+          "fal/seedance-2.5",
+          "fal/seedance-2.5-reference"
+        ]
+      },
+      {
+        "provider": "Fal-US",
+        "prices": {
+          "480p": 0.2205,
+          "720p": 0.473
+        },
+        "rows": [
+          "fal/seedance-2.5-us"
+        ]
+      },
+      {
+        "provider": "MachGen",
+        "prices": {
+          "480p": 0.08738,
+          "720p": 0.19645,
+          "1080p": 0.48333
+        },
+        "rows": [
+          "machgen/seedance-2.5"
+        ]
+      },
+      {
+        "provider": "OpenRouter",
+        "prices": {
+          "480p": 0.10280025,
+          "720p": 0.23112,
+          "1080p": 0.52002,
+          "2160p": 2.08008
+        },
+        "rows": [
+          "openrouter/seedance-2.5"
+        ]
+      },
+      {
+        "provider": "OpenSand",
+        "prices": {
+          "480p": 0.09135,
+          "720p": 0.196452,
+          "1080p": 0.483327,
+          "2160p": 1.933308
+        },
+        "rows": [
+          "opensand/seedance-2-5"
+        ]
+      },
+      {
+        "provider": "Replicate",
+        "prices": {
+          "480p": 0.1028,
+          "720p": 0.2312
+        },
+        "rows": [
+          "replicate/seedance-2.5"
+        ]
+      },
+      {
+        "provider": "SandBase",
+        "prices": {
+          "480p": 0.144,
+          "720p": 0.288,
+          "1080p": 0.72
+        },
+        "rows": [
+          "sandbase/seedance-2.5"
+        ]
+      },
+      {
+        "provider": "SoCheap-Official",
+        "prices": {
+          "480p": 0.0862,
+          "720p": 0.1934,
+          "1080p": 0.4783
+        },
+        "rows": [
+          "socheap/seedance-2.5-official"
+        ]
+      },
+      {
+        "provider": "SoCheap-Overseas",
+        "prices": {
+          "720p": 0.137
+        },
+        "rows": [
+          "socheap/seedance-2.5-low"
+        ]
+      },
+      {
+        "provider": "TOAPIS",
+        "prices": {
+          "480p": 0.10044,
+          "720p": 0.2175,
+          "1080p": 0.5391
+        },
+        "rows": [
+          "toapis/seedance-2-5"
+        ]
+      },
+      {
+        "provider": "WaveSpeedAI",
+        "prices": {
+          "480p": 0.162,
+          "720p": 0.324,
+          "1080p": 0.81,
+          "2160p": 1.62
+        },
+        "rows": [
+          "wavespeed/seedance-2.5",
+          "wavespeed/seedance-2.5-image"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bytedance/seedance-2.5-talking-avatar",
+    "name": "seedance-2.5-talking-avatar",
+    "creator": "ByteDance",
+    "url": "https://videorouter.sh/video/bytedance/seedance-2.5-talking-avatar",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "480p",
+      "720p"
+    ],
+    "providers": [
+      {
+        "provider": "WaveSpeedAI",
+        "prices": {
+          "480p": 0.22,
+          "720p": 0.44
+        },
+        "rows": [
+          "wavespeed/seedance-2.5-talking-avatar"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bytedance/seedvr2-upscale-video",
+    "name": "seedvr2-upscale-video",
+    "creator": "ByteDance",
+    "url": "https://videorouter.sh/video/bytedance/seedvr2-upscale-video",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "variable",
+    "tiers": [],
+    "providers": [
+      {
+        "provider": "Fal",
+        "prices": {},
+        "rows": [
+          "fal/seedvr2-upscale-video"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "clarity-ai/crystal-video-upscale",
+    "name": "crystal-video-upscale",
+    "creator": "Clarity AI",
+    "url": "https://videorouter.sh/video/clarity-ai/crystal-video-upscale",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "variable",
+    "tiers": [],
+    "providers": [
+      {
+        "provider": "Fal",
+        "prices": {},
+        "rows": [
+          "fal/crystal-video-upscale"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "creatify/boreal",
+    "name": "boreal",
+    "creator": "Creatify",
+    "url": "https://videorouter.sh/video/creatify/boreal",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "720p",
+      "1080p",
+      "2k"
+    ],
+    "providers": [
+      {
+        "provider": "Fal",
+        "prices": {
+          "720p": 0.01,
+          "1080p": 0.03,
+          "2k": 0.12
+        },
+        "rows": [
+          "fal/boreal"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fal/flux-3-max",
+    "name": "flux-3-max",
+    "creator": "Fal",
+    "url": "https://videorouter.sh/video/fal/flux-3-max",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "720p",
+      "1080p"
+    ],
+    "providers": [
+      {
+        "provider": "Fal",
+        "prices": {
+          "720p": 0.17,
+          "1080p": 0.29
+        },
+        "rows": [
+          "fal/flux-3-max"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "google/gemini-omni-1.1-flash",
+    "name": "gemini-omni-1.1-flash",
+    "creator": "Google",
+    "url": "https://videorouter.sh/video/google/gemini-omni-1.1-flash",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "360p",
+      "720p",
+      "1080p",
+      "2160p",
+      "any"
+    ],
+    "providers": [
+      {
+        "provider": "Atlas Cloud",
+        "prices": {
+          "720p": 0.099,
+          "1080p": 0.144,
+          "2160p": 0.279
+        },
+        "rows": [
+          "atlascloud/gemini-omni-1.1-flash"
+        ]
+      },
+      {
+        "provider": "Google",
+        "prices": {
+          "any": 0.1
+        },
+        "rows": [
+          "gemini-omni-1.1-flash"
+        ]
+      },
+      {
+        "provider": "WaveSpeedAI",
+        "prices": {
+          "360p": 0.03,
+          "720p": 0.1,
+          "1080p": 0.15,
+          "2160p": 0.3
+        },
+        "rows": [
+          "wavespeed/gemini-omni-1.1-flash",
+          "wavespeed/gemini-omni-1.1-flash-image"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "google/gemini-omni-1.2-flash",
+    "name": "gemini-omni-1.2-flash",
+    "creator": "Google",
+    "url": "https://videorouter.sh/video/google/gemini-omni-1.2-flash",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "360p",
+      "720p",
+      "1080p",
+      "2160p"
+    ],
+    "providers": [
+      {
+        "provider": "Atlas Cloud",
+        "prices": {
+          "720p": 0.0596352,
+          "1080p": 0.0874368,
+          "2160p": 0.1708416
+        },
+        "rows": [
+          "atlascloud/gemini-omni-1.2-flash"
+        ]
+      },
+      {
+        "provider": "Fal",
+        "prices": {
+          "360p": 0.0273,
+          "720p": 0.0819,
+          "1080p": 0.1229,
+          "2160p": 0.2457
+        },
+        "rows": [
+          "fal/gemini-omni-1.2-flash"
+        ]
+      },
+      {
+        "provider": "Google",
+        "prices": {
+          "360p": 0.023172,
+          "720p": 0.069504,
+          "1080p": 0.104256,
+          "2160p": 0.208512
+        },
+        "rows": [
+          "gemini-omni-1.2-flash"
+        ]
+      },
+      {
+        "provider": "WaveSpeedAI",
+        "prices": {
+          "360p": 0.023,
+          "720p": 0.07,
+          "1080p": 0.105,
+          "2160p": 0.21
+        },
+        "rows": [
+          "wavespeed/gemini-omni-1.2-flash",
+          "wavespeed/gemini-omni-1.2-flash-image"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "google/gemini-omni-flash",
+    "name": "gemini-omni-flash",
+    "creator": "Google",
+    "url": "https://videorouter.sh/video/google/gemini-omni-flash",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "any"
+    ],
+    "providers": [
+      {
+        "provider": "Atlas Cloud",
+        "prices": {
+          "any": 0.125
+        },
+        "rows": [
+          "atlascloud/gemini-omni-flash"
+        ]
+      },
+      {
+        "provider": "Fal",
+        "prices": {
+          "any": 0.13
+        },
+        "rows": [
+          "fal/gemini-omni-flash"
+        ]
+      },
+      {
+        "provider": "Google",
+        "prices": {
+          "any": 0.1
+        },
+        "rows": [
+          "gemini-omni-flash"
+        ]
+      },
+      {
+        "provider": "WaveSpeedAI",
+        "prices": {
+          "any": 0.13
+        },
+        "rows": [
+          "wavespeed/gemini-omni-flash",
+          "wavespeed/gemini-omni-flash-image"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "google/veo-3",
+    "name": "veo-3",
+    "creator": "Google",
+    "url": "https://videorouter.sh/video/google/veo-3",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "any"
+    ],
+    "providers": [
+      {
+        "provider": "Replicate",
+        "prices": {
+          "any": 0.2
+        },
+        "rows": [
+          "replicate/veo-3"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "google/veo-3-fast",
+    "name": "veo-3-fast",
+    "creator": "Google",
+    "url": "https://videorouter.sh/video/google/veo-3-fast",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "any"
+    ],
+    "providers": [
+      {
+        "provider": "Replicate",
+        "prices": {
+          "any": 0.1
+        },
+        "rows": [
+          "replicate/veo-3-fast"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "google/veo-3.1",
+    "name": "veo-3.1",
+    "creator": "Google",
+    "url": "https://videorouter.sh/video/google/veo-3.1",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "720p",
+      "1080p",
+      "2160p",
+      "any"
+    ],
+    "providers": [
+      {
+        "provider": "DeepInfra",
+        "prices": {
+          "any": 0.4
+        },
+        "rows": [
+          "deepinfra/veo-3.1"
+        ]
+      },
+      {
+        "provider": "MachGen",
+        "prices": {
+          "720p": 0.40035,
+          "1080p": 0.40035,
+          "2160p": 0.6001
+        },
+        "rows": [
+          "machgen/veo-3.1"
+        ]
+      },
+      {
+        "provider": "OpenRouter",
+        "prices": {
+          "720p": 0.2,
+          "1080p": 0.2,
+          "2160p": 0.4
+        },
+        "rows": [
+          "openrouter/veo-3.1"
+        ]
+      },
+      {
+        "provider": "Pika",
+        "prices": {
+          "any": 0.2
+        },
+        "rows": [
+          "pika/veo-3.1"
+        ]
+      },
+      {
+        "provider": "Replicate",
+        "prices": {
+          "any": 0.2
+        },
+        "rows": [
+          "replicate/veo-3.1"
+        ]
+      },
+      {
+        "provider": "SandBase",
+        "prices": {
+          "720p": 0.2,
+          "1080p": 0.2,
+          "2160p": 0.4
+        },
+        "rows": [
+          "sandbase/veo-3.1"
+        ]
+      },
+      {
+        "provider": "WaveSpeedAI",
+        "prices": {
+          "720p": 0.4,
+          "1080p": 0.4,
+          "2160p": 0.4
+        },
+        "rows": [
+          "wavespeed/veo-3.1",
+          "wavespeed/veo-3.1-image"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "google/veo-3.1-extend",
+    "name": "veo-3.1-extend",
+    "creator": "Google",
+    "url": "https://videorouter.sh/video/google/veo-3.1-extend",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "720p",
+      "1080p"
+    ],
+    "providers": [
+      {
+        "provider": "Fal",
+        "prices": {
+          "720p": 0.4,
+          "1080p": 0.4
+        },
+        "rows": [
+          "fal/veo-3.1-extend"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "google/veo-3.1-fast",
+    "name": "veo-3.1-fast",
+    "creator": "Google",
+    "url": "https://videorouter.sh/video/google/veo-3.1-fast",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "720p",
+      "1080p",
+      "2160p",
+      "any"
+    ],
+    "providers": [
+      {
+        "provider": "DeepInfra",
+        "prices": {
+          "any": 0.15
+        },
+        "rows": [
+          "deepinfra/veo-3.1-fast"
+        ]
+      },
+      {
+        "provider": "MachGen",
+        "prices": {
+          "720p": 0.1003,
+          "1080p": 0.1207,
+          "2160p": 0.30005
+        },
+        "rows": [
+          "machgen/veo-3.1-fast"
+        ]
+      },
+      {
+        "provider": "OpenRouter",
+        "prices": {
+          "720p": 0.08,
+          "1080p": 0.1,
+          "2160p": 0.25
+        },
+        "rows": [
+          "openrouter/veo-3.1-fast"
+        ]
+      },
+      {
+        "provider": "Pika",
+        "prices": {
+          "720p": 0.08,
+          "1080p": 0.1
+        },
+        "rows": [
+          "pika/veo-3.1-fast"
+        ]
+      },
+      {
+        "provider": "Replicate",
+        "prices": {
+          "any": 0.1
+        },
+        "rows": [
+          "replicate/veo-3.1-fast"
+        ]
+      },
+      {
+        "provider": "SandBase",
+        "prices": {
+          "720p": 0.08,
+          "1080p": 0.1,
+          "2160p": 0.25
+        },
+        "rows": [
+          "sandbase/veo-3.1-fast"
+        ]
+      },
+      {
+        "provider": "WaveSpeedAI",
+        "prices": {
+          "720p": 0.15,
+          "1080p": 0.15,
+          "2160p": 0.15
+        },
+        "rows": [
+          "wavespeed/veo-3.1-fast",
+          "wavespeed/veo-3.1-fast-image"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "google/veo-3.1-fast-extend",
+    "name": "veo-3.1-fast-extend",
+    "creator": "Google",
+    "url": "https://videorouter.sh/video/google/veo-3.1-fast-extend",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "720p",
+      "1080p"
+    ],
+    "providers": [
+      {
+        "provider": "Fal",
+        "prices": {
+          "720p": 0.15,
+          "1080p": 0.15
+        },
+        "rows": [
+          "fal/veo-3.1-fast-extend"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "google/veo-3.1-lite",
+    "name": "veo-3.1-lite",
+    "creator": "Google",
+    "url": "https://videorouter.sh/video/google/veo-3.1-lite",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "720p",
+      "1080p"
+    ],
+    "providers": [
+      {
+        "provider": "OpenRouter",
+        "prices": {
+          "720p": 0.03,
+          "1080p": 0.05
+        },
+        "rows": [
+          "openrouter/veo-3.1-lite"
+        ]
+      },
+      {
+        "provider": "Pika",
+        "prices": {
+          "720p": 0.03,
+          "1080p": 0.05
+        },
+        "rows": [
+          "pika/veo-3.1-lite"
+        ]
+      },
+      {
+        "provider": "SandBase",
+        "prices": {
+          "720p": 0.03,
+          "1080p": 0.05
+        },
+        "rows": [
+          "sandbase/veo-3.1-lite"
+        ]
+      },
+      {
+        "provider": "WaveSpeedAI",
+        "prices": {
+          "720p": 0.05,
+          "1080p": 0.08
+        },
+        "rows": [
+          "wavespeed/veo-3.1-lite",
+          "wavespeed/veo-3.1-lite-image"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "heygen/avatar-iv",
+    "name": "HeyGen Avatar IV",
+    "creator": "HeyGen",
+    "url": "https://videorouter.sh/video/heygen/avatar-iv",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "720p",
+      "1080p",
+      "2160p"
+    ],
+    "providers": [
+      {
+        "provider": "HeyGen",
+        "prices": {
+          "720p": 0.05,
+          "1080p": 0.05,
+          "2160p": 0.06666666666666667
+        },
+        "rows": [
+          "heygen/avatar-iv"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "heygen/heygen-avatar4-image-to-video",
+    "name": "heygen-avatar4-image-to-video",
+    "creator": "HeyGen",
+    "url": "https://videorouter.sh/video/heygen/heygen-avatar4-image-to-video",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "any"
+    ],
+    "providers": [
+      {
+        "provider": "Fal",
+        "prices": {
+          "any": 0.1
+        },
+        "rows": [
+          "fal/heygen-avatar4-image-to-video"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "heygen/heygen-v3-lipsync-precision",
+    "name": "heygen-v3-lipsync-precision",
+    "creator": "HeyGen",
+    "url": "https://videorouter.sh/video/heygen/heygen-v3-lipsync-precision",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "any"
+    ],
+    "providers": [
+      {
+        "provider": "Fal",
+        "prices": {
+          "any": 0.1
+        },
+        "rows": [
+          "fal/heygen-v3-lipsync-precision"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "heygen/heygen-v3-lipsync-speed",
+    "name": "heygen-v3-lipsync-speed",
+    "creator": "HeyGen",
+    "url": "https://videorouter.sh/video/heygen/heygen-v3-lipsync-speed",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "any"
+    ],
+    "providers": [
+      {
+        "provider": "Fal",
+        "prices": {
+          "any": 0.05
+        },
+        "rows": [
+          "fal/heygen-v3-lipsync-speed"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "heygen/heygen-video-1",
+    "name": "heygen-video-1",
+    "creator": "HeyGen",
+    "url": "https://videorouter.sh/video/heygen/heygen-video-1",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "480p",
+      "768p",
+      "1080p",
+      "2k"
+    ],
+    "providers": [
+      {
+        "provider": "Fal",
+        "prices": {
+          "480p": 0.02,
+          "768p": 0.02,
+          "1080p": 0.06,
+          "2k": 0.06
+        },
+        "rows": [
+          "fal/heygen-video-1"
+        ]
+      },
+      {
+        "provider": "HeyGen",
+        "prices": {
+          "480p": 0.02,
+          "768p": 0.03,
+          "1080p": 0.09,
+          "2k": 0.09
+        },
+        "rows": [
+          "heygen-video-1"
+        ]
+      },
+      {
+        "provider": "OpenRouter",
+        "prices": {
+          "480p": 0.02,
+          "768p": 0.036,
+          "1080p": 0.1,
+          "2k": 0.1
+        },
+        "rows": [
+          "openrouter/heygen-video-1"
+        ]
+      },
+      {
+        "provider": "WaveSpeedAI",
+        "prices": {
+          "480p": 0.02,
+          "768p": 0.036
+        },
+        "rows": [
+          "wavespeed/heygen-video-1",
+          "wavespeed/heygen-video-1-image"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kuaishou/kling-ai-avatar-v2-pro",
+    "name": "kling-ai-avatar-v2-pro",
+    "creator": "Kuaishou",
+    "url": "https://videorouter.sh/video/kuaishou/kling-ai-avatar-v2-pro",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "any"
+    ],
+    "providers": [
+      {
+        "provider": "Fal",
+        "prices": {
+          "any": 0.115
+        },
+        "rows": [
+          "fal/kling-ai-avatar-v2-pro"
+        ]
+      },
+      {
+        "provider": "WaveSpeedAI",
+        "prices": {
+          "any": 0.112
+        },
+        "rows": [
+          "wavespeed/kling-ai-avatar-v2-pro"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kuaishou/kling-ai-avatar-v2-standard",
+    "name": "kling-ai-avatar-v2-standard",
+    "creator": "Kuaishou",
+    "url": "https://videorouter.sh/video/kuaishou/kling-ai-avatar-v2-standard",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "any"
+    ],
+    "providers": [
+      {
+        "provider": "Fal",
+        "prices": {
+          "any": 0.0562
+        },
+        "rows": [
+          "fal/kling-ai-avatar-v2-standard"
+        ]
+      },
+      {
+        "provider": "WaveSpeedAI",
+        "prices": {
+          "any": 0.056
+        },
+        "rows": [
+          "wavespeed/kling-ai-avatar-v2-standard"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kuaishou/kling-motion-control",
+    "name": "kling-motion-control",
+    "creator": "Kuaishou",
+    "url": "https://videorouter.sh/video/kuaishou/kling-motion-control",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "pro",
+      "std"
+    ],
+    "providers": [
+      {
+        "provider": "Atlas Cloud",
+        "prices": {
+          "std": 0.1071,
+          "pro": 0.1428
+        },
+        "rows": [
+          "atlascloud/kling-v3.0-motion-control-std",
+          "atlascloud/kling-v3.0-motion-control-pro"
+        ]
+      },
+      {
+        "provider": "Novita",
+        "prices": {
+          "std": 0.1575,
+          "pro": 0.21
+        },
+        "rows": [
+          "novita/kling-motion-control-std",
+          "novita/kling-motion-control-pro"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kuaishou/kling-o3",
+    "name": "kling-o3",
+    "creator": "Kuaishou",
+    "url": "https://videorouter.sh/video/kuaishou/kling-o3",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "720p",
+      "1080p",
+      "2160p",
+      "any"
+    ],
+    "providers": [
+      {
+        "provider": "MachGen",
+        "prices": {
+          "720p": 0.068,
+          "1080p": 0.0901,
+          "2160p": 0.3366
+        },
+        "rows": [
+          "machgen/kling-o3"
+        ]
+      },
+      {
+        "provider": "SandBase",
+        "prices": {
+          "1080p": 0.0784,
+          "720p": 0.0588,
+          "2160p": 0.294
+        },
+        "rows": [
+          "sandbase/kling-o3-pro",
+          "sandbase/kling-o3-standard",
+          "sandbase/kling-o3-4k",
+          "sandbase/kling-3.0-omni-pro"
+        ]
+      },
+      {
+        "provider": "WaveSpeedAI",
+        "prices": {
+          "720p": 0.084,
+          "any": 0.084,
+          "1080p": 0.112,
+          "2160p": 0.42
+        },
+        "rows": [
+          "wavespeed/kling-video-o3-std",
+          "wavespeed/kling-video-o3-std-image",
+          "wavespeed/kling-video-o3-pro",
+          "wavespeed/kling-video-o3-pro-image",
+          "wavespeed/kling-video-o3-4k",
+          "wavespeed/kling-video-o3-4k-image"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kuaishou/kling-v2.6",
+    "name": "kling-v2.6",
+    "creator": "Kuaishou",
+    "url": "https://videorouter.sh/video/kuaishou/kling-v2.6",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "any",
+      "pro",
+      "std"
+    ],
+    "providers": [
+      {
+        "provider": "Kling",
+        "prices": {
+          "std": 0.062
+        },
+        "rows": [
+          "kling-v2-6"
+        ]
+      },
+      {
+        "provider": "WaveSpeedAI",
+        "prices": {
+          "std": 0.042,
+          "any": 0.042,
+          "pro": 0.14
+        },
+        "rows": [
+          "wavespeed/kling-v2.6-std",
+          "wavespeed/kling-v2.6-std-image",
+          "wavespeed/kling-v2.6-pro",
+          "wavespeed/kling-v2.6-pro-image"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kuaishou/kling-v2.6-motion-control",
+    "name": "kling-v2.6-motion-control",
+    "creator": "Kuaishou",
+    "url": "https://videorouter.sh/video/kuaishou/kling-v2.6-motion-control",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "pro",
+      "std"
+    ],
+    "providers": [
+      {
+        "provider": "Atlas Cloud",
+        "prices": {
+          "std": 0.0595,
+          "pro": 0.0952
+        },
+        "rows": [
+          "atlascloud/kling-v2.6-motion-control-std",
+          "atlascloud/kling-v2.6-motion-control-pro"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kuaishou/kling-v3",
+    "name": "kling-v3",
+    "creator": "Kuaishou",
+    "url": "https://videorouter.sh/video/kuaishou/kling-v3",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "720p",
+      "1080p",
+      "2160p",
+      "any"
+    ],
+    "providers": [
+      {
+        "provider": "kie.ai",
+        "prices": {
+          "720p": 0.07,
+          "1080p": 0.09,
+          "2160p": 0.335
+        },
+        "rows": [
+          "kie/kling-v3"
+        ]
+      },
+      {
+        "provider": "MachGen",
+        "prices": {
+          "720p": 0.068,
+          "1080p": 0.0901,
+          "2160p": 0.3366
+        },
+        "rows": [
+          "machgen/kling-v3"
+        ]
+      },
+      {
+        "provider": "Novita",
+        "prices": {
+          "720p": 0.084,
+          "1080p": 0.112,
+          "2160p": 0.42
+        },
+        "rows": [
+          "novita/kling-v3.0-std",
+          "novita/kling-v3.0-pro",
+          "novita/kling-v3.0-4k"
+        ]
+      },
+      {
+        "provider": "OpenRouter",
+        "prices": {
+          "720p": 0.14
+        },
+        "rows": [
+          "openrouter/kling-v3.0-pro",
+          "openrouter/kling-v3.0-std"
+        ]
+      },
+      {
+        "provider": "Pika",
+        "prices": {
+          "720p": 0.068,
+          "1080p": 0.09
+        },
+        "rows": [
+          "pika/kling-3.0"
+        ]
+      },
+      {
+        "provider": "SandBase",
+        "prices": {
+          "1080p": 0.0784,
+          "720p": 0.0588,
+          "2160p": 0.294
+        },
+        "rows": [
+          "sandbase/kling-v3-pro",
+          "sandbase/kling-v3-standard",
+          "sandbase/kling-v3-4k"
+        ]
+      },
+      {
+        "provider": "TOAPIS",
+        "prices": {
+          "720p": 0.06,
+          "1080p": 0.08
+        },
+        "rows": [
+          "toapis/kling-v3"
+        ]
+      },
+      {
+        "provider": "WaveSpeedAI",
+        "prices": {
+          "720p": 0.084,
+          "any": 0.084,
+          "1080p": 0.112,
+          "2160p": 0.42
+        },
+        "rows": [
+          "wavespeed/kling-v3.0-std",
+          "wavespeed/kling-v3.0-std-image",
+          "wavespeed/kling-v3.0-pro",
+          "wavespeed/kling-v3.0-pro-image",
+          "wavespeed/kling-v3.0-4k",
+          "wavespeed/kling-v3.0-4k-image"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kuaishou/kling-v3-omni-video",
+    "name": "kling-v3-omni-video",
+    "creator": "Kuaishou",
+    "url": "https://videorouter.sh/video/kuaishou/kling-v3-omni-video",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "2160p",
+      "pro",
+      "standard"
+    ],
+    "providers": [
+      {
+        "provider": "Replicate",
+        "prices": {
+          "standard": 0.168,
+          "pro": 0.224,
+          "2160p": 0.42
+        },
+        "rows": [
+          "replicate/kling-v3-omni-video"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kuaishou/kling-v3-turbo",
+    "name": "kling-v3-turbo",
+    "creator": "Kuaishou",
+    "url": "https://videorouter.sh/video/kuaishou/kling-v3-turbo",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "720p",
+      "1080p",
+      "any"
+    ],
+    "providers": [
+      {
+        "provider": "kie.ai",
+        "prices": {
+          "720p": 0.09,
+          "1080p": 0.1125
+        },
+        "rows": [
+          "kie/kling-v3-turbo"
+        ]
+      },
+      {
+        "provider": "Pika",
+        "prices": {
+          "720p": 0.09,
+          "1080p": 0.112
+        },
+        "rows": [
+          "pika/kling-3.0-turbo"
+        ]
+      },
+      {
+        "provider": "WaveSpeedAI",
+        "prices": {
+          "720p": 0.112,
+          "any": 0.112,
+          "1080p": 0.14
+        },
+        "rows": [
+          "wavespeed/kling-v3-turbo-std",
+          "wavespeed/kling-v3-turbo-std-image",
+          "wavespeed/kling-v3-turbo-pro",
+          "wavespeed/kling-v3-turbo-pro-image"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kuaishou/kling-v3-video",
+    "name": "kling-v3-video",
+    "creator": "Kuaishou",
+    "url": "https://videorouter.sh/video/kuaishou/kling-v3-video",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "2160p",
+      "pro",
+      "standard"
+    ],
+    "providers": [
+      {
+        "provider": "Replicate",
+        "prices": {
+          "standard": 0.168,
+          "pro": 0.224,
+          "2160p": 0.42
+        },
+        "rows": [
+          "replicate/kling-v3-video"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kuaishou/kling-v4.0",
+    "name": "kling-v4.0",
+    "creator": "Kuaishou",
+    "url": "https://videorouter.sh/video/kuaishou/kling-v4.0",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "720p",
+      "1080p",
+      "1080p-esr",
+      "2k",
+      "2160p",
+      "4k-esr"
+    ],
+    "providers": [
+      {
+        "provider": "Atlas Cloud",
+        "prices": {
+          "720p": 0.14287,
+          "1080p": 0.21385,
+          "1080p-esr": 0.182,
+          "2k": 0.21385,
+          "2160p": 0.21385,
+          "4k-esr": 0.364
+        },
+        "rows": [
+          "atlascloud/kling-v4.0"
+        ]
+      },
+      {
+        "provider": "Fal",
+        "prices": {
+          "720p": 0.157,
+          "1080p": 0.235
+        },
+        "rows": [
+          "fal/kling-v4.0"
+        ]
+      },
+      {
+        "provider": "MachGen",
+        "prices": {
+          "720p": 0.13345,
+          "1080p": 0.19975
+        },
+        "rows": [
+          "machgen/kling-v4.0"
+        ]
+      },
+      {
+        "provider": "Replicate",
+        "prices": {
+          "720p": 0.157,
+          "1080p": 0.235
+        },
+        "rows": [
+          "replicate/kling-v4.0"
+        ]
+      },
+      {
+        "provider": "Runware",
+        "prices": {
+          "720p": 0.157,
+          "1080p": 0.235
+        },
+        "rows": [
+          "runware/kling-v4.0"
+        ]
+      },
+      {
+        "provider": "SandBase",
+        "prices": {
+          "720p": 0.13345,
+          "1080p": 0.19975
+        },
+        "rows": [
+          "sandbase/kling-v4.0"
+        ]
+      },
+      {
+        "provider": "TOAPIS",
+        "prices": {
+          "720p": 0.157,
+          "1080p": 0.235
+        },
+        "rows": [
+          "toapis/kling-v4.0"
+        ]
+      },
+      {
+        "provider": "WaveSpeedAI",
+        "prices": {
+          "720p": 0.157,
+          "1080p": 0.235
+        },
+        "rows": [
+          "wavespeed/kling-v4.0",
+          "wavespeed/kling-v4.0-image"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kuaishou/kling-v4.0-edit",
+    "name": "kling-v4.0-edit",
+    "creator": "Kuaishou",
+    "url": "https://videorouter.sh/video/kuaishou/kling-v4.0-edit",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "720p",
+      "1080p"
+    ],
+    "providers": [
+      {
+        "provider": "Atlas Cloud",
+        "prices": {
+          "720p": 0.17108,
+          "1080p": 0.25662
+        },
+        "rows": [
+          "atlascloud/kling-v4.0-edit"
+        ]
+      },
+      {
+        "provider": "Fal",
+        "prices": {
+          "720p": 0.188,
+          "1080p": 0.282
+        },
+        "rows": [
+          "fal/kling-v4.0-edit"
+        ]
+      },
+      {
+        "provider": "Runware",
+        "prices": {
+          "720p": 0.188,
+          "1080p": 0.282
+        },
+        "rows": [
+          "runware/kling-v4.0-edit"
+        ]
+      },
+      {
+        "provider": "SandBase",
+        "prices": {
+          "720p": 0.1598,
+          "1080p": 0.2397
+        },
+        "rows": [
+          "sandbase/kling-v4.0-edit"
+        ]
+      },
+      {
+        "provider": "WaveSpeedAI",
+        "prices": {
+          "720p": 0.188,
+          "1080p": 0.282
+        },
+        "rows": [
+          "wavespeed/kling-v4.0-edit"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kuaishou/kling-v4.0-extend",
+    "name": "kling-v4.0-extend",
+    "creator": "Kuaishou",
+    "url": "https://videorouter.sh/video/kuaishou/kling-v4.0-extend",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "720p",
+      "1080p"
+    ],
+    "providers": [
+      {
+        "provider": "WaveSpeedAI",
+        "prices": {
+          "720p": 0.157,
+          "1080p": 0.235
+        },
+        "rows": [
+          "wavespeed/kling-v4.0-extend"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kuaishou/kling-v4.0-flash",
+    "name": "kling-v4.0-flash",
+    "creator": "Kuaishou",
+    "url": "https://videorouter.sh/video/kuaishou/kling-v4.0-flash",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "720p"
+    ],
+    "providers": [
+      {
+        "provider": "Atlas Cloud",
+        "prices": {
+          "720p": 0.085722
+        },
+        "rows": [
+          "atlascloud/kling-v4.0-flash"
+        ]
+      },
+      {
+        "provider": "Fal",
+        "prices": {
+          "720p": 0.094
+        },
+        "rows": [
+          "fal/kling-v4.0-flash"
+        ]
+      },
+      {
+        "provider": "Runware",
+        "prices": {
+          "720p": 0.094
+        },
+        "rows": [
+          "runware/kling-v4.0-flash"
+        ]
+      },
+      {
+        "provider": "WaveSpeedAI",
+        "prices": {
+          "720p": 0.094
+        },
+        "rows": [
+          "wavespeed/kling-v4.0-flash",
+          "wavespeed/kling-v4.0-flash-image"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kuaishou/kling-v4.0-flash-edit",
+    "name": "kling-v4.0-flash-edit",
+    "creator": "Kuaishou",
+    "url": "https://videorouter.sh/video/kuaishou/kling-v4.0-flash-edit",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "720p"
+    ],
+    "providers": [
+      {
+        "provider": "Atlas Cloud",
+        "prices": {
+          "720p": 0.114296
+        },
+        "rows": [
+          "atlascloud/kling-v4.0-flash-edit"
+        ]
+      },
+      {
+        "provider": "Runware",
+        "prices": {
+          "720p": 0.126
+        },
+        "rows": [
+          "runware/kling-v4.0-flash-edit"
+        ]
+      },
+      {
+        "provider": "WaveSpeedAI",
+        "prices": {
+          "720p": 0.126
+        },
+        "rows": [
+          "wavespeed/kling-v4.0-flash-edit"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kuaishou/kling-video-o1",
+    "name": "kling-video-o1",
+    "creator": "Kuaishou",
+    "url": "https://videorouter.sh/video/kuaishou/kling-video-o1",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "any"
+    ],
+    "providers": [
+      {
+        "provider": "OpenRouter",
+        "prices": {
+          "any": 0.112
+        },
+        "rows": [
+          "openrouter/kling-video-o1"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lightricks/ltx-2-fast",
+    "name": "ltx-2-fast",
+    "creator": "Lightricks",
+    "url": "https://videorouter.sh/video/lightricks/ltx-2-fast",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "any"
+    ],
+    "providers": [
+      {
+        "provider": "WaveSpeedAI",
+        "prices": {
+          "any": 0.04
+        },
+        "rows": [
+          "wavespeed/ltx-2-fast",
+          "wavespeed/ltx-2-fast-image"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lightricks/ltx-2-pro",
+    "name": "ltx-2-pro",
+    "creator": "Lightricks",
+    "url": "https://videorouter.sh/video/lightricks/ltx-2-pro",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "any"
+    ],
+    "providers": [
+      {
+        "provider": "WaveSpeedAI",
+        "prices": {
+          "any": 0.06
+        },
+        "rows": [
+          "wavespeed/ltx-2-pro",
+          "wavespeed/ltx-2-pro-image"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lightricks/ltx-2.3",
+    "name": "ltx-2.3",
+    "creator": "Lightricks",
+    "url": "https://videorouter.sh/video/lightricks/ltx-2.3",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "480p",
+      "720p",
+      "1080p"
+    ],
+    "providers": [
+      {
+        "provider": "WaveSpeedAI",
+        "prices": {
+          "480p": 0.02,
+          "720p": 0.03,
+          "1080p": 0.04
+        },
+        "rows": [
+          "wavespeed/ltx-2.3",
+          "wavespeed/ltx-2.3-image"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lightricks/ltx-2.3-fast",
+    "name": "ltx-2.3-fast",
+    "creator": "Lightricks",
+    "url": "https://videorouter.sh/video/lightricks/ltx-2.3-fast",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "1080p",
+      "1440p",
+      "2160p"
+    ],
+    "providers": [
+      {
+        "provider": "SandBase",
+        "prices": {
+          "1080p": 0.06,
+          "1440p": 0.12,
+          "2160p": 0.24
+        },
+        "rows": [
+          "sandbase/ltx-2.3-fast",
+          "sandbase/ltx-2.3-fast-image"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lightricks/ltx-2.3-pro",
+    "name": "ltx-2.3-pro",
+    "creator": "Lightricks",
+    "url": "https://videorouter.sh/video/lightricks/ltx-2.3-pro",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "1080p",
+      "1440p",
+      "2160p"
+    ],
+    "providers": [
+      {
+        "provider": "MachGen",
+        "prices": {
+          "1080p": 0.03,
+          "1440p": 0.06,
+          "2160p": 0.1
+        },
+        "rows": [
+          "machgen/ltx-2.3-pro"
+        ]
+      },
+      {
+        "provider": "SandBase",
+        "prices": {
+          "1080p": 0.08,
+          "1440p": 0.16,
+          "2160p": 0.32
+        },
+        "rows": [
+          "sandbase/ltx-2.3-pro",
+          "sandbase/ltx-2.3-pro-image"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lightricks/ltx-2.5",
+    "name": "ltx-2.5",
+    "creator": "Lightricks",
+    "url": "https://videorouter.sh/video/lightricks/ltx-2.5",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "720p",
+      "1080p",
+      "2k",
+      "2160p"
+    ],
+    "providers": [
+      {
+        "provider": "WaveSpeedAI",
+        "prices": {
+          "720p": 0.1,
+          "1080p": 0.14,
+          "2k": 0.21,
+          "2160p": 0.33
+        },
+        "rows": [
+          "wavespeed/ltx-2.5",
+          "wavespeed/ltx-2.5-image"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lightricks/ltx-2.5-fast",
+    "name": "ltx-2.5-fast",
+    "creator": "Lightricks",
+    "url": "https://videorouter.sh/video/lightricks/ltx-2.5-fast",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "720p",
+      "1080p",
+      "1440p",
+      "2160p"
+    ],
+    "providers": [
+      {
+        "provider": "Fal",
+        "prices": {
+          "720p": 0.09,
+          "1080p": 0.13,
+          "1440p": 0.19,
+          "2160p": 0.3
+        },
+        "rows": [
+          "fal/ltx-2.5-fast"
+        ]
+      },
+      {
+        "provider": "Lightricks",
+        "prices": {
+          "720p": 0.09,
+          "1080p": 0.13,
+          "1440p": 0.19,
+          "2160p": 0.3
+        },
+        "rows": [
+          "ltx-2.5-fast"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lightricks/ltx-2.5-pro",
+    "name": "ltx-2.5-pro",
+    "creator": "Lightricks",
+    "url": "https://videorouter.sh/video/lightricks/ltx-2.5-pro",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "720p",
+      "1080p"
+    ],
+    "providers": [
+      {
+        "provider": "Fal",
+        "prices": {
+          "720p": 0.12,
+          "1080p": 0.17
+        },
+        "rows": [
+          "fal/ltx-2.5-pro"
+        ]
+      },
+      {
+        "provider": "Lightricks",
+        "prices": {
+          "720p": 0.12,
+          "1080p": 0.17
+        },
+        "rows": [
+          "ltx-2.5-pro"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "luma/luma-ray-3.2",
+    "name": "luma-ray-3.2",
+    "creator": "Luma",
+    "url": "https://videorouter.sh/video/luma/luma-ray-3.2",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "540p",
+      "720p",
+      "1080p"
+    ],
+    "providers": [
+      {
+        "provider": "Luma",
+        "prices": {
+          "540p": 0.03,
+          "720p": 0.06,
+          "1080p": 0.24
+        },
+        "rows": [
+          "luma-ray-3.2"
+        ]
+      },
+      {
+        "provider": "SandBase",
+        "prices": {
+          "540p": 0.1,
+          "720p": 0.2,
+          "1080p": 0.4
+        },
+        "rows": [
+          "sandbase/luma-ray-3.2",
+          "sandbase/luma-ray-3.2-image"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "meigen-ai/infinitetalk",
+    "name": "infinitetalk",
+    "creator": "MeiGen-AI",
+    "url": "https://videorouter.sh/video/meigen-ai/infinitetalk",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "480p",
+      "720p"
+    ],
+    "providers": [
+      {
+        "provider": "Atlas Cloud",
+        "prices": {
+          "480p": 0.03,
+          "720p": 0.06
+        },
+        "rows": [
+          "atlascloud/infinitetalk"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "meigen-ai/infinitetalk-fast",
+    "name": "infinitetalk-fast",
+    "creator": "MeiGen-AI",
+    "url": "https://videorouter.sh/video/meigen-ai/infinitetalk-fast",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "any"
+    ],
+    "providers": [
+      {
+        "provider": "WaveSpeedAI",
+        "prices": {
+          "any": 0.015
+        },
+        "rows": [
+          "wavespeed/infinitetalk-fast"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "meituan/longcat-avatar-1.5",
+    "name": "longcat-avatar-1.5",
+    "creator": "Meituan",
+    "url": "https://videorouter.sh/video/meituan/longcat-avatar-1.5",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "480p",
+      "720p"
+    ],
+    "providers": [
+      {
+        "provider": "WaveSpeedAI",
+        "prices": {
+          "480p": 0.04,
+          "720p": 0.08
+        },
+        "rows": [
+          "wavespeed/longcat-avatar-1.5"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "minimax/h3",
+    "name": "minimax/h3",
+    "creator": "MiniMax",
+    "url": "https://videorouter.sh/video/minimax/h3",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "480p",
+      "540p",
+      "768p",
+      "1080p",
+      "1080p-esr",
+      "1440p",
+      "1440p-esr",
+      "2k",
+      "2160p",
+      "4k-esr"
+    ],
+    "providers": [
+      {
+        "provider": "Atlas Cloud",
+        "prices": {
+          "480p": 0.038,
+          "768p": 0.08,
+          "1080p": 0.08,
+          "1080p-esr": 0.105,
+          "1440p": 0.08,
+          "1440p-esr": 0.115,
+          "2k": 0.13,
+          "2160p": 0.08,
+          "4k-esr": 0.195
+        },
+        "rows": [
+          "atlascloud/h3"
+        ]
+      },
+      {
+        "provider": "Fal",
+        "prices": {
+          "480p": 0.05,
+          "768p": 0.06,
+          "2k": 0.13,
+          "2160p": 0.16
+        },
+        "rows": [
+          "fal/h3"
+        ]
+      },
+      {
+        "provider": "kie.ai",
+        "prices": {
+          "768p": 0.04,
+          "2k": 0.065
+        },
+        "rows": [
+          "kie/minimax-h3"
+        ]
+      },
+      {
+        "provider": "MachGen",
+        "prices": {
+          "480p": 0.044,
+          "768p": 0.05,
+          "1440p": 0.125
+        },
+        "rows": [
+          "machgen/minimax-h3"
+        ]
+      },
+      {
+        "provider": "MiniMax",
+        "prices": {
+          "768p": 0.08,
+          "2k": 0.13
+        },
+        "rows": [
+          "minimax-h3"
+        ]
+      },
+      {
+        "provider": "Novita",
+        "prices": {
+          "768p": 0.069,
+          "2k": 0.1104
+        },
+        "rows": [
+          "novita/minimax-h3"
+        ]
+      },
+      {
+        "provider": "OpenSand",
+        "prices": {
+          "768p": 0.05304,
+          "2k": 0.08619
+        },
+        "rows": [
+          "opensand/minimax-h3"
+        ]
+      },
+      {
+        "provider": "Pika",
+        "prices": {
+          "768p": 0.08,
+          "2k": 0.13
+        },
+        "rows": [
+          "pika/minimax-h3"
+        ]
+      },
+      {
+        "provider": "Replicate",
+        "prices": {
+          "768p": 0.08,
+          "2k": 0.13
+        },
+        "rows": [
+          "replicate/h3"
+        ]
+      },
+      {
+        "provider": "SandBase",
+        "prices": {
+          "768p": 0.048,
+          "2k": 0.104
+        },
+        "rows": [
+          "sandbase/h3"
+        ]
+      },
+      {
+        "provider": "TOAPIS",
+        "prices": {
+          "768p": 0.08,
+          "2k": 0.13
+        },
+        "rows": [
+          "toapis/minimax-h3",
+          "toapis/minimax-h3-overseas"
+        ]
+      },
+      {
+        "provider": "WaveSpeedAI",
+        "prices": {
+          "480p": 0.04,
+          "540p": 0.06,
+          "768p": 0.08,
+          "1080p": 0.16
+        },
+        "rows": [
+          "wavespeed/minimax-h3-native",
+          "wavespeed/minimax-h3-native-image"
+        ]
+      },
+      {
+        "provider": "WaveSpeedAI-resell",
+        "prices": {
+          "768p": 0.1,
+          "2k": 0.14
+        },
+        "rows": [
+          "wavespeed/h3"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "minimax/h3-fast",
+    "name": "minimax/h3-fast",
+    "creator": "MiniMax",
+    "url": "https://videorouter.sh/video/minimax/h3-fast",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "any"
+    ],
+    "providers": [
+      {
+        "provider": "Atlas Cloud",
+        "prices": {
+          "any": 0.0437
+        },
+        "rows": [
+          "atlascloud/h3-fast"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "minimax/h3-max",
+    "name": "h3-max",
+    "creator": "MiniMax",
+    "url": "https://videorouter.sh/video/minimax/h3-max",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "480p",
+      "768p",
+      "1440p",
+      "1440p-sr",
+      "2160p",
+      "4k-sr"
+    ],
+    "providers": [
+      {
+        "provider": "Atlas Cloud",
+        "prices": {
+          "480p": 0.0475,
+          "768p": 0.076,
+          "1440p": 0.076,
+          "1440p-sr": 0.1425,
+          "2160p": 0.076,
+          "4k-sr": 0.19475
+        },
+        "rows": [
+          "atlascloud/h3-max"
+        ]
+      },
+      {
+        "provider": "Fal",
+        "prices": {
+          "480p": 0.05,
+          "768p": 0.08
+        },
+        "rows": [
+          "fal/h3-max"
+        ]
+      },
+      {
+        "provider": "SandBase",
+        "prices": {
+          "480p": 0.04,
+          "768p": 0.064
+        },
+        "rows": [
+          "sandbase/h3-max"
+        ]
+      },
+      {
+        "provider": "TOAPIS",
+        "prices": {
+          "480p": 0.05,
+          "768p": 0.08
+        },
+        "rows": [
+          "toapis/minimax-h3-max"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "minimax/h3-max-camera-controls",
+    "name": "h3-max-camera-controls",
+    "creator": "MiniMax",
+    "url": "https://videorouter.sh/video/minimax/h3-max-camera-controls",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "480p",
+      "768p",
+      "1080p"
+    ],
+    "providers": [
+      {
+        "provider": "Fal",
+        "prices": {
+          "480p": 0.05,
+          "768p": 0.08,
+          "1080p": 0.16
+        },
+        "rows": [
+          "fal/h3-max-camera-controls"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "minimax/h3-max-lipsync",
+    "name": "h3-max-lipsync",
+    "creator": "MiniMax",
+    "url": "https://videorouter.sh/video/minimax/h3-max-lipsync",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "480p",
+      "768p",
+      "1080p",
+      "2k"
+    ],
+    "providers": [
+      {
+        "provider": "Fal",
+        "prices": {
+          "480p": 0.05,
+          "768p": 0.08,
+          "1080p": 0.16,
+          "2k": 0.32
+        },
+        "rows": [
+          "fal/h3-max-lipsync"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "minimax/h3-max-turbo",
+    "name": "minimax/h3-max-turbo",
+    "creator": "MiniMax",
+    "url": "https://videorouter.sh/video/minimax/h3-max-turbo",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "480p",
+      "768p",
+      "1080p"
+    ],
+    "providers": [
+      {
+        "provider": "Fal",
+        "prices": {
+          "480p": 0.025,
+          "768p": 0.04,
+          "1080p": 0.08
+        },
+        "rows": [
+          "fal/h3-max-turbo"
+        ]
+      },
+      {
+        "provider": "TOAPIS",
+        "prices": {
+          "480p": 0.025,
+          "768p": 0.04
+        },
+        "rows": [
+          "toapis/minimax-h3-max-turbo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "minimax/hailuo-2.3",
+    "name": "hailuo-2.3",
+    "creator": "MiniMax",
+    "url": "https://videorouter.sh/video/minimax/hailuo-2.3",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "any"
+    ],
+    "providers": [
+      {
+        "provider": "OpenRouter",
+        "prices": {
+          "any": 0.0817
+        },
+        "rows": [
+          "openrouter/hailuo-2.3"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "minimax/hailuo-2.3-pro",
+    "name": "minimax/hailuo-2.3-pro",
+    "creator": "MiniMax",
+    "url": "https://videorouter.sh/video/minimax/hailuo-2.3-pro",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "any"
+    ],
+    "providers": [
+      {
+        "provider": "WaveSpeedAI",
+        "prices": {
+          "any": 0.08166666666666667
+        },
+        "rows": [
+          "wavespeed/hailuo-2.3-pro",
+          "wavespeed/hailuo-2.3-pro-image"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "minimax/hailuo-2.3-standard",
+    "name": "hailuo-2.3-standard",
+    "creator": "MiniMax",
+    "url": "https://videorouter.sh/video/minimax/hailuo-2.3-standard",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "any"
+    ],
+    "providers": [
+      {
+        "provider": "WaveSpeedAI",
+        "prices": {
+          "any": 0.04666666666666667
+        },
+        "rows": [
+          "wavespeed/hailuo-2.3-standard",
+          "wavespeed/hailuo-2.3-standard-image"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "minimax/hailuo-3",
+    "name": "hailuo-3",
+    "creator": "MiniMax",
+    "url": "https://videorouter.sh/video/minimax/hailuo-3",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "any"
+    ],
+    "providers": [
+      {
+        "provider": "OpenRouter",
+        "prices": {
+          "any": 0.13
+        },
+        "rows": [
+          "openrouter/hailuo-3"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "minimax/hailuo-3-max",
+    "name": "hailuo-3-max",
+    "creator": "MiniMax",
+    "url": "https://videorouter.sh/video/minimax/hailuo-3-max",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "480p",
+      "768p"
+    ],
+    "providers": [
+      {
+        "provider": "OpenRouter",
+        "prices": {
+          "768p": 0.08,
+          "480p": 0.05
+        },
+        "rows": [
+          "openrouter/hailuo-3-max"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "minimax/minimax-h3-turbo",
+    "name": "minimax/h3-turbo",
+    "creator": "MiniMax",
+    "url": "https://videorouter.sh/video/minimax/minimax-h3-turbo",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "480p",
+      "768p"
+    ],
+    "providers": [
+      {
+        "provider": "MachGen",
+        "prices": {
+          "480p": 0.02,
+          "768p": 0.02
+        },
+        "rows": [
+          "machgen/minimax-h3-turbo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pika/pika-2.5",
+    "name": "pika-2.5",
+    "creator": "Pika",
+    "url": "https://videorouter.sh/video/pika/pika-2.5",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "720p",
+      "1080p"
+    ],
+    "providers": [
+      {
+        "provider": "Pika",
+        "prices": {
+          "720p": 0.04,
+          "1080p": 0.09
+        },
+        "rows": [
+          "pika/pika-2.5"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pika/pika-h3-flex",
+    "name": "pika-h3-flex",
+    "creator": "Pika",
+    "url": "https://videorouter.sh/video/pika/pika-h3-flex",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "480p",
+      "768p",
+      "1080p",
+      "2k",
+      "2160p"
+    ],
+    "providers": [
+      {
+        "provider": "Pika",
+        "prices": {
+          "480p": 0.01,
+          "768p": 0.02,
+          "1080p": 0.035,
+          "2k": 0.04,
+          "2160p": 0.08
+        },
+        "rows": [
+          "pika/pika-h3-flex"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pika/pikadditions",
+    "name": "pikadditions",
+    "creator": "Pika",
+    "url": "https://videorouter.sh/video/pika/pikadditions",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "any"
+    ],
+    "providers": [
+      {
+        "provider": "Pika",
+        "prices": {
+          "any": 0.006
+        },
+        "rows": [
+          "pika/pikadditions"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pixverse/pixverse-c1",
+    "name": "pixverse-c1",
+    "creator": "PixVerse",
+    "url": "https://videorouter.sh/video/pixverse/pixverse-c1",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "360p",
+      "540p",
+      "720p",
+      "1080p"
+    ],
+    "providers": [
+      {
+        "provider": "MachGen",
+        "prices": {
+          "360p": 0.02465,
+          "540p": 0.0323,
+          "720p": 0.0408,
+          "1080p": 0.0765
+        },
+        "rows": [
+          "machgen/pixverse-c1"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pixverse/pixverse-v6",
+    "name": "pixverse-v6",
+    "creator": "PixVerse",
+    "url": "https://videorouter.sh/video/pixverse/pixverse-v6",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "360p",
+      "540p",
+      "720p",
+      "1080p"
+    ],
+    "providers": [
+      {
+        "provider": "MachGen",
+        "prices": {
+          "360p": 0.0204,
+          "540p": 0.02805,
+          "720p": 0.03655,
+          "1080p": 0.07225
+        },
+        "rows": [
+          "machgen/pixverse-v6"
+        ]
+      },
+      {
+        "provider": "SandBase",
+        "prices": {
+          "360p": 0.025,
+          "540p": 0.035,
+          "720p": 0.045,
+          "1080p": 0.09
+        },
+        "rows": [
+          "sandbase/pixverse-v6"
+        ]
+      },
+      {
+        "provider": "WaveSpeedAI",
+        "prices": {
+          "360p": 0.025,
+          "540p": 0.035,
+          "720p": 0.045,
+          "1080p": 0.09
+        },
+        "rows": [
+          "wavespeed/pixverse-v6",
+          "wavespeed/pixverse-v6-image"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pixverse/pixverse-v6-extend",
+    "name": "pixverse-v6-extend",
+    "creator": "PixVerse",
+    "url": "https://videorouter.sh/video/pixverse/pixverse-v6-extend",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "360p",
+      "540p",
+      "720p",
+      "1080p"
+    ],
+    "providers": [
+      {
+        "provider": "Atlas Cloud",
+        "prices": {
+          "360p": 0.025,
+          "540p": 0.035,
+          "720p": 0.045,
+          "1080p": 0.09
+        },
+        "rows": [
+          "atlascloud/pixverse-v6-extend"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pixverse/pixverse-v6-max",
+    "name": "pixverse-v6-max",
+    "creator": "PixVerse",
+    "url": "https://videorouter.sh/video/pixverse/pixverse-v6-max",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "360p",
+      "540p",
+      "720p",
+      "1080p"
+    ],
+    "providers": [
+      {
+        "provider": "Atlas Cloud",
+        "prices": {
+          "360p": 0.024,
+          "540p": 0.036,
+          "720p": 0.044,
+          "1080p": 0.088
+        },
+        "rows": [
+          "atlascloud/pixverse-v6-max"
+        ]
+      },
+      {
+        "provider": "Replicate",
+        "prices": {
+          "360p": 0.06,
+          "540p": 0.09,
+          "720p": 0.11,
+          "1080p": 0.22
+        },
+        "rows": [
+          "replicate/pixverse-v6-max"
+        ]
+      },
+      {
+        "provider": "WaveSpeedAI",
+        "prices": {
+          "360p": 0.027,
+          "540p": 0.04,
+          "720p": 0.049,
+          "1080p": 0.098
+        },
+        "rows": [
+          "wavespeed/pixverse-v6-max",
+          "wavespeed/pixverse-v6-max-image"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pruna-ai/pruna-p-video-2-pro-avatar",
+    "name": "pruna-p-video-2-pro-avatar",
+    "creator": "Pruna AI",
+    "url": "https://videorouter.sh/video/pruna-ai/pruna-p-video-2-pro-avatar",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "480p",
+      "768p"
+    ],
+    "providers": [
+      {
+        "provider": "WaveSpeedAI",
+        "prices": {
+          "480p": 0.02,
+          "768p": 0.04
+        },
+        "rows": [
+          "wavespeed/pruna-p-video-2-pro-avatar"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prunaai/p-video",
+    "name": "p-video",
+    "creator": "PrunaAI",
+    "url": "https://videorouter.sh/video/prunaai/p-video",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "720p",
+      "1080p",
+      "any"
+    ],
+    "providers": [
+      {
+        "provider": "DeepInfra",
+        "prices": {
+          "any": 0.02
+        },
+        "rows": [
+          "PrunaAI/p-video"
+        ]
+      },
+      {
+        "provider": "Pruna",
+        "prices": {
+          "720p": 0.02,
+          "1080p": 0.04
+        },
+        "rows": [
+          "pruna/p-video"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prunaai/p-video-2",
+    "name": "p-video-2",
+    "creator": "PrunaAI",
+    "url": "https://videorouter.sh/video/prunaai/p-video-2",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "720p",
+      "1080p"
+    ],
+    "providers": [
+      {
+        "provider": "Pruna",
+        "prices": {
+          "720p": 0.025,
+          "1080p": 0.05
+        },
+        "rows": [
+          "pruna/p-video-2"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prunaai/p-video-2-draft",
+    "name": "p-video-2-draft",
+    "creator": "PrunaAI",
+    "url": "https://videorouter.sh/video/prunaai/p-video-2-draft",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "720p",
+      "1080p"
+    ],
+    "providers": [
+      {
+        "provider": "Pruna",
+        "prices": {
+          "720p": 0.015,
+          "1080p": 0.03
+        },
+        "rows": [
+          "pruna/p-video-2-draft"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prunaai/p-video-2-pro",
+    "name": "p-video-2-pro",
+    "creator": "PrunaAI",
+    "url": "https://videorouter.sh/video/prunaai/p-video-2-pro",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "480p",
+      "768p",
+      "1080p",
+      "2k",
+      "2160p"
+    ],
+    "providers": [
+      {
+        "provider": "Pruna",
+        "prices": {
+          "480p": 0.02,
+          "768p": 0.035,
+          "1080p": 0.055,
+          "2k": 0.075,
+          "2160p": 0.115
+        },
+        "rows": [
+          "pruna/p-video-2-pro"
+        ]
+      },
+      {
+        "provider": "Replicate",
+        "prices": {
+          "480p": 0.02,
+          "768p": 0.035,
+          "1080p": 0.055,
+          "2k": 0.075,
+          "2160p": 0.115
+        },
+        "rows": [
+          "replicate/p-video-2-pro"
+        ]
+      },
+      {
+        "provider": "Runware",
+        "prices": {
+          "480p": 0.02,
+          "768p": 0.035
+        },
+        "rows": [
+          "runware/p-video-2-pro"
+        ]
+      },
+      {
+        "provider": "Segmind",
+        "prices": {
+          "480p": 0.02,
+          "768p": 0.035
+        },
+        "rows": [
+          "segmind/p-video-2-pro"
+        ]
+      },
+      {
+        "provider": "WaveSpeedAI",
+        "prices": {
+          "480p": 0.02,
+          "768p": 0.035
+        },
+        "rows": [
+          "wavespeed/p-video-2-pro",
+          "wavespeed/p-video-2-pro-image"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prunaai/p-video-2-pro-cost",
+    "name": "p-video-2-pro-cost",
+    "creator": "PrunaAI",
+    "url": "https://videorouter.sh/video/prunaai/p-video-2-pro-cost",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "480p",
+      "768p",
+      "1080p",
+      "2k",
+      "2160p"
+    ],
+    "providers": [
+      {
+        "provider": "Pruna",
+        "prices": {
+          "480p": 0.01,
+          "768p": 0.025,
+          "1080p": 0.045,
+          "2k": 0.065,
+          "2160p": 0.105
+        },
+        "rows": [
+          "pruna/p-video-2-pro-cost"
+        ]
+      },
+      {
+        "provider": "Replicate",
+        "prices": {
+          "480p": 0.01,
+          "768p": 0.025,
+          "1080p": 0.045,
+          "2k": 0.065,
+          "2160p": 0.105
+        },
+        "rows": [
+          "replicate/p-video-2-pro-cost"
+        ]
+      },
+      {
+        "provider": "Runware",
+        "prices": {
+          "480p": 0.01,
+          "768p": 0.025
+        },
+        "rows": [
+          "runware/p-video-2-pro-cost"
+        ]
+      },
+      {
+        "provider": "Segmind",
+        "prices": {
+          "480p": 0.01,
+          "768p": 0.025
+        },
+        "rows": [
+          "segmind/p-video-2-pro-cost"
+        ]
+      },
+      {
+        "provider": "WaveSpeedAI",
+        "prices": {
+          "480p": 0.01,
+          "768p": 0.025
+        },
+        "rows": [
+          "wavespeed/p-video-2-pro-cost",
+          "wavespeed/p-video-2-pro-cost-image"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prunaai/p-video-2-pro-quality",
+    "name": "p-video-2-pro-quality",
+    "creator": "PrunaAI",
+    "url": "https://videorouter.sh/video/prunaai/p-video-2-pro-quality",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "480p",
+      "768p",
+      "1080p",
+      "2k",
+      "2160p"
+    ],
+    "providers": [
+      {
+        "provider": "Pruna",
+        "prices": {
+          "480p": 0.04,
+          "768p": 0.075,
+          "1080p": 0.095,
+          "2k": 0.115,
+          "2160p": 0.155
+        },
+        "rows": [
+          "pruna/p-video-2-pro-quality"
+        ]
+      },
+      {
+        "provider": "Replicate",
+        "prices": {
+          "480p": 0.04,
+          "768p": 0.075,
+          "1080p": 0.095,
+          "2k": 0.115,
+          "2160p": 0.155
+        },
+        "rows": [
+          "replicate/p-video-2-pro-quality"
+        ]
+      },
+      {
+        "provider": "Runware",
+        "prices": {
+          "480p": 0.04,
+          "768p": 0.075
+        },
+        "rows": [
+          "runware/p-video-2-pro-quality"
+        ]
+      },
+      {
+        "provider": "Segmind",
+        "prices": {
+          "480p": 0.04,
+          "768p": 0.075
+        },
+        "rows": [
+          "segmind/p-video-2-pro-quality"
+        ]
+      },
+      {
+        "provider": "WaveSpeedAI",
+        "prices": {
+          "480p": 0.04,
+          "768p": 0.075
+        },
+        "rows": [
+          "wavespeed/p-video-2-pro-quality",
+          "wavespeed/p-video-2-pro-quality-image"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prunaai/p-video-draft",
+    "name": "p-video-draft",
+    "creator": "PrunaAI",
+    "url": "https://videorouter.sh/video/prunaai/p-video-draft",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "720p",
+      "1080p"
+    ],
+    "providers": [
+      {
+        "provider": "Pruna",
+        "prices": {
+          "720p": 0.005,
+          "1080p": 0.01
+        },
+        "rows": [
+          "pruna/p-video-draft"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "runway/aleph-2",
+    "name": "aleph-2",
+    "creator": "Runway",
+    "url": "https://videorouter.sh/video/runway/aleph-2",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "any"
+    ],
+    "providers": [
+      {
+        "provider": "Runway",
+        "prices": {
+          "any": 0.28
+        },
+        "rows": [
+          "runway/aleph-2"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "runway/gen-4.5",
+    "name": "gen-4.5",
+    "creator": "Runway",
+    "url": "https://videorouter.sh/video/runway/gen-4.5",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "any"
+    ],
+    "providers": [
+      {
+        "provider": "OpenRouter",
+        "prices": {
+          "any": 0.12
+        },
+        "rows": [
+          "openrouter/gen-4.5"
+        ]
+      },
+      {
+        "provider": "Replicate",
+        "prices": {
+          "any": 0.12
+        },
+        "rows": [
+          "replicate/gen-4.5"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "segmind/hyperswap-video-faceswap",
+    "name": "hyperswap-video-faceswap",
+    "creator": "FaceFusion Labs",
+    "url": "https://videorouter.sh/video/segmind/hyperswap-video-faceswap",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "any"
+    ],
+    "providers": [
+      {
+        "provider": "FaceFusion Labs",
+        "prices": {
+          "any": 0.00675
+        },
+        "rows": [
+          "segmind/hyperswap-video-faceswap"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "shengshu/vidu-q3",
+    "name": "vidu-q3",
+    "creator": "Shengshu",
+    "url": "https://videorouter.sh/video/shengshu/vidu-q3",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "360p",
+      "540p",
+      "720p",
+      "1080p"
+    ],
+    "providers": [
+      {
+        "provider": "MachGen",
+        "prices": {
+          "540p": 0.042,
+          "720p": 0.071,
+          "1080p": 0.089
+        },
+        "rows": [
+          "machgen/vidu-q3"
+        ]
+      },
+      {
+        "provider": "Runware",
+        "prices": {
+          "360p": 0.0325,
+          "540p": 0.02925,
+          "720p": 0.065,
+          "1080p": 0.078
+        },
+        "rows": [
+          "runware/vidu-q3"
+        ]
+      },
+      {
+        "provider": "SandBase",
+        "prices": {
+          "360p": 0.07,
+          "540p": 0.07,
+          "720p": 0.154,
+          "1080p": 0.16
+        },
+        "rows": [
+          "sandbase/vidu-q3"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "shengshu/vidu-q3-pro",
+    "name": "vidu-q3-pro",
+    "creator": "Shengshu",
+    "url": "https://videorouter.sh/video/shengshu/vidu-q3-pro",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "540p",
+      "720p",
+      "1080p"
+    ],
+    "providers": [
+      {
+        "provider": "MachGen",
+        "prices": {
+          "540p": 0.053,
+          "720p": 0.118,
+          "1080p": 0.142
+        },
+        "rows": [
+          "machgen/vidu-q3-pro"
+        ]
+      },
+      {
+        "provider": "WaveSpeedAI",
+        "prices": {
+          "540p": 0.05,
+          "720p": 0.125,
+          "1080p": 0.15
+        },
+        "rows": [
+          "wavespeed/vidu-q3-pro",
+          "wavespeed/vidu-q3-pro-image"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "shengshu/vidu-q3-pro-fast",
+    "name": "vidu-q3-pro-fast",
+    "creator": "Shengshu",
+    "url": "https://videorouter.sh/video/shengshu/vidu-q3-pro-fast",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "720p",
+      "1080p"
+    ],
+    "providers": [
+      {
+        "provider": "MachGen",
+        "prices": {
+          "720p": 0.118,
+          "1080p": 0.148
+        },
+        "rows": [
+          "machgen/vidu-q3-pro-fast"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "shengshu/vidu-q3-turbo",
+    "name": "vidu-q3-turbo",
+    "creator": "Shengshu",
+    "url": "https://videorouter.sh/video/shengshu/vidu-q3-turbo",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "360p",
+      "540p",
+      "720p",
+      "1080p"
+    ],
+    "providers": [
+      {
+        "provider": "MachGen",
+        "prices": {
+          "540p": 0.02,
+          "720p": 0.045
+        },
+        "rows": [
+          "machgen/vidu-q3-turbo"
+        ]
+      },
+      {
+        "provider": "Runware",
+        "prices": {
+          "360p": 0.026,
+          "540p": 0.02275,
+          "720p": 0.03575,
+          "1080p": 0.04225
+        },
+        "rows": [
+          "runware/vidu-q3-turbo"
+        ]
+      },
+      {
+        "provider": "SandBase",
+        "prices": {
+          "360p": 0.04,
+          "540p": 0.04,
+          "720p": 0.077,
+          "1080p": 0.08
+        },
+        "rows": [
+          "sandbase/vidu-q3-turbo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "skywork-ai/skyreels-v3-talking-avatar",
+    "name": "skyreels-v3-talking-avatar",
+    "creator": "Skywork AI",
+    "url": "https://videorouter.sh/video/skywork-ai/skyreels-v3-talking-avatar",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "480p",
+      "720p"
+    ],
+    "providers": [
+      {
+        "provider": "WaveSpeedAI",
+        "prices": {
+          "480p": 0.03,
+          "720p": 0.06
+        },
+        "rows": [
+          "wavespeed/skyreels-v3-talking-avatar"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "skywork-ai/skyreels-v4",
+    "name": "skyreels-v4",
+    "creator": "Skywork AI",
+    "url": "https://videorouter.sh/video/skywork-ai/skyreels-v4",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "480p",
+      "720p",
+      "1080p"
+    ],
+    "providers": [
+      {
+        "provider": "WaveSpeedAI",
+        "prices": {
+          "480p": 0.11,
+          "720p": 0.14,
+          "1080p": 0.35
+        },
+        "rows": [
+          "wavespeed/skyreels-v4",
+          "wavespeed/skyreels-v4-image"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sync-labs/sync-lipsync",
+    "name": "sync-lipsync",
+    "creator": "Sync Labs",
+    "url": "https://videorouter.sh/video/sync-labs/sync-lipsync",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "any"
+    ],
+    "providers": [
+      {
+        "provider": "Fal",
+        "prices": {
+          "any": 0.011667
+        },
+        "rows": [
+          "fal/sync-lipsync"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sync-labs/sync-lipsync-react-1",
+    "name": "sync-lipsync-react-1",
+    "creator": "Sync Labs",
+    "url": "https://videorouter.sh/video/sync-labs/sync-lipsync-react-1",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "any"
+    ],
+    "providers": [
+      {
+        "provider": "Fal",
+        "prices": {
+          "any": 0.166667
+        },
+        "rows": [
+          "fal/sync-lipsync-react-1"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sync-labs/sync-lipsync-v2",
+    "name": "sync-lipsync-v2",
+    "creator": "Sync Labs",
+    "url": "https://videorouter.sh/video/sync-labs/sync-lipsync-v2",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "any"
+    ],
+    "providers": [
+      {
+        "provider": "Fal",
+        "prices": {
+          "any": 0.05
+        },
+        "rows": [
+          "fal/sync-lipsync-v2"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sync-labs/sync-lipsync-v2-pro",
+    "name": "sync-lipsync-v2-pro",
+    "creator": "Sync Labs",
+    "url": "https://videorouter.sh/video/sync-labs/sync-lipsync-v2-pro",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "any"
+    ],
+    "providers": [
+      {
+        "provider": "Fal",
+        "prices": {
+          "any": 0.083333
+        },
+        "rows": [
+          "fal/sync-lipsync-v2-pro"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sync-labs/sync-lipsync-v3",
+    "name": "sync-lipsync-v3",
+    "creator": "Sync Labs",
+    "url": "https://videorouter.sh/video/sync-labs/sync-lipsync-v3",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "any"
+    ],
+    "providers": [
+      {
+        "provider": "Fal",
+        "prices": {
+          "any": 0.133333
+        },
+        "rows": [
+          "fal/sync-lipsync-v3"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sync-labs/sync-lipsync-v3-image",
+    "name": "sync-lipsync-v3-image",
+    "creator": "Sync Labs",
+    "url": "https://videorouter.sh/video/sync-labs/sync-lipsync-v3-image",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "any"
+    ],
+    "providers": [
+      {
+        "provider": "Fal",
+        "prices": {
+          "any": 0.133333
+        },
+        "rows": [
+          "fal/sync-lipsync-v3-image"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tencent/tencent-video-upscaler",
+    "name": "tencent-video-upscaler",
+    "creator": "Tencent",
+    "url": "https://videorouter.sh/video/tencent/tencent-video-upscaler",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "variable",
+    "tiers": [],
+    "providers": [
+      {
+        "provider": "Atlas Cloud",
+        "prices": {},
+        "rows": [
+          "atlascloud/tencent-video-upscaler"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "topaz-labs/topaz-upscale-video-creative",
+    "name": "topaz-upscale-video-creative",
+    "creator": "Topaz Labs",
+    "url": "https://videorouter.sh/video/topaz-labs/topaz-upscale-video-creative",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "variable",
+    "tiers": [],
+    "providers": [
+      {
+        "provider": "Fal",
+        "prices": {},
+        "rows": [
+          "fal/topaz-upscale-video-creative"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "topaz-labs/topaz-upscale-video-generative",
+    "name": "topaz-upscale-video-generative",
+    "creator": "Topaz Labs",
+    "url": "https://videorouter.sh/video/topaz-labs/topaz-upscale-video-generative",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "variable",
+    "tiers": [],
+    "providers": [
+      {
+        "provider": "Fal",
+        "prices": {},
+        "rows": [
+          "fal/topaz-upscale-video-generative"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "topaz-labs/topaz-upscale-video-precision",
+    "name": "topaz-upscale-video-precision",
+    "creator": "Topaz Labs",
+    "url": "https://videorouter.sh/video/topaz-labs/topaz-upscale-video-precision",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "variable",
+    "tiers": [],
+    "providers": [
+      {
+        "provider": "Fal",
+        "prices": {},
+        "rows": [
+          "fal/topaz-upscale-video-precision"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "veed/veed-fabric-1.0",
+    "name": "veed-fabric-1.0",
+    "creator": "VEED",
+    "url": "https://videorouter.sh/video/veed/veed-fabric-1.0",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "480p",
+      "720p"
+    ],
+    "providers": [
+      {
+        "provider": "WaveSpeedAI",
+        "prices": {
+          "480p": 0.07,
+          "720p": 0.14
+        },
+        "rows": [
+          "wavespeed/veed-fabric-1.0"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "veed/veed-lipsync-v2",
+    "name": "veed-lipsync-v2",
+    "creator": "VEED",
+    "url": "https://videorouter.sh/video/veed/veed-lipsync-v2",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "any"
+    ],
+    "providers": [
+      {
+        "provider": "Fal",
+        "prices": {
+          "any": 0.07
+        },
+        "rows": [
+          "fal/veed-lipsync-v2"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vidu/s1-avatar-offline",
+    "name": "s1-avatar-offline",
+    "creator": "Shengshu",
+    "url": "https://videorouter.sh/video/vidu/s1-avatar-offline",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "any"
+    ],
+    "providers": [
+      {
+        "provider": "Shengshu",
+        "prices": {
+          "any": 0.005
+        },
+        "rows": [
+          "vidu/s1-avatar-offline"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "xai/grok-imagine-video",
+    "name": "grok-imagine-video",
+    "creator": "xAI",
+    "url": "https://videorouter.sh/video/xai/grok-imagine-video",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "480p",
+      "720p",
+      "1080p"
+    ],
+    "providers": [
+      {
+        "provider": "MachGen",
+        "prices": {
+          "480p": 0.05015,
+          "720p": 0.07055
+        },
+        "rows": [
+          "machgen/grok-imagine-video"
+        ]
+      },
+      {
+        "provider": "OpenRouter",
+        "prices": {
+          "480p": 0.05,
+          "720p": 0.07
+        },
+        "rows": [
+          "openrouter/grok-imagine-video"
+        ]
+      },
+      {
+        "provider": "Pika",
+        "prices": {
+          "480p": 0.053,
+          "720p": 0.074
+        },
+        "rows": [
+          "pika/grok-imagine-video"
+        ]
+      },
+      {
+        "provider": "WaveSpeedAI",
+        "prices": {
+          "480p": 0.05,
+          "720p": 0.05,
+          "1080p": 0.05
+        },
+        "rows": [
+          "wavespeed/grok-imagine-video",
+          "wavespeed/grok-imagine-video-image"
+        ]
+      },
+      {
+        "provider": "xAI",
+        "prices": {
+          "480p": 0.5,
+          "720p": 0.7
+        },
+        "rows": [
+          "grok-imagine-video"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "xai/grok-imagine-video-1.5",
+    "name": "grok-imagine-video-1.5",
+    "creator": "xAI",
+    "url": "https://videorouter.sh/video/xai/grok-imagine-video-1.5",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "480p",
+      "720p",
+      "1080p",
+      "any"
+    ],
+    "providers": [
+      {
+        "provider": "MachGen",
+        "prices": {
+          "480p": 0.08075,
+          "720p": 0.14025,
+          "1080p": 0.25075
+        },
+        "rows": [
+          "machgen/grok-imagine-video-1.5"
+        ]
+      },
+      {
+        "provider": "OpenRouter",
+        "prices": {
+          "480p": 0.08,
+          "720p": 0.14,
+          "1080p": 0.25
+        },
+        "rows": [
+          "openrouter/grok-imagine-video-1.5"
+        ]
+      },
+      {
+        "provider": "Replicate",
+        "prices": {
+          "any": 0.08
+        },
+        "rows": [
+          "replicate/grok-imagine-video-1.5"
+        ]
+      },
+      {
+        "provider": "WaveSpeedAI",
+        "prices": {
+          "480p": 0.08,
+          "720p": 0.14,
+          "1080p": 0.25
+        },
+        "rows": [
+          "wavespeed/grok-imagine-video-1.5",
+          "wavespeed/grok-imagine-video-1.5-image"
+        ]
+      },
+      {
+        "provider": "xAI",
+        "prices": {
+          "480p": 0.8,
+          "720p": 1.4,
+          "1080p": 2.5
+        },
+        "rows": [
+          "grok-imagine-video-1.5"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "xai/grok-imagine-video-1.5-lite",
+    "name": "grok-imagine-video-1.5-lite",
+    "creator": "xAI",
+    "url": "https://videorouter.sh/video/xai/grok-imagine-video-1.5-lite",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "480p",
+      "720p",
+      "1080p"
+    ],
+    "providers": [
+      {
+        "provider": "OpenRouter",
+        "prices": {
+          "480p": 0.02,
+          "720p": 0.03,
+          "1080p": 0.14
+        },
+        "rows": [
+          "openrouter/grok-imagine-video-1.5-lite"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "xai/grok-imagine-video-edit",
+    "name": "grok-imagine-video-edit",
+    "creator": "xAI",
+    "url": "https://videorouter.sh/video/xai/grok-imagine-video-edit",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "any"
+    ],
+    "providers": [
+      {
+        "provider": "Atlas Cloud",
+        "prices": {
+          "any": 0.08
+        },
+        "rows": [
+          "atlascloud/grok-imagine-video-edit"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "xai/grok-imagine-video-extend",
+    "name": "grok-imagine-video-extend",
+    "creator": "xAI",
+    "url": "https://videorouter.sh/video/xai/grok-imagine-video-extend",
+    "unit": "usd_per_second",
+    "platform_fee_rate": 0.025,
+    "billing": "per_second",
+    "tiers": [
+      "any"
+    ],
+    "providers": [
+      {
+        "provider": "Atlas Cloud",
+        "prices": {
+          "any": 0.08
+        },
+        "rows": [
+          "atlascloud/grok-imagine-video-extend"
+        ]
+      }
+    ]
+  }
+]
